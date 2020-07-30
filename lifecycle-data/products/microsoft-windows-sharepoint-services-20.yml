@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Υπηρεσίες Microsoft Windows SharePoint Services 2.0
+  description: Οι υπηρεσίες Microsoft Windows SharePoint Services 2.0 ακολουθούν την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 3293736b7dd1f77d735150f0c004daf5840d0be0
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "818495"
+name: Υπηρεσίες Microsoft Windows SharePoint Services 2.0
+summary: "Οι υπηρεσίες Microsoft Windows SharePoint Services 2.0 ακολουθούν την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.\n\n\n> [!IMPORTANT]\n> Η υποστήριξη τελείωσε. \n"
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 06/03/2003
+  end: 01/13/2009
+  extendedEnd: 01/14/2014
+releases:
+- version: Original Release
+  startDate: 06/03/2003
+  endDate: 01/14/2014
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Τεκμηρίωση προγραμματιστή των υπηρεσιών Windows SharePoint Services 2.0](/previous-versions/office/developer/sharepoint2003/dd587302(v=office.11))\n* [Τεκμηρίωση προϊόντος των υπηρεσιών Windows SharePoint Services 2.0](/previous-versions/tn-archive/cc288501(v=office.12))"
