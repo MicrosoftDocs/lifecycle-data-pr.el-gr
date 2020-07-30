@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Internet Security and Acceleration Server 2006
+  description: Ο Microsoft Internet Security and Acceleration Server 2006 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 8e1ef794863d0b9c2834ec86970bd443ad462944
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "817994"
+name: Microsoft Internet Security and Acceleration Server 2006
+summary: "Ο Microsoft Internet Security and Acceleration Server 2006 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.\n\nΑυτό ισχύει για τις ακόλουθες εκδόσεις: Enterprise, Standard\n\n> [!IMPORTANT]\n> Η υποστήριξη για αυτό το προϊόν έχει λήξει. \n"
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 10/17/2006
+  end: 01/10/2012
+  extendedEnd: 01/10/2017
+releases:
+- version: Service Pack 1
+  startDate: 07/02/2008
+  endDate: 01/10/2017
+- version: Original Release
+  startDate: 10/17/2006
+  endDate: 07/14/2009
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση\n* Πρότυπο"
