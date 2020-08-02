@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Παράσταση 3
+  description: Η παράσταση 3 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9544cb1ac337a36e0e9d12b4afde25d392bdd767
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "818006"
+name: Παράσταση 3
+summary: >+
+  Η παράσταση 3 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+
+
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Σχεδιασμός, Κωδικοποιητής, Στούντιο, Web
+
+products:
+- expression
+policyType: fixed
+supportDates:
+  start: 10/19/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Original Release
+  startDate: 10/19/2009
+  endDate: 01/14/2020
+content: "\n\n> [!NOTE]\n> Η ημερομηνία έναρξης για το σχέδιο έκφρασης 3 είναι 19 Νοεμβρίου 2009. \n\n## <a name=\"editions\"></a>Εκδόσεις \n* Σχεδιασμό\n* Κωδικοποιητή\n* Στούντιο\n* Web"
