@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Εικονική διαμόρφωση εφαρμογής SoftGrid
+  description: Η εικονική διαμόρφωση εφαρμογών SoftGrid ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 17b8078138b718a634c2561ac4b1e73f3966ce24
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "817942"
+name: Εικονική διαμόρφωση εφαρμογής SoftGrid
+summary: >
+  Η εικονική διαμόρφωση εφαρμογών SoftGrid ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+
+
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: 4.1 για επιτραπέζιους υπολογιστές, 4.2 για επιτραπέζιους υπολογιστές, για τις υπηρεσίες Terminal Services 4.1
+
+
+  > [!IMPORTANT]
+
+  > Η υποστήριξη τελείωσε. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/25/2007
+  end: 07/10/2012
+  extendedEnd: 07/11/2017
+releases:
+- version: Original Release
+  startDate: 05/25/2007
+  endDate: 07/11/2017
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* 4.1 για επιτραπέζιους υπολογιστές\n* 4.2 για επιτραπέζιους υπολογιστές\n* για τις υπηρεσίες τερματικού 4.1"
