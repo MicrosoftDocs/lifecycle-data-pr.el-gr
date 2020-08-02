@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2010
+  description: Το Visual Studio 2010 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 30c112ab23bba45aaec60660ab85c362bcebf030
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "818090"
+name: Visual Studio 2010
+summary: >+
+  Το Visual Studio 2010 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+
+
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Παράγοντες, Όλοι, ASP .NET MVC 4, Express, F# 2.0 Χρόνος εκτέλεσης, Διαχείριση εργαστηρίου, Εργαλεία απόδοσης, Premium, Επαγγελματίας, Απομακρυσμένο πρόγραμμα εντοπισμού σφαλμάτων, SDK, Shell (Integrated), Κέλυφος (Απομονωμένος), Παράγοντες ομάδας, Εξερεύνηση ομάδας, Επαγγελματίας δοκιμής, Εργαλεία για το Office System 4.0 Runtime, Ultimate, VB Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Οπτικοποίηση &
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 06/29/2010
+  end: 07/14/2015
+  extendedEnd: 07/14/2020
+releases:
+- version: Service Pack 1
+  startDate: 03/08/2011
+  endDate: 07/14/2020
+- version: Original Release
+  startDate: 06/29/2010
+  endDate: 04/10/2012
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Παράγοντες\n* Όλα\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Χρόνος εκτέλεσης\n* Διαχείριση Εργαστηρίου\n* Εργαλεία επιδόσεων\n* Premium\n* Επαγγελματική\n* Απομακρυσμένο πρόγραμμα εντοπισμού σφαλμάτων\n* Sdk\n* Κέλυφος (Ενσωματωμένο)\n* Κέλυφος (Απομονωμένο)\n* Πράκτορες ομάδας\n* Εξερεύνηση ομάδας\n* Δοκιμή Επαγγελματική\n* Εργαλεία για το χρόνο εκτέλεσης του συστήματος του Office 4.0\n* Απόλυτη\n* VB Εξπρές\n* Οπτική έκφραση C#\n* Οπτική C++ Εξπρές\n* Οπτικός προγραμματιστής Ιστού Εξπρές\n* & μοντελοποίησης απεικόνισης SDK"

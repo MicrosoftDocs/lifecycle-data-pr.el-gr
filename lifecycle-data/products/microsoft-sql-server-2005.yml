@@ -1,0 +1,46 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft SQL Server 2005
+  description: Ο Microsoft SQL Server 2005 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cbfadc2995b179c7ee286f02fb5e78cc01d7db8f
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "818117"
+name: Microsoft SQL Server 2005
+summary: >
+  Ο Microsoft SQL Server 2005 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+
+
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Συμπαγής, Προγραμματιστής, Ενσωματωμένος, Επιχείρηση, Επιχείρηση για συστήματα που βασίζονται σε Itanium, Enterprise X64, Express, Express με προηγμένες υπηρεσίες, Πρότυπο, Πρότυπο για συστήματα που βασίζονται σε Itanium, Πρότυπο X64, Ομάδα εργασίας
+
+
+  > [!IMPORTANT]
+
+  > Η υποστήριξη για αυτό το προϊόν έχει λήξει. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω.
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 01/14/2006
+  end: 04/12/2011
+  extendedEnd: 04/12/2016
+releases:
+- version: Service Pack 4
+  startDate: 12/13/2010
+  endDate: 04/12/2016
+- version: Service Pack 3
+  startDate: 12/15/2008
+  endDate: 01/10/2012
+- version: Service Pack 2
+  startDate: 02/19/2007
+  endDate: 01/12/2010
+- version: Service Pack 1
+  startDate: 04/18/2006
+  endDate: 04/08/2008
+- version: Original Release
+  startDate: 01/14/2006
+  endDate: 07/10/2007
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Πολιτική service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Η συμπαγής έκδοση του Microsoft SQL Server 2005 κυκλοφόρησε στις 19 Φεβρουαρίου 2007.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Συμπαγή\n* Προγραμματιστή\n* Ενσωματωμένο\n* Επιχείρηση\n* Επιχείρηση για συστήματα που βασίζονται σε Ιτανίου\n* Για μεγάλες επιχειρήσεις X64\n* Express\n* Εξπρές με προηγμένες υπηρεσίες\n* Πρότυπο\n* Πρότυπο για συστήματα που βασίζονται σε Ιτανίου\n* Πρότυπο X64\n* Ομάδας εργασίας"
