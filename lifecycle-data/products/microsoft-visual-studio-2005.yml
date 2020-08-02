@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Visual Studio 2005
+  description: Το Microsoft Visual Studio 2005 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 576095a27901552e7a275b0a349ed5e1edee8099
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "817957"
+name: Microsoft Visual Studio 2005
+summary: >+
+  Το Microsoft Visual Studio 2005 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+
+
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Επαγγελματική, Τυπική, Τυπική έκδοση ακαδημαϊκή άδεια, Έκδοση ομάδας για επαγγελματίες βάσεων δεδομένων, Έκδοση ομάδας για αρχιτέκτονες λογισμικού, Έκδοση ομάδας για προγραμματιστές λογισμικού, Έκδοση ομάδας για δοκιμαστές λογισμικού, Σουίτα ομάδας, Παράγοντας φόρτωσης δοκιμής ομάδας, Εργαλεία για το Σύστημα Του Microsoft Office, VB Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/27/2006
+  end: 04/12/2011
+  extendedEnd: 04/12/2016
+releases:
+- version: Service Pack 1
+  startDate: 12/14/2006
+  endDate: 04/12/2016
+- version: Original Release
+  startDate: 01/27/2006
+  endDate: 01/08/2008
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες υποστήριξης Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n* [Οδηγίες για τη μετανάστευση](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Πληροφορίες προϊόντος του Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Η υποστήριξη για αυτό το προϊόν έχει λήξει. Δείτε παρακάτω για οδηγίες μετεγκατάστασης.\n> [!NOTE]\n> Microsoft Visual Studio 2005 Team Edition για επαγγελματίες βάσεων δεδομένων κυκλοφόρησε στις 2 Μαρτίου 2007.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επαγγελματική\n* Πρότυπο\n* Ακαδημαϊκή άδεια τυπικής έκδοσης\n* Έκδοση ομάδας για επαγγελματίες βάσεων δεδομένων\n* Έκδοση ομάδας για αρχιτέκτονες λογισμικού\n* Έκδοση ομάδας για προγραμματιστές λογισμικού\n* Έκδοση ομάδας για δοκιμαστές λογισμικού\n* Σουίτα ομάδας\n* Παράγοντας φόρτωσης δοκιμής ομάδας\n* Εργαλεία για το σύστημα του Microsoft Office\n* VB Εξπρές\n* Οπτική έκφραση C#\n* Οπτική C++ Εξπρές\n* Οπτική έκφραση J#\n* Οπτικός προγραμματιστής Ιστού Εξπρές"

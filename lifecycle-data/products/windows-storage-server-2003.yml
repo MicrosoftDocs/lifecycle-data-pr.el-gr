@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Storage Server 2003
+  description: Ο Windows Storage Server 2003 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 065ac07411e0e7178b8eba5b5c8f11989dc654aa
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "817910"
+name: Windows Storage Server 2003
+summary: >
+  Ο Windows Storage Server 2003 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+
+
+
+  > [!IMPORTANT]
+
+  > Η υποστήριξη για αυτό το προϊόν έχει λήξει. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/05/2003
+  end: 10/11/2011
+  extendedEnd: 10/09/2016
+releases:
+- version: Original Release
+  startDate: 05/05/2003
+  endDate: 04/10/2007
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Επισκόπηση των αναβαθμίσεων του Windows Server](/windows-server/upgrade/upgrade-overview)\n* [Πρόσθετες πληροφορίες αναβάθμισης](/windows-server/get-started/installation-and-upgrade)"

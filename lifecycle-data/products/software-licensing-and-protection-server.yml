@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Διακομιστής παραχώρησης αδειών χρήσης και προστασίας λογισμικού
+  description: Ο διακομιστής παραχώρησης αδειών χρήσης και προστασίας λογισμικού ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9a42af57f9f0bfd7232e67126c6d9923413e06f6
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "817958"
+name: Διακομιστής παραχώρησης αδειών χρήσης και προστασίας λογισμικού
+summary: >
+  Ο διακομιστής παραχώρησης αδειών χρήσης και προστασίας λογισμικού ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+
+
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Enterprise, Standard
+
+
+  > [!IMPORTANT]
+
+  > Λόγω της εκχώρησης του διακομιστή παραχώρησης αδειών χρήσης λογισμικού και προστασίας (SLPS), η Microsoft υποστήριξε το SLPS μέχρι τις 24 Σεπτεμβρίου 2009.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/30/2007
+  end: 09/24/2009
+  extendedEnd: 09/24/2009
+releases:
+- version: Original Release
+  startDate: 12/30/2007
+  endDate: 01/09/2018
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Διακομιστής παραχώρησης αδειών χρήσης και προστασίας λογισμικού (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση\n* Πρότυπο"
