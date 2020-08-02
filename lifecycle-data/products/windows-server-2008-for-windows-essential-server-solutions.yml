@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2008 για βασικές λύσεις διακομιστή των Windows
+  description: Ο Windows Server 2008 για λύσεις διακομιστή Windows Essential ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a0f008702c636963333da20217a32768124fe020
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "818426"
+name: Windows Server 2008 για βασικές λύσεις διακομιστή των Windows
+summary: >
+  Ο Windows Server 2008 για λύσεις διακομιστή Windows Essential ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+
+
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Τυπική, χωρίς Hyper-V
+
+
+  > [!IMPORTANT]
+
+  > Η υποστήριξη για αυτό το προϊόν έχει λήξει. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 02/18/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 2
+  startDate: 04/29/2009
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 02/18/2009
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](https://aka.ms/AA1ovn4)\n* [Πληροφορίες προϊόντος](https://cloudblogs.microsoft.com/windowsserver/2008/02/20/introducing-windows-essential-server-solutions/)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Πρότυπο\n* χωρίς Υπερ-V"
