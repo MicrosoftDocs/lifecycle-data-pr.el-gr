@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Επιλογή εγκατάστασης του Nano Server του Windows Server 2016
+  description: Η επιλογή εγκατάστασης του Windows Server 2016 για νανομακρολογείο ακολουθεί τη σύγχρονη πολιτική κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 6c8189a0fe39fe3ad0b79147e0b2ddbd67e3f799
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "854649"
+name: Επιλογή εγκατάστασης του Nano Server του Windows Server 2016
+summary: >+
+  Η επιλογή εγκατάστασης του Windows Server 2016 για νανομακρολογείο ακολουθεί τη [σύγχρονη](/lifecycle/policies/modern) πολιτική κύκλου ζωής.
+
+
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Κέντρο δεδομένων,
+
+products:
+- windows
+policyType: modern-on-prem
+supportDates:
+  start: 10/15/2016
+  end: 10/09/2018
+releases:
+- version: Original Release
+  startDate: 10/15/2016
+  endDate: 10/09/2018
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες συντήρησης](/windows-server/get-started/nano-in-semi-annual-channel)\n* [Συνήθεις ερωτήσεις για τον κύκλο ζωής - Προϊόντα των Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Datacenter\n* Πρότυπο"

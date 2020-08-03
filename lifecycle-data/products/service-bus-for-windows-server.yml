@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Δίαυλος υπηρεσίας για windows server
+  description: Ο δίαυλος υπηρεσίας για τον Windows Server ακολουθεί την πολιτική κύκλου ζωής στοιχείων.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 1641a04266351d29d8b152c5bc87f62207344b65
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "854399"
+name: Δίαυλος υπηρεσίας για windows server
+summary: >
+  Ο δίαυλος υπηρεσίας για τον Windows Server ακολουθεί την πολιτική κύκλου ζωής [στοιχείων.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+
+
+
+  > [!IMPORTANT]
+
+  > Όταν ο δίαυλος υπηρεσίας 1.1 είναι στοιχείο του SharePoint Server 2016 ή του SharePoint Server 2013, θα υποστηρίζεται σύμφωνα με τις ημερομηνίες λήξης της υποστήριξης της αντίστοιχης έκδοσης του SharePoint Server.
+products:
+- windows
+policyType: component
+supportDates:
+  start: 10/18/2012
+  end: 01/10/2023
+releases:
+- version: Original Release
+  startDate: 10/18/2012
+  endDate: 01/10/2023
+content: ''

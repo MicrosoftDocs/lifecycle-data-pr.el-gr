@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Διαχείριση προστασίας δεδομένων του Κέντρου συστήματος της Microsoft 2012 R2
+  description: Η Διαχείριση προστασίας δεδομένων του Κέντρου συστήματος της Microsoft 2012 R2 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: ed0d5ccd32c082afb84d8310d7497d11ffdfe0b0
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "854498"
+name: Διαχείριση προστασίας δεδομένων του Κέντρου συστήματος της Microsoft 2012 R2
+summary: >+
+  Η Διαχείριση προστασίας δεδομένων του Κέντρου συστήματος της Microsoft 2012 R2 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 01/16/2014
+  end: 07/11/2017
+  extendedEnd: 07/12/2022
+releases:
+- version: Original Release
+  startDate: 01/16/2014
+  endDate: 07/12/2022
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Τεκμηρίωση κέντρου συστήματος](/system-center/#pivot=components&panel=components-all)\n* [Πόροι κέντρου συστήματος](https://www.microsoft.com/system-center/resources)"

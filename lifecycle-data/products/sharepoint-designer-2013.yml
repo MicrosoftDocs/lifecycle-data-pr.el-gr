@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Σχεδίαση του SharePoint 2013
+  description: Το SharePoint Designer 2013 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: ae676f0f1f60e3b034244349d273a177cf65662c
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "854495"
+name: Σχεδίαση του SharePoint 2013
+summary: >+
+  Το SharePoint Designer 2013 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+
+
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Σχεδίαση
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/09/2013
+  end: 07/13/2021
+  extendedEnd: 07/14/2026
+releases:
+- version: Original Release
+  startDate: 01/09/2013
+  endDate: 04/14/2015
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Λεπτομέρειες υποστήριξης](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> Η υποστήριξη για το Microsoft SharePoint Designer 2013 επεκτείνεται όπως φαίνεται, προκειμένου να διασφαλιστεί η συμβατότητα με τον SharePoint Server 2016.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Σχεδιαστής"

@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Φωτισμός φωτός του Visual Studio 2011
+  description: Το Visual Studio LightSwitch 2011 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 12d219b05d3e82323d3d5d7b6dae25393afc1afb
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "854440"
+name: Φωτισμός φωτός του Visual Studio 2011
+summary: >+
+  Το Visual Studio LightSwitch 2011 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 10/30/2011
+  end: 01/10/2017
+  extendedEnd: 01/11/2022
+releases:
+- version: Original Release
+  startDate: 10/30/2011
+  endDate: 01/11/2022
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Ελαφρύς ς -πίσω](/visualstudio/productinfo/visual-studio-lightswitch-support-announcement)\n* [Εφαρμογές ενέργειας](https://powerapps.microsoft.com/)\n\n> [!NOTE]\n> Το Visual Studio 2015 είναι η τελευταία έκδοση του Visual Studio που περιλαμβάνει τα εργαλεία LightSwitch. Συνιστούμε να χρησιμοποιείτε το Microsoft PowerApps για οποιαδήποτε νέα ανάπτυξη εφαρμογών."

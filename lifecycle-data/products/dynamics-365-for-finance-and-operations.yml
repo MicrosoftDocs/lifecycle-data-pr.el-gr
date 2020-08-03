@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics 365 για χρηματοδότηση και λειτουργίες
+  description: Το Dynamics 365 for Finance and Operations ακολουθεί τη σύγχρονη πολιτική κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 04432837adaeae9ae5ec6f7cfad703875e45b772
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "854464"
+name: Dynamics 365 για χρηματοδότηση και λειτουργίες
+summary: >+
+  Το Dynamics 365 for Finance and Operations ακολουθεί τη [σύγχρονη](/lifecycle/policies/modern) πολιτική κύκλου ζωής.
+
+
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Enterprise
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 02/19/2016
+releases:
+- version: Original Release
+  startDate: 02/19/2016
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Χάρτης του Microsoft Dynamics 365](https://roadmap.dynamics.com/)\n* [Πληροφορίες συντήρησης](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)\n* [Απαιτήσεις συστήματος](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση"
