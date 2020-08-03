@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office Communicator 2007 R2
+  description: Το Microsoft Office Communicator 2007 R2 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 96ef1f9786fe6c244254432e1f515155af5b267e
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "818920"
+name: Microsoft Office Communicator 2007 R2
+summary: "Το Microsoft Office Communicator 2007 R2 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.\n\nΑυτό ισχύει για τις ακόλουθες εκδόσεις: Όλες οι ισχύουσες, Τηλέφωνο\n\n> [!IMPORTANT]\n> Η υποστήριξη για αυτό το προϊόν έχει λήξει. Ανατρέξτε στην καθοδήγηση μετεγκατάστασης. \n"
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 03/19/2009
+  end: 01/08/2013
+  extendedEnd: 01/09/2018
+releases:
+- version: Original Release
+  startDate: 03/19/2009
+  endDate: 01/09/2018
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Όλες οι ισχύουσες\n* Τηλέφωνο"

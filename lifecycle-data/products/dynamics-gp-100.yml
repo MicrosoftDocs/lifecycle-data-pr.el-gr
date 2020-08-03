@@ -1,0 +1,43 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Δυναμικό GP 10.0
+  description: Το Dynamics GP 10.0 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 2cf687c6b390751074f0c89bbbd354f19257a5fe
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "818702"
+name: Δυναμικό GP 10.0
+summary: >+
+  Το Dynamics GP 10.0 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 08/04/2007
+  end: 10/09/2012
+  extendedEnd: 10/10/2017
+releases:
+- version: Service Pack 5
+  startDate: 07/31/2010
+  endDate: 10/10/2017
+- version: Service Pack 4
+  startDate: 08/14/2009
+  endDate: 10/09/2012
+- version: Service Pack 3
+  startDate: 10/15/2008
+  endDate: 10/11/2011
+- version: Service Pack 2
+  startDate: 05/28/2008
+  endDate: 01/11/2011
+- version: Service Pack 1
+  startDate: 11/16/2007
+  endDate: 10/12/2010
+- version: Original Release
+  startDate: 08/04/2007
+  endDate: 01/12/2010
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική service pack](/lifecycle/policies/fixed#service-packs)\n* [Οδηγίες για τη μετανάστευση](/dynamics-gp/upgrade/introduction)\n\n> [!NOTE]\n> Αυτό το προϊόν είναι εκτός υποστήριξης, δείτε παρακάτω για πληροφορίες μετεγκατάστασης."
