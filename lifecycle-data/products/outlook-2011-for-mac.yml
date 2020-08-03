@@ -1,0 +1,24 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Outlook 2011 για Mac
+  description: Το Outlook 2011 για Mac ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 61a62fb9ad78ceb10de85cd875d2435072b9c770
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "854251"
+name: Outlook 2011 για Mac
+summary: "Το Outlook 2011 για Mac ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.\n\n\n> [!IMPORTANT]\n> Η υποστήριξη για αυτό το προϊόν έχει λήξει. \n"
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/09/2010
+  end: 10/10/2017
+releases:
+- version: Original Release
+  startDate: 12/09/2010
+  endDate: 10/10/2017
+content: "\n\n> [!NOTE]\n> Η βασική υποστήριξη για το Microsoft Office για Mac 2011 επεκτάθηκε όπως φαίνεται, προκειμένου να παρέχεται σε όλους τους πελάτες η τυπική λωρίδα χρόνου μετάβασης κύκλου ζωής"
