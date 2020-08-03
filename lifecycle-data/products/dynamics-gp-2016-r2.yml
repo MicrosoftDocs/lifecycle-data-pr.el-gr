@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics GP 2016 R2
+  description: Το Dynamics GP 2016 R2 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f1a3cb25fec8f760a48d82816a3afc7a2414e610
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "854543"
+name: Dynamics GP 2016 R2
+summary: >+
+  Το Dynamics GP 2016 R2 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 12/01/2016
+  end: 07/13/2021
+  extendedEnd: 07/14/2026
+releases:
+- version: Original Release
+  startDate: 12/01/2016
+  endDate: 07/14/2026
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πρόσθετες πληροφορίες και οδηγίες για τη μετανάστευση](https://community.dynamics.com/gp/b/dynamicsgp/posts/microsoft-dynamics-gp-2016-r2-and-year-end-update-lifecycle-and-upgrade-services)\n* [Πληροφορίες προϊόντος](/dynamics-gp/)"

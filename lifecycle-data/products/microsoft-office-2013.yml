@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office 2013
+  description: Το Microsoft Office 2013 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 57eeaf9939d11f53914fef0e92795621dfb9db44
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "854637"
+name: Microsoft Office 2013
+summary: >+
+  Το Microsoft Office 2013 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+
+
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Οικία και επιχειρήσεις, Οικία και Σπουδαστές, Επαγγελματίες, Επαγγελματίες Συν, Professional Plus Πρόγραμμα οικιακής χρήσης, Πρότυπο, Web Apps Server
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/09/2013
+  end: 04/10/2018
+  extendedEnd: 04/11/2023
+releases:
+- version: Service Pack 1
+  startDate: 02/25/2014
+  endDate: 04/11/2023
+- version: Original Release
+  startDate: 01/09/2013
+  endDate: 04/14/2015
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Πολιτική service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Το Service Pack 1 δεν ισχύει για την έκδοση διακομιστή Web Apps. \n\n## <a name=\"editions\"></a>Εκδόσεις \n* Σπίτι και Επιχειρήσεις\n* Σπίτι και Φοιτητής\n* Επαγγελματική\n* Επαγγελματικό Συν\n* Επαγγελματικό συν πρόγραμμα εγχώριας χρήσης\n* Πρότυπο\n* Διακομιστής εφαρμογών Web"

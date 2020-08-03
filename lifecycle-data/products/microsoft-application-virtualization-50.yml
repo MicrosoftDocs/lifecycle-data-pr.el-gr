@@ -1,0 +1,39 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Εικονική διαμόρφωση εφαρμογής της Microsoft 5.0
+  description: Η εικονική διαμόρφωση εφαρμογών της Microsoft 5.0 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 537410789f17e2ca2d9308c1814f22f823288b32
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "854340"
+name: Εικονική διαμόρφωση εφαρμογής της Microsoft 5.0
+summary: >+
+  Η εικονική διαμόρφωση εφαρμογών της Microsoft 5.0 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+
+
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: για τις υπηρεσίες απομακρυσμένης επιφάνειας εργασίας, για τις υπηρεσίες Terminal Services, για τις επιφάνειες εργασίας των Windows
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/01/2012
+  end: 01/09/2018
+  extendedEnd: 01/10/2023
+releases:
+- version: Service Pack 3
+  startDate: 12/08/2014
+  endDate: 01/10/2023
+- version: Service Pack 2
+  startDate: 12/02/2013
+  endDate: 01/12/2016
+- version: Service Pack 1
+  startDate: 04/10/2013
+  endDate: 01/13/2015
+- version: Original Release
+  startDate: 11/01/2012
+  endDate: 07/08/2014
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες προϊόντος](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Πολιτική service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* για υπηρεσίες απομακρυσμένης επιφάνειας εργασίας\n* για υπηρεσίες τερματικού\n* για επιφάνειες εργασίας των Windows"

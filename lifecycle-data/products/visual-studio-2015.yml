@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2015
+  description: Το Visual Studio 2015 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 4300bd472c7f836c9d93e7f7e3da2005da410bac
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "854441"
+name: Visual Studio 2015
+summary: >+
+  Το Visual Studio 2015 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+
+
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Παράγοντες, Κοινότητα, Επιχειρήσεις, Εξπρές για Web, Express για Windows 10, Express για windows Desktop, SdK μοντελοποίησης, Επαγγελματική, Διαχείριση έκδοσης, Απομακρυσμένα εργαλεία, SDK, Κέλυφος (Ενσωματωμένο), Κέλυφος (Απομονωμένο), Δοκιμή Professional, Visual C++ αναδιανεμητικό
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 07/20/2015
+  end: 10/13/2020
+  extendedEnd: 10/14/2025
+releases:
+- version: Update 3
+  startDate: 06/27/2016
+  endDate: 10/14/2025
+- version: Original Release
+  startDate: 07/20/2015
+  endDate: 10/14/2025
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες συντήρησης](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Παράγοντες\n* Community\n* Επιχείρηση\n* Εξπρές για web\n* Εξπρές για Windows 10\n* Εξπρές για την επιφάνεια εργασίας των Windows\n* Μοντελοποίηση SDK\n* Επαγγελματική\n* Διαχείριση έκδοσης\n* Απομακρυσμένα εργαλεία\n* Sdk\n* Κέλυφος (Ενσωματωμένο)\n* Κέλυφος (Απομονωμένο)\n* Δοκιμή Επαγγελματική\n* Οπτική C++ με δυνατότητα αναδιανομής"

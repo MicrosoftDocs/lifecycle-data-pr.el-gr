@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Κέντρο επιχειρήσεων Dynamics 365
+  description: Το Dynamics 365 Business Central ακολουθεί τη σύγχρονη πολιτική κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d4bcea33ffede77bb781ed2167ad9097af8fbe57
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "854467"
+name: Κέντρο επιχειρήσεων Dynamics 365
+summary: >+
+  Το Dynamics 365 Business Central ακολουθεί τη [σύγχρονη](/lifecycle/policies/modern) πολιτική κύκλου ζωής.
+
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 11/01/2016
+releases:
+- version: Original Release
+  startDate: 11/01/2016
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Χάρτης του Microsoft Dynamics 365](https://aka.ms/businessappsreleasenotes)\n* [Πληροφορίες συντήρησης](/dynamics365/business-central/dev-itpro/faq)\n* [Απαιτήσεις συστήματος](/dynamics365/business-central/product-requirements)"

@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2013
+  description: Το Visual Studio 2013 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b94d9b3d87ff3c971739be3ca2ebbb2446764e1b
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "854663"
+name: Visual Studio 2013
+summary: >+
+  Το Visual Studio 2013 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+
+
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Παράγοντες, Όλα, Κοινότητα, Express για Web, Express για Windows, Express για windows Desktop, IntelliTrace Συλλέκτης, Μοντελοποίηση SDK, Multibyte MFC Βιβλιοθήκη, Premium, Professional, Διαχείριση έκδοσης, Απομακρυσμένα εργαλεία, SDK, Shell (Ολοκληρωμένη), Shell (Απομονωμένη), Εξερεύνηση ομάδας, Επαγγελματίας δοκιμής, Ultimate, Visual C ++ αναδιανομή, Web Tools Επεκτάσεις
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/15/2014
+  end: 04/09/2019
+  extendedEnd: 04/09/2024
+releases:
+- version: Update 5
+  startDate: 07/20/2015
+  endDate: 04/09/2024
+- version: Original Release
+  startDate: 01/15/2014
+  endDate: 04/09/2024
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες συντήρησης](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Παράγοντες\n* Όλα\n* Community\n* Εξπρές για web\n* Εξπρές για τα Windows\n* Εξπρές για την επιφάνεια εργασίας των Windows\n* Συλλέκτης IntelliTrace\n* Μοντελοποίηση SDK\n* Βιβλιοθήκη MFC πολλών byte\n* Premium\n* Επαγγελματική\n* Διαχείριση έκδοσης\n* Απομακρυσμένα εργαλεία\n* Sdk\n* Κέλυφος (Ενσωματωμένο)\n* Κέλυφος (Απομονωμένο)\n* Εξερεύνηση ομάδας\n* Δοκιμή Επαγγελματική\n* Απόλυτη\n* Οπτική C++ με δυνατότητα αναδιανομής\n* Επεκτάσεις εργαλείων Web"

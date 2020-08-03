@@ -1,0 +1,24 @@
+### YamlMime:Lifecycle
+metadata:
+  title: StorSimple σειρά 5000/7000
+  description: Η σειρά StorSimple 5000/7000 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9f41ce486a68b9b0e08999801f781e9f1b37330a
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "854674"
+name: StorSimple σειρά 5000/7000
+summary: "Η σειρά StorSimple 5000/7000 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.\n\n\n> [!IMPORTANT]\n> Η υποστήριξη για αυτό το προϊόν έχει λήξει. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω. \n"
+products:
+- azure
+policyType: fixed-mainstream-only
+supportDates:
+  start: 11/15/2012
+  end: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 11/15/2012
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](https://azure.microsoft.com/updates/azure-storsimple-5000-7000-series-will-no-longer-be-supported-starting-july-9-2019/)"

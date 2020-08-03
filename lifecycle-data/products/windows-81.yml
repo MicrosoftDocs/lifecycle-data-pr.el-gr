@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 8.1
+  description: Τα Windows 8.1 ακολουθούν την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f9a4bcbbb6bfcd3a4ddd5445f78d459baba2c3e2
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "854435"
+name: Windows 8.1
+summary: >+
+  Τα Windows 8.1 ακολουθούν την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+
+
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Enterprise, Enterprise N, N, Pro με Media Center, Professional, Professional N
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/13/2013
+  end: 01/09/2018
+  extendedEnd: 01/10/2023
+releases:
+- version: Original Release
+  startDate: 11/13/2013
+  endDate: 01/10/2023
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Συνήθεις ερωτήσεις για τον κύκλο ζωής - Προϊόντα των Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση\n* Για μεγάλες επιχειρήσεις N\n* N\n* Επαγγελματίας με το Media Center\n* Επαγγελματική\n* Επαγγελματική N"
