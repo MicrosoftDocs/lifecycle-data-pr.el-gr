@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Επιχειρηματικές λύσεις της Microsoft--Μεγάλες πεδιάδες 8.0
+  description: Επιχειρηματικές λύσεις της Microsoft--Το Great Plains 8.0 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 708ba112ad66ce2d89482c6771b24c9fb9e31cab
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "818613"
+name: Επιχειρηματικές λύσεις της Microsoft--Μεγάλες πεδιάδες 8.0
+summary: >
+  Επιχειρηματικές λύσεις της Microsoft--Το Great Plains 8.0 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+
+
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις:
+
+
+  > [!IMPORTANT]
+
+  > Υποστήριξη για αυτό το προϊόν έχει λήξει 13 Οκτωβρίου 2009
+products:
+- dynamics
+policyType: fixed-mainstream-only
+supportDates:
+  start: 06/01/2004
+  end: 10/13/2009
+releases:
+- version: Original Release
+  startDate: 06/01/2004
+  endDate: 10/13/2009
+content: "\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Πρότυπο"

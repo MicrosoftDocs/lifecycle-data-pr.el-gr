@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Επιταχυντής BizTalk της Microsoft για χρηματοπιστωτικές υπηρεσίες 1.0
+  description: Ο επιταχυντής Microsoft BizTalk για χρηματοπιστωτικές υπηρεσίες 1.0 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: dbacf7590c1aa3b0736935e033bbc6c3d2968dab
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "818644"
+name: Επιταχυντής BizTalk της Microsoft για χρηματοπιστωτικές υπηρεσίες 1.0
+summary: >+
+  Ο επιταχυντής Microsoft BizTalk για χρηματοπιστωτικές υπηρεσίες 1.0 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+
+
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Enterprise, Standard
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 03/12/2003
+  end: 04/08/2008
+  extendedEnd: 04/09/2013
+releases:
+- version: Original Release
+  startDate: 03/12/2003
+  endDate: 04/09/2013
+content: "\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση\n* Πρότυπο"
