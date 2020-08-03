@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Διαχείριση ρύθμισης παραμέτρων κέντρου συστήματος της Microsoft 2007 R2
+  description: Η Διαχείριση ρύθμισης παραμέτρων του Κέντρου συστήματος της Microsoft 2007 R2 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0da71b9a2886e1a7012339ebef9a5fbe64f8811e
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "818522"
+name: Διαχείριση ρύθμισης παραμέτρων κέντρου συστήματος της Microsoft 2007 R2
+summary: >
+  Η Διαχείριση ρύθμισης παραμέτρων του Κέντρου συστήματος της Microsoft 2007 R2 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+
+
+
+  > [!IMPORTANT]
+
+  > Η υποστήριξη για αυτό το προϊόν έχει λήξει. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω.
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 11/29/2008
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 11/29/2008
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](/mem/configmgr/core/migration/planning-for-migration)\n* [Πρόσθετες οδηγίες για τη μετανάστευση](/mem/configmgr/core/migration/migrate-data-between-hierarchies)"

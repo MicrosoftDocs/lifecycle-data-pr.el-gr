@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Πλαίσιο εξυπηρέτησης πελατών της Microsoft 2008
+  description: Το Microsoft Customer Care Framework 2008 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 20ffab8fa02950c2890b8b1f62a15142eb2ddd85
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "818582"
+name: Πλαίσιο εξυπηρέτησης πελατών της Microsoft 2008
+summary: >
+  Το Microsoft Customer Care Framework 2008 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+
+
+
+  > [!IMPORTANT]
+
+  > Η υποστήριξη τελείωσε. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω.
+products:
+- customer-care-framework
+policyType: fixed
+supportDates:
+  start: 09/01/2007
+  end: 10/09/2012
+  extendedEnd: 10/10/2017
+releases:
+- version: Original Release
+  startDate: 09/01/2007
+  endDate: 10/10/2017
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](https://blogs.msdn.microsoft.com/crm/2016/04/07/microsoft-customer-care-framework-support-lifecycle-announcement/)"
