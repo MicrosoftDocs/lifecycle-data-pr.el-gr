@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Ενσωματωμένη βιομηχανία των Windows 8
+  description: Ο κλάδος windows embedded 8 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9ea7dea72b8c455d30007ba3b166f43cf59a4822
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "854220"
+name: Ενσωματωμένη βιομηχανία των Windows 8
+summary: >
+  Ο κλάδος windows embedded 8 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+
+
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Enterprise, Pro
+
+
+  > [!IMPORTANT]
+
+  > Οι πελάτες πρέπει να μετεγκατασταθούν στα Windows 8.1 για να παραμείνουν υποστηριζόμενοι.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 06/24/2013
+  end: 01/12/2016
+  extendedEnd: 01/12/2016
+releases:
+- version: Original Release
+  startDate: 06/24/2013
+  endDate: 01/12/2016
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες μετεγκατάστασης](https://www.microsoft.com/download/details.aspx?id=40279)\n* [Συνήθεις ερωτήσεις για τον κύκλο ζωής - Προϊόντα των Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση\n* Pro"

@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Πρόγραμμα-πελάτης προστασίας πληροφοριών Azure
+  description: Το πρόγραμμα-πελάτης Προστασίας πληροφοριών Azure ακολουθεί τη σύγχρονη πολιτική κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9a7e2c02d8f1d7ca3f071b5f36b97eab364b3340
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "854180"
+name: Πρόγραμμα-πελάτης προστασίας πληροφοριών Azure
+summary: >+
+  Το πρόγραμμα-πελάτης Προστασίας πληροφοριών Azure ακολουθεί τη [σύγχρονη](/lifecycle/policies/modern) πολιτική κύκλου ζωής.
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 10/01/2016
+  end: 03/31/2021
+releases:
+- version: Original Release
+  startDate: 10/01/2016
+  endDate: 03/31/2021
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες συντήρησης](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Οδηγίες για τη μετανάστευση](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> Για να παρέχουν μια ενοποιημένη και απλοποιημένη εμπειρία πελάτη, το πρόγραμμα-πελάτης Προστασίας πληροφοριών Azure (κλασικό) και διαχείριση ετικετών στην πύλη Azure έχουν καταργηθεί από τις 31 Μαρτίου 2021. Αυτό το χρονικό πλαίσιο επιτρέπει σε όλους τους τρέχοντες πελάτες της Προστασίας πληροφοριών Azure να περάσουν στην ενοποιημένη λύση επισήμανσης χρησιμοποιώντας την ενοποιημένη πλατφόρμα επισήμανσης της Προστασίας πληροφοριών της Microsoft."
