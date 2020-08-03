@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Απομακρυσμένη βοήθεια του Dynamics 365
+  description: Η Απομακρυσμένη βοήθεια Dynamics 365 ακολουθεί τη σύγχρονη πολιτική κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f515184c8d286e79842892235e7e48414438d758
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "869490"
+name: Απομακρυσμένη βοήθεια του Dynamics 365
+summary: >+
+  Η Απομακρυσμένη βοήθεια Dynamics 365 ακολουθεί τη [σύγχρονη](/lifecycle/policies/modern) πολιτική κύκλου ζωής.
+
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 09/30/2018
+releases:
+- version: Original Release
+  startDate: 09/30/2018
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Διάταξη και απομακρυσμένη βοήθεια](/dynamics365/mixed-reality/layout/faq)"

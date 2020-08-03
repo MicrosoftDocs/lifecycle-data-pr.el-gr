@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: SQL Server 2017
+  description: Ο SQL Server 2017 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 8eb60aa5e94d8c064f0bb06f4bfb11782141d320
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "869615"
+name: SQL Server 2017
+summary: >+
+  Ο SQL Server 2017 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+
+
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: σε Linux (όλες τις εκδόσεις), στα Windows (όλες οι εκδόσεις)
+
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 09/29/2017
+  end: 10/11/2022
+  extendedEnd: 10/12/2027
+releases:
+- version: Original Release
+  startDate: 09/29/2017
+  endDate: 10/12/2027
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες συντήρησης](https://blogs.msdn.microsoft.com/sqlreleaseservices/announcing-the-modern-servicing-model-for-sql-server/)\n\n> [!NOTE]\n> Ξεκινώντας με τον SQL Server 2017, δεν θα κυκλοφορήσει service pack.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* σε Linux (όλες οι εκδόσεις)\n* στα Windows (όλες οι εκδόσεις)"

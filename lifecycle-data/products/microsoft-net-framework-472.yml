@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft .NET Framework 4.7.2
+  description: Το Microsoft .NET Framework 4.7.2 ακολουθεί την πολιτική κύκλου ζωής στοιχείων.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 4888a6137dfca9d0ba6e4f6c5b1b04320bb83ac6
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "869545"
+name: Microsoft .NET Framework 4.7.2
+summary: >+
+  Το Microsoft .NET Framework 4.7.2 ακολουθεί την πολιτική κύκλου ζωής [στοιχείων.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+
+
+products:
+- dotnet
+policyType: component
+supportDates:
+  start: 04/30/2018
+releases:
+- version: Original Release
+  startDate: 04/30/2018
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Συνήθεις ερωτήσεις για τον κύκλο ζωής του .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Πληροφορίες προϊόντος](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-472)\n\n> [!NOTE]\n> Το .NET Framework είναι ένα στοιχείο του λειτουργικού συστήματος των Windows. Τα στοιχεία λαμβάνουν την ίδια υποστήριξη με το γονικό προϊόν ή την πλατφόρμα τους."
