@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Προσαρμογέας BizTalk για MQSeries 2005
+  description: Ο προσαρμογέας BizTalk για MQSeries 2005 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b38f030ecd18a0709313dc96f4237852115cc896
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "818848"
+name: Προσαρμογέας BizTalk για MQSeries 2005
+summary: >+
+  Ο προσαρμογέας BizTalk για MQSeries 2005 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 12/10/2004
+  end: 12/31/2009
+  extendedEnd: 12/31/2014
+releases:
+- version: Original Release
+  startDate: 12/10/2004
+  endDate: 12/31/2014
+content: ''

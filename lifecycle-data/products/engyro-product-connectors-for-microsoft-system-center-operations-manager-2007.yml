@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Συνδέσεις προϊόντων Ennyro για τη Διαχείριση λειτουργιών του Κέντρου συστήματος της Microsoft 2007
+  description: Οι συνδέσεις προϊόντων Ennyro για τη Διαχείριση λειτουργιών του Κέντρου συστήματος της Microsoft 2007 ακολουθούν την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 434c323cabe12823036a8bc7854aa026253d65a9
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "818944"
+name: Συνδέσεις προϊόντων Ennyro για τη Διαχείριση λειτουργιών του Κέντρου συστήματος της Microsoft 2007
+summary: >
+  Οι συνδέσεις προϊόντων Ennyro για τη Διαχείριση λειτουργιών του Κέντρου συστήματος της Microsoft 2007 ακολουθούν την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+
+
+
+  > [!IMPORTANT]
+
+  > Η υποστήριξη για αυτό το προϊόν έχει λήξει.
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 10/01/2007
+  end: 07/10/2012
+  extendedEnd: 07/11/2017
+releases:
+- version: Original Release
+  startDate: 10/01/2007
+  endDate: 07/11/2017
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](https://blogs.technet.microsoft.com/momteam/2017/01/10/engyro-product-connector-support-ending-this-year/)"

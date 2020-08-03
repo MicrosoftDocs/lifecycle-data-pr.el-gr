@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2008
+  description: Ο Windows Server 2008 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cb16ce7326c75c0c560a1b8a0078d03656d58c21
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "818797"
+name: Windows Server 2008
+summary: >
+  Ο Windows Server 2008 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+
+
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Datacenter, Datacenter χωρίς Hyper-V, Enterprise, Enterprise χωρίς Hyper-V, για συστήματα που βασίζονται σε Itanium, Ίδρυμα, Πρότυπο, Πρότυπο χωρίς Hyper-V, Web
+
+
+  > [!IMPORTANT]
+
+  > Η υποστήριξη για αυτό το προϊόν έχει λήξει. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/06/2008
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 2
+  startDate: 04/29/2009
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 05/06/2008
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](https://aka.ms/AA1ovn4)\n* [Πληροφορίες αναβάθμισης διακομιστή](/windows-server/upgrade/upgrade-overview)\n* [Εκτεταμένο πρόγραμμα ενημέρωσης ασφαλείας (ESU)](/lifecycle/faq/extended-security-updates)\n* [Πολιτική service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Οι εκτεταμένες ενημερωμένες εκδόσεις ασφαλείας (ESU) είναι διαθέσιμες μέσω συγκεκριμένων προγραμμάτων παραχώρησης πολλαπλών αδειών χρήσης (Datacenter), Standard, Enterprise και Embedded αυτών των εκδόσεων προϊόντων, για έως και τρία επιπλέον χρόνια μετά το τέλος της υποστήριξης. Επικοινωνήστε με τον συνεργάτη ή την ομάδα λογαριασμών της Microsoft για να μάθετε περισσότερα. \n\nΗμερομηνία κυκλοφορίας-------------------------------Η ημερομηνία έναρξης----Αυξήστε την ημερομηνία λήξης\n\nΕκτεταμένη ενημερωμένη έκδοση ασφαλείας Έτος 3---01/11/2022---01/10/2023\n\nΕκτεταμένη ενημερωμένη έκδοση ασφαλείας Έτος 2---01/12/2021---01/11/2022\n\nΕκτεταμένη ενημερωμένη έκδοση ασφαλείας Έτος 1---01/14/2020---01/12/2021\n> [!NOTE]\n> Windows Server 2008 Ίδρυμα κυκλοφόρησε στις 21 Μαΐου 2009\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Datacenter\n* Κέντρο δεδομένων χωρίς Hyper-V\n* Επιχείρηση\n* Επιχείρηση χωρίς Hyper-V\n* για συστήματα που βασίζονται σε ιτανίου\n* Ίδρυμα\n* Πρότυπο\n* Πρότυπο χωρίς Hyper-V\n* Web"
