@@ -2,20 +2,15 @@
 metadata:
   title: Microsoft Office Communications Server 2007 R2
   description: Ο Microsoft Office Communications Server 2007 R2 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 33d9d5fff1c61fcf44480c75e2a2f7ff3bd72fc9
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/07/2020
+  ms.openlocfilehash: 229bad5ba97248c738f950b7252cd9c69e238cf1
+  ms.sourcegitcommit: 41160e72cd21aa5bf1748336c3975d8ec9b9ac06
   ms.translationtype: MT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "818927"
+  ms.lasthandoff: 08/07/2020
+  ms.locfileid: "885829"
 name: Microsoft Office Communications Server 2007 R2
-summary: >+
-  Ο Microsoft Office Communications Server 2007 R2 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
-
-
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Πύλη XMPP
-
+summary: "Ο Microsoft Office Communications Server 2007 R2 ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.\n\nΑυτό ισχύει για τις ακόλουθες εκδόσεις: όλα τα ισχύοντα, Enterprise, XMPP Gateway\n\n> [!IMPORTANT]\n> Η υποστήριξη για αυτό το προϊόν έχει λήξει. Ανατρέξτε στο θέμα οδηγίες μετεγκατάστασης. \n"
 products:
 - office
 policyType: fixed
@@ -27,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 09/28/2009
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> XMPP Πύλη κυκλοφόρησε στις 28/9/2009.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Πύλη XMPP"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες μετεγκατάστασης](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> Πύλη XMPP που κυκλοφόρησε στις 9/28/2009.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Όλα τα ισχύοντα\n* Επιχείρηση\n* Πύλη XMPP"
