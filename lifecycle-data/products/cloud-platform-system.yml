@@ -2,17 +2,19 @@
 metadata:
   title: Σύστημα πλατφόρμας cloud
   description: Το σύστημα πλατφόρμας cloud ακολουθεί την πολιτική σταθερού κύκλου ζωής.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 931caf3fc06338dfa6ec97f0a7bc079c9be6a4a9
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 132fd3832cd1d0927fe7ce6af7eb8e0a21e8d308
+  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
   ms.translationtype: MT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "854469"
+  ms.lasthandoff: 08/12/2020
+  ms.locfileid: "891879"
 name: Σύστημα πλατφόρμας cloud
 summary: >+
-  Το σύστημα πλατφόρμας cloud ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το σύστημα πλατφόρμας cloud ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
 
+
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Standard
 
 products:
 - azure
@@ -25,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> Η υποστήριξη για το σύστημα πλατφόρμας cloud επεκτείνεται όπως φαίνεται, ώστε να παρέχει σε όλους τους πελάτες το τυπικό χρονοδιάγραμμα μετάβασης κύκλου ζωής.\n> [!NOTE]\n> Cloud Platform System Standard ξεκίνησε στις 18 Σεπτεμβρίου 2017."
+content: "\n\n> [!NOTE]\n> Η υποστήριξη για το σύστημα πλατφόρμας cloud επεκτείνεται όπως φαίνεται, ώστε να παρέχει σε όλους τους πελάτες τη λωρίδα χρόνου μετάβασης του τυπικού κύκλου ζωής.\n> [!NOTE]\n> Το πρότυπο συστήματος πλατφόρμας cloud ξεκίνησε στις 18 Σεπτεμβρίου 2017.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Τυπική"

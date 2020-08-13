@@ -2,19 +2,19 @@
 metadata:
   title: BizTalk Server 2020
   description: Ο BizTalk Server 2020 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 857d430f637df64f0a3dd3be4e8da07bb840592d
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 8fd9d3d641c7f964463ccf25efc3b451879c86bf
+  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
   ms.translationtype: MT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "869499"
+  ms.lasthandoff: 08/12/2020
+  ms.locfileid: "891916"
 name: BizTalk Server 2020
 summary: >+
-  Ο BizTalk Server 2020 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Ο BizTalk Server 2020 ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Κλάδος, Προγραμματιστής, Εταιρεία,
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Branch, Developer, Enterprise, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 02/01/2020
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες προϊόντος](/biztalk/install-and-config-guides/biztalk-server-2020-whats-new-and-installation)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Υποκατάστημα\n* Προγραμματιστή\n* Επιχείρηση\n* Πρότυπο"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες προϊόντος](/biztalk/install-and-config-guides/biztalk-server-2020-whats-new-and-installation)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Κλάδο\n* Προγραμματιστής\n* Επιχείρηση\n* Τυπική"
