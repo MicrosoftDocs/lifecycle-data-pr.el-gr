@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Προσαρμογείς BizTalk της Microsoft για συστήματα κεντρικού υπολογιστή 2.0
-  description: Οι προσαρμογείς Microsoft BizTalk για συστήματα κεντρικού υπολογιστή 2.0 ακολουθούν την πολιτική σταθερού κύκλου ζωής.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: f80e0cf76eebd3d54f478080a80929cb15778886
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Προσαρμογείς Microsoft BizTalk για συστήματα Host 2,0
+  description: Οι προσαρμογείς Microsoft BizTalk για συστήματα φιλοξενίας 2,0 ακολουθούν την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 425db6cb5918efdf9afc544d8a0e8bb554ce695c
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "818623"
-name: Προσαρμογείς BizTalk της Microsoft για συστήματα κεντρικού υπολογιστή 2.0
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893498"
+name: Προσαρμογείς Microsoft BizTalk για συστήματα Host 2,0
 summary: >+
-  Οι προσαρμογείς Microsoft BizTalk για συστήματα κεντρικού υπολογιστή 2.0 ακολουθούν την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Οι προσαρμογείς Microsoft BizTalk για συστήματα φιλοξενίας 2,0 ακολουθούν την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Προγραμματιστής,
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: προγραμματιστής, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Προγραμματιστή\n* Πρότυπο"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες μετεγκατάστασης](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Προγραμματιστής\n* Τυπική"
