@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Επιταχυντής BizTalk της Microsoft για SWIFT 2.3
-  description: Ο επιταχυντής BizTalk της Microsoft για SWIFT 2.3 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: b4e8c14f0cc9d8a023d62d4c8ed6521eed1f40a4
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Επιταχυντής Microsoft BizTalk για Σουίφτ 2,3
+  description: Ο επιταχυντής Microsoft BizTalk για SWIFT 2,3 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 255f9cf85c3d65c0f2a538c76f9db4eb2489d6b0
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "818628"
-name: Επιταχυντής BizTalk της Microsoft για SWIFT 2.3
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893535"
+name: Επιταχυντής Microsoft BizTalk για Σουίφτ 2,3
 summary: >+
-  Ο επιταχυντής BizTalk της Microsoft για SWIFT 2.3 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Ο επιταχυντής Microsoft BizTalk για SWIFT 2,3 ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
 
 
   Αυτό ισχύει για τις ακόλουθες εκδόσεις: Enterprise, Standard
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2006
   endDate: 10/14/2008
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση\n* Πρότυπο"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση\n* Τυπική"
