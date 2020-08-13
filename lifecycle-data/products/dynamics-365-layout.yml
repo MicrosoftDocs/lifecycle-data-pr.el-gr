@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Διάταξη του Dynamics 365
+  title: Διάταξη δυναμικής 365
   description: Η διάταξη Dynamics 365 ακολουθεί τη σύγχρονη πολιτική κύκλου ζωής.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: b3dff3d9a8e33fd57896f487fdf4e5702dd1dfd6
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 1995274fb40f9ea278629e50c290def57f7f113d
+  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
   ms.translationtype: MT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "869491"
-name: Διάταξη του Dynamics 365
+  ms.lasthandoff: 08/12/2020
+  ms.locfileid: "891842"
+name: Διάταξη δυναμικής 365
 summary: >+
   Η διάταξη Dynamics 365 ακολουθεί τη [σύγχρονη](/lifecycle/policies/modern) πολιτική κύκλου ζωής.
 
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 09/30/2018
   endDate: 12/31/2021
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Διάταξη και απομακρυσμένη βοήθεια](/dynamics365/mixed-reality/layout/faq)"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Διάταξη και απομακρυσμένη βοήθεια](/dynamics365/mixed-reality/layout/faq)\n* [Ανακοινώνοντας τη μετάβαση της διάταξης Dynamics 365](https://dynamics.microsoft.com/mixed-reality/layout-transition/)"
