@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: PolicyMaker
+  description: Ο αρμόδιος για τη χάραξη πολιτικής ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: d1b7d7ac98ec91c5118023494257fde96fbf2c6f
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "904109"
+name: PolicyMaker
+summary: >+
+  Ο αρμόδιος για τη χάραξη πολιτικής ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+
+
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: ασφάλεια εφαρμογών, Outlook Edition, Professional 9,0, επέκταση μητρώου 2,0, διαχείριση μεριδίου 1,0, ενημέρωση λογισμικού 1,0, ενημέρωση λογισμικού 2,0, Standard 1,0, Standard 2,0
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/01/2007
+  end: 01/12/2010
+releases:
+- version: Original Release
+  startDate: 01/01/2007
+  endDate: 01/12/2010
+content: "\n\n> [!NOTE]\n> Η υποστήριξη για αυτό το προϊόν υπόκειται στους όρους της εξαγοράς του.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Ασφάλεια εφαρμογών\n* Outlook Edition\n* Επαγγελματική 9,0\n* Επέκταση μητρώου 2,0\n* Διαχείριση κοινής χρήσης 1,0\n* Ενημέρωση λογισμικού 1,0\n* Ενημέρωση λογισμικού 2,0\n* Τυπικό 1,0\n* Τυπικό 2,0"
