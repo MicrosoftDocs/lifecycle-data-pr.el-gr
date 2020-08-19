@@ -1,27 +1,27 @@
 ---
-title: Εξαγωγή προϊόντων
+title: Εξαγωγή δεδομένων κύκλου ζωής
 description: Εξαγωγή πληροφοριών κύκλου ζωής προϊόντων
-ms.date: 08/17/2020
-ms.openlocfilehash: 01a34995c0dd1fc9fb0c5f75c4460357e091ccce
-ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
+ms.date: 08/18/2020
+ms.openlocfilehash: 80145edf59e6406d32292d846ae3f263cddd294a
+ms.sourcegitcommit: 6bed901441570ef084842edd1b7e5dfbc192c99a
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "899802"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "902402"
 ---
-# <a name="export"></a>Εξαγωγή
+# <a name="lifecycle-data-export"></a>Εξαγωγή δεδομένων κύκλου ζωής
 
 > [!IMPORTANT]
 > Αυτή η σελίδα βρίσκεται υπό ανάπτυξη.
 
 ## <a name="export-all-products"></a>Εξαγωγή όλων των προϊόντων
-Εξαγάγετε όλα τα προϊόντα χωρίς φίλτρα.
+Εξαγάγετε δεδομένα κύκλου ζωής για όλα τα προϊόντα, κάνοντας κλικ στην επιλογή παρακάτω:
 
 > [!div class="nextstepaction"]
 > [Εξαγωγή όλων των προϊόντων](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-category"></a>Εξαγωγή προϊόντων ανά κατηγορία
-Επιλέξτε μια ομαδοποίηση για εξαγωγή:
+## <a name="export-products-by-family-and-group"></a>Εξαγωγή προϊόντων κατά οικογένεια και ομάδα
+Επιλέξτε μια οικογένεια και, στη συνέχεια, μια ομάδα για εξαγωγή. Σημείωση: η εξαγωγή θα ξεκινήσει όταν είναι επιλεγμένη η τιμή ομάδας. 
 
 > [!div class="op_multi_selector" title1="Οικογένεια" title2="Ομάδα"]
 > - [(.NET | Όλα τα](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -80,8 +80,8 @@ ms.locfileid: "899802"
 > - [(Windows | Ασφαλείας](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Server](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-year"></a>Εξαγωγή προϊόντων ανά έτος λήξης υποστήριξης
-Επιλέξτε ένα έτος για την εξαγωγή προϊόντων που τελειώνουν την υπηρεσία σε αυτό το έτος:
+## <a name="export-products-by-end-of-support-date"></a>Εξαγωγή προϊόντων κατά την ημερομηνία λήξης της υποστήριξης
+Επιλέξτε ένα έτος για να δείτε τα προϊόντα να φθάνουν στο τέρμα της υποστήριξης. Σημείωση: η εξαγωγή θα ξεκινήσει όταν είναι επιλεγμένη η τιμή year.
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
