@@ -1,27 +1,27 @@
 ---
-title: Εξαγωγή προϊόντων
+title: Εξαγωγή δεδομένων κύκλου ζωής
 description: Εξαγωγή πληροφοριών κύκλου ζωής προϊόντων
-ms.date: 08/17/2020
-ms.openlocfilehash: 01a34995c0dd1fc9fb0c5f75c4460357e091ccce
-ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
+ms.date: 08/18/2020
+ms.openlocfilehash: 80145edf59e6406d32292d846ae3f263cddd294a
+ms.sourcegitcommit: 6bed901441570ef084842edd1b7e5dfbc192c99a
 ms.translationtype: MT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "899802"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "902402"
 ---
-# <a name="export"></a><span data-ttu-id="294c9-103">Εξαγωγή</span><span class="sxs-lookup"><span data-stu-id="294c9-103">Export</span></span>
+# <a name="lifecycle-data-export"></a><span data-ttu-id="15fe1-103">Εξαγωγή δεδομένων κύκλου ζωής</span><span class="sxs-lookup"><span data-stu-id="15fe1-103">Lifecycle data export</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="294c9-104">Αυτή η σελίδα βρίσκεται υπό ανάπτυξη.</span><span class="sxs-lookup"><span data-stu-id="294c9-104">This page is under development.</span></span>
+> <span data-ttu-id="15fe1-104">Αυτή η σελίδα βρίσκεται υπό ανάπτυξη.</span><span class="sxs-lookup"><span data-stu-id="15fe1-104">This page is under development.</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="294c9-105">Εξαγωγή όλων των προϊόντων</span><span class="sxs-lookup"><span data-stu-id="294c9-105">Export All Products</span></span>
-<span data-ttu-id="294c9-106">Εξαγάγετε όλα τα προϊόντα χωρίς φίλτρα.</span><span class="sxs-lookup"><span data-stu-id="294c9-106">Export all products without any filters.</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="15fe1-105">Εξαγωγή όλων των προϊόντων</span><span class="sxs-lookup"><span data-stu-id="15fe1-105">Export all products</span></span>
+<span data-ttu-id="15fe1-106">Εξαγάγετε δεδομένα κύκλου ζωής για όλα τα προϊόντα, κάνοντας κλικ στην επιλογή παρακάτω:</span><span class="sxs-lookup"><span data-stu-id="15fe1-106">Export lifecycle data for all products by clicking below:</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="294c9-107">Εξαγωγή όλων των προϊόντων</span><span class="sxs-lookup"><span data-stu-id="294c9-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="15fe1-107">Εξαγωγή όλων των προϊόντων</span><span class="sxs-lookup"><span data-stu-id="15fe1-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-category"></a><span data-ttu-id="294c9-108">Εξαγωγή προϊόντων ανά κατηγορία</span><span class="sxs-lookup"><span data-stu-id="294c9-108">Export Products by Category</span></span>
-<span data-ttu-id="294c9-109">Επιλέξτε μια ομαδοποίηση για εξαγωγή:</span><span class="sxs-lookup"><span data-stu-id="294c9-109">Select a grouping to export:</span></span>
+## <a name="export-products-by-family-and-group"></a><span data-ttu-id="15fe1-108">Εξαγωγή προϊόντων κατά οικογένεια και ομάδα</span><span class="sxs-lookup"><span data-stu-id="15fe1-108">Export products by Family and Group</span></span>
+<span data-ttu-id="15fe1-109">Επιλέξτε μια οικογένεια και, στη συνέχεια, μια ομάδα για εξαγωγή.</span><span class="sxs-lookup"><span data-stu-id="15fe1-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="15fe1-110">Σημείωση: η εξαγωγή θα ξεκινήσει όταν είναι επιλεγμένη η τιμή ομάδας.</span><span class="sxs-lookup"><span data-stu-id="15fe1-110">Note: Export will begin when Group value is selected.</span></span> 
 
 > [!div class="op_multi_selector" title1="Οικογένεια" title2="Ομάδα"]
 > - [(.NET | Όλα τα](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -80,8 +80,8 @@ ms.locfileid: "899802"
 > - [(Windows | Ασφαλείας](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Server](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-year"></a><span data-ttu-id="294c9-167">Εξαγωγή προϊόντων ανά έτος λήξης υποστήριξης</span><span class="sxs-lookup"><span data-stu-id="294c9-167">Export Products by End of Support Year</span></span>
-<span data-ttu-id="294c9-168">Επιλέξτε ένα έτος για την εξαγωγή προϊόντων που τελειώνουν την υπηρεσία σε αυτό το έτος:</span><span class="sxs-lookup"><span data-stu-id="294c9-168">Select a year to export products ending service in that year:</span></span>
+## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="15fe1-168">Εξαγωγή προϊόντων κατά την ημερομηνία λήξης της υποστήριξης</span><span class="sxs-lookup"><span data-stu-id="15fe1-168">Export products by end of support date</span></span>
+<span data-ttu-id="15fe1-169">Επιλέξτε ένα έτος για να δείτε τα προϊόντα να φθάνουν στο τέρμα της υποστήριξης.</span><span class="sxs-lookup"><span data-stu-id="15fe1-169">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="15fe1-170">Σημείωση: η εξαγωγή θα ξεκινήσει όταν είναι επιλεγμένη η τιμή year.</span><span class="sxs-lookup"><span data-stu-id="15fe1-170">Note: Export will begin when Year value is selected.</span></span>
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
