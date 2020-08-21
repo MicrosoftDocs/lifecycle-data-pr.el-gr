@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2019
-  description: Το Visual Studio 2019 ακολουθεί την Πολιτική σταθερού κύκλου ζωής.
+  description: Το Visual Studio 2019 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3bb4a3be253fe45b27fa6baa8f165dc2fbb3ffd1
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869539"
 name: Visual Studio 2019
 summary: >+
-  Το Visual Studio 2019 ακολουθεί την [Πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Visual Studio 2019 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Παράγοντες, Εργαλεία δόμησης, Κοινότητα, Επιχείρηση, για Mac, Αυτόνομη συλλογή IntelliTrace, Εργαλεία επιδόσεων, Επαγγελματικά, Απομακρυσμένα εργαλεία, Εξερεύνηση ομάδας, Visual C++ αναδιανομή
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Πράκτορες, Εργαλεία Κατασκευής, Κοινότητα, Επιχείρηση, για Mac, IntelliTrace Standalone Collector, εργαλεία Performance, Professional, Απομακρυσμένα εργαλεία, Team Explorer, Visual C++ Redistributable
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Version 16.0
   startDate: 04/02/2019
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Ανακοίνωση](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [Πληροφορίες συντήρησης](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Παράγοντες\n* Δημιουργία εργαλείων\n* Community\n* Επιχείρηση\n* για Mac\n* Αυτόνομος συλλέκτης IntelliTrace\n* Εργαλεία επιδόσεων\n* Επαγγελματική\n* Απομακρυσμένα εργαλεία\n* Εξερεύνηση ομάδας\n* Οπτική C++ με δυνατότητα αναδιανομής"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Ανακοινώσεις](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [Πληροφορίες Συντήρησης](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Πράκτορες\n* Δημιουργία Εργαλείων\n* Κοινότητα\n* Επιχείρηση\n* Για Mac\n* IntelliTrace Standalone Collector\n* Εργαλεία Επιδόσεων\n* Επαγγελματικό\n* Απομακρυσμένα Eργαλεία\n* Team Explorer\n* Visual C++ Redistributable"
