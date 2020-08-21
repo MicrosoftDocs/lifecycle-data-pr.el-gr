@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Visual Studio 2005
-  description: Το Microsoft Visual Studio 2005 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  description: Το Microsoft Visual Studio 2005 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 576095a27901552e7a275b0a349ed5e1edee8099
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "817957"
 name: Microsoft Visual Studio 2005
 summary: >+
-  Το Microsoft Visual Studio 2005 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Microsoft Visual Studio 2005 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Επαγγελματική, Τυπική, Τυπική έκδοση ακαδημαϊκή άδεια, Έκδοση ομάδας για επαγγελματίες βάσεων δεδομένων, Έκδοση ομάδας για αρχιτέκτονες λογισμικού, Έκδοση ομάδας για προγραμματιστές λογισμικού, Έκδοση ομάδας για δοκιμαστές λογισμικού, Σουίτα ομάδας, Παράγοντας φόρτωσης δοκιμής ομάδας, Εργαλεία για το Σύστημα Του Microsoft Office, VB Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Επαγγελματικό, Standard, Standard Edition ακαδημαϊκή άδεια, Team Edition για Επαγγελματίες Βάσεων Δεδομένων, Team Edition για Αρχιτέκτονες Λογισμικών, Team Edition για Software Developers, Team Edition για Software Testers, Team Suite, Team Test Load Agent, Εργαλεία για το Microsoft Office System, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual Web Developer Express
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2006
   endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες υποστήριξης Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n* [Οδηγίες για τη μετανάστευση](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Πληροφορίες προϊόντος του Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Η υποστήριξη για αυτό το προϊόν έχει λήξει. Δείτε παρακάτω για οδηγίες μετεγκατάστασης.\n> [!NOTE]\n> Microsoft Visual Studio 2005 Team Edition για επαγγελματίες βάσεων δεδομένων κυκλοφόρησε στις 2 Μαρτίου 2007.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επαγγελματική\n* Πρότυπο\n* Ακαδημαϊκή άδεια τυπικής έκδοσης\n* Έκδοση ομάδας για επαγγελματίες βάσεων δεδομένων\n* Έκδοση ομάδας για αρχιτέκτονες λογισμικού\n* Έκδοση ομάδας για προγραμματιστές λογισμικού\n* Έκδοση ομάδας για δοκιμαστές λογισμικού\n* Σουίτα ομάδας\n* Παράγοντας φόρτωσης δοκιμής ομάδας\n* Εργαλεία για το σύστημα του Microsoft Office\n* VB Εξπρές\n* Οπτική έκφραση C#\n* Οπτική C++ Εξπρές\n* Οπτική έκφραση J#\n* Οπτικός προγραμματιστής Ιστού Εξπρές"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες Υποστήριξης για τη Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n* [Οδηγίες Μετεγκατάστασης](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Πληροφορίες Προϊόντος του Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Η υποστήριξη για αυτό το προϊόν έληξε. Δείτε παρακάτω για οδηγίες μετεγκατάστασης.\n> [!NOTE]\n> Η Έκδοση Microsoft Visual Studio 2005 Team για Επαγγελματίες Βάσεων Δεδομένων κυκλοφόρησε στις 2 Μαρτίου 2007.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επαγγελματικό\n* Τυπική ροή εργασίας\n* Ακαδημαϊκή Άδεια Standard Έκδοσης\n* Ομαδική Έκδοση για Επαγγελματίες Βάσεων Δεδομένων\n* Ομαδική Έκδοση για Αρχιτέκτονες Λογισμικού\n* Ομαδική Έκδοση για Προγραμματιστές Λογισμικού\n* Ομαδική Έκδοση για Software Testers\n* Σουίτα Ομάδας\n* Παράγοντας Φόρτωσης Δοκιμής Ομάδας\n* Εργαλεία Visual Studio για το Microsoft Office System\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual Web Developer Express"

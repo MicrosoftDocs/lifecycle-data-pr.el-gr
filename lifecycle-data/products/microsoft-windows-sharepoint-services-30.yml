@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Υπηρεσίες Microsoft Windows SharePoint Services 3.0
-  description: Οι υπηρεσίες Microsoft Windows SharePoint Services 3.0 ακολουθούν την πολιτική σταθερού κύκλου ζωής.
+  title: Microsoft Windows SharePoint Services 3.0
+  description: Οι υπηρεσίες Microsoft Windows SharePoint Services 3.0 ακολουθούν την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: cdc4d8caef3f00f070c4d3ce32c2eea2f6ecbf24
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "817952"
-name: Υπηρεσίες Microsoft Windows SharePoint Services 3.0
-summary: "Οι υπηρεσίες Microsoft Windows SharePoint Services 3.0 ακολουθούν την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.\n\n\n> [!IMPORTANT]\n> Η υποστήριξη τελείωσε. \n"
+name: Microsoft Windows SharePoint Services 3.0
+summary: "Οι υπηρεσίες Microsoft Windows SharePoint Services 3.0 ακολουθούν την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.\n\n\n> [!IMPORTANT]\n> Η Υποστήριξη έληξε. \n"
 products:
 - office
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2006
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική service pack](/lifecycle/policies/fixed#service-packs)\n* [Οδηγίες για τη μετανάστευση](/office365/enterprise/sharepoint-2007-end-of-support)"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Οδηγίες Μετεγκατάστασης](/office365/enterprise/sharepoint-2007-end-of-support)"

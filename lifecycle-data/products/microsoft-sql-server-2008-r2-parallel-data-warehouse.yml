@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Παράλληλη αποθήκη δεδομένων του Microsoft SQL Server 2008 R2
-  description: Η παράλληλη αποθήκη δεδομένων του Microsoft SQL Server 2008 R2 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Παράλληλη Αποθήκη Δεδομένων του SQL Server 2008 R2
+  description: Η Παράλληλη Αποθήκη Δεδομένων του Microsoft SQL Server 2008 R2 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8296e0c784226bc26fbb70bc8fb62f9925fa648d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818197"
-name: Παράλληλη αποθήκη δεδομένων του Microsoft SQL Server 2008 R2
+name: Παράλληλη Αποθήκη Δεδομένων του SQL Server 2008 R2
 summary: >+
-  Η παράλληλη αποθήκη δεδομένων του Microsoft SQL Server 2008 R2 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Η Παράλληλη Αποθήκη Δεδομένων του Microsoft SQL Server 2008 R2 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:

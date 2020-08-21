@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Υπηρεσίες ενημέρωσης του Windows Server 3.0
-  description: Οι υπηρεσίες Windows Server Update Services 3.0 ακολουθούν την πολιτική σταθερού κύκλου ζωής.
+  title: Windows Server Update Services 3.0
+  description: Οι υπηρεσίες Windows Server Update Services 3.0 ακολουθούν την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: b5e6ed046b5497010706f64c93962f1c4af0e2a0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818795"
-name: Υπηρεσίες ενημέρωσης του Windows Server 3.0
+name: Windows Server Update Services 3.0
 summary: >
-  Οι υπηρεσίες Windows Server Update Services 3.0 ακολουθούν την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Οι υπηρεσίες Windows Server Update Services 3.0 ακολουθούν την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 
   > [!IMPORTANT]
 
-  > Η υποστήριξη τελείωσε. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω.
+  > Η Υποστήριξη έληξε. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω.
 products:
 - windows
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 07/10/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [Πολιτική service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Η στήριξη επεκτάθηκε από 7/11/2017 έως 14/1/2020."
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Η Υποστήριξη επεκτάθηκε από 11/7/2017 έως 14/1/2020."

@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft SharePoint 2010 (για τοποθεσίες Internet)
-  description: Το Microsoft SharePoint 2010 (για τοποθεσίες Internet) ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Microsoft SharePoint 2010 (για Τοποθεσίες Διαδικτύου)
+  description: Το Microsoft SharePoint 2010 (για Τοποθεσίες Διαδικτύου) ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 91cbc237303d2c4f7f73f93be5375206006b7909
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818533"
-name: Microsoft SharePoint 2010 (για τοποθεσίες Internet)
-summary: >+
-  Το Microsoft SharePoint 2010 (για τοποθεσίες Internet) ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
-
-
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: για τις εταιρικές τοποθεσίες Internet, για τις τυπικές τοποθεσίες Internet
-
+name: Microsoft SharePoint 2010 (για Τοποθεσίες Διαδικτύου)
+summary: "Το Microsoft SharePoint 2010 (για Τοποθεσίες Διαδικτύου) ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής. \n\nΑυτό ισχύει για τις ακόλουθες εκδόσεις: για τις Εταιρικές Τοποθεσίες Διαδικτύου, για τις Τυπικές Τοποθεσίες Διαδικτύου\n\n"
 products:
 - office
 policyType: fixed
@@ -27,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 06/15/2010
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Τεκμηρίωση προϊόντος](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Τεκμηρίωση προγραμματιστή](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> Η ημερομηνία λήξης υποστήριξης αυτού του προϊόντος παρατάθηκε από τις 13 Οκτωβρίου 2020 έως τις 13 Απριλίου 2021.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* για τοποθεσίες Internet για μεγάλες επιχειρήσεις\n* για το πρότυπο τοποθεσιών Internet"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Έγγραφα Προϊόντος](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Έγγραφα Προγραμματιστή](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> Η ημερομηνία λήξης της υποστήριξης αυτού του προϊόντος αναβλήθηκε από τις 13 Οκτωβρίου 2020 για τις 13 Απριλίου 2021.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* για Τοποθεσίες Διαδικτύου για Επιχειρήσεις\n* για το Πρότυπο Τοποθεσιών Διαδικτύου"

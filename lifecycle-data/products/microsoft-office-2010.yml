@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2010
-  description: Το Microsoft Office 2010 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  description: Το Microsoft Office 2010 ακολουθεί την πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 38b07316aaa247313848fcb558d54d4dad2d9c37
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818231"
 name: Microsoft Office 2010
 summary: >+
-  Το Microsoft Office 2010 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Microsoft Office 2010 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: eAcademy, Σπίτι και Επιχειρήσεις, Σπίτι και Φοιτητής, Προσωπικά, Επαγγελματικά, Επαγγελματική Ακαδημαϊκή, Professional Plus, Professional Plus Πρόγραμμα Οικιακής Χρήσης, Πρότυπο, Μίζα
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις:  eAcademy, Οικιακό και για Επιχειρήσεις, Οικιακό και Φοιτητικό, Personal, Professional, Professional Academic, Professional Plus, Professional Plus Home Use Program, Standard, Starter
 
 products:
 - office
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Χάρτης λήξης υποστήριξης του Office 2010](/DeployOffice/office-2010-end-support-roadmap)\n* [Πολιτική service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* eAcademy\n* Σπίτι και Επιχειρήσεις\n* Σπίτι και Φοιτητής\n* Προσωπική\n* Επαγγελματική\n* Επαγγελματική Ακαδημαϊκή\n* Επαγγελματικό Συν\n* Επαγγελματικό συν πρόγραμμα εγχώριας χρήσης\n* Πρότυπο\n* Μίζα"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Λήξη χάρτη υποστήριξης του Office 2010](/DeployOffice/office-2010-end-support-roadmap)\n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* eAcademy\n* Οικιακό και Επιχειρηματικό\n* Οικιακό και Φοιτητικό\n* Προσωπικό\n* Επαγγελματικό\n* Επαγγελματικό Ακαδημαϊκό\n* Επαγγελματικό Plus\n* Επαγγελματικό Plus Πρόγραμμα Οικιακής Χρήσης\n* Τυπική ροή εργασίας\n* Starter"

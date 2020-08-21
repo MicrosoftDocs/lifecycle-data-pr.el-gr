@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows XP
-  description: Τα Windows XP ακολουθούν την πολιτική σταθερού κύκλου ζωής.
+  description: Τα Windows XP ακολουθούν την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: d4fd2bce3e032cdc468570a458c8f10c60ff9170
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818072"
 name: Windows XP
 summary: >
-  Τα Windows XP ακολουθούν την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Τα Windows XP ακολουθούν την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Αρχική, Επαγγελματική, Επαγγελματική για Ενσωματωμένα Συστήματα, Starter
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Οικιακό, Επαγγελματικό, Επαγγελματικό για Ενσωματωμένα συστήματα, Starter
 
 
   > [!IMPORTANT]
 
-  > Η υποστήριξη για αυτό το προϊόν έχει λήξει. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω.
+  > Η υποστήριξη για αυτό το προϊόν έληξε. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω.
 products:
 - windows
 policyType: fixed
@@ -43,4 +43,4 @@ releases:
 - version: Original Release
   startDate: 12/31/2001
   endDate: 08/30/2005
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Πολιτική service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Σπίτι\n* Επαγγελματική\n* Επαγγελματίας για ενσωματωμένα συστήματα\n* Μίζα"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Οικιακό\n* Επαγγελματικό\n* Επαγγελματικό για Embedded Systems\n* Starter"

@@ -1,25 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Vista
-  description: Τα Windows Vista ακολουθούν την πολιτική σταθερού κύκλου ζωής.
+  description: Τα Windows Vista ακολουθούν την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: e2e6ab946bf405ed524f07047d055a786d7174dc
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818074"
 name: Windows Vista
-summary: >
-  Τα Windows Vista ακολουθούν την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
-
-
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Επιχειρήσεις, Επιχειρήσεις N, Επιχειρήσεις, Επιχειρήσεις X64, Home Basic, Home Basic 64-bit, Home Basic N, Home Basic N 64-bit, Home Premium, Home Premium 64-bit, Starter, Ultimate, Ultimate 64-bit
-
-
-  > [!IMPORTANT]
-
-  > Η υποστήριξη για αυτό το προϊόν έχει λήξει, δείτε παρακάτω για πληροφορίες μετεγκατάστασης.
+summary: "Τα Windows Vista ακολουθούν την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής. \n\nΑυτό ισχύει για τις ακόλουθες εκδόσεις: Για επιχειρήσεις, Για Επιχειρήσεις N, Επαγγελματικό, Επαγγελματικό X64, Οικιακό Βασικό, Οικιακό Βασικό 64-bit, Οικιακό Βασικό N, Οικιακό Βασικό N 64-bit, Οικιακό Premium, Οικιακό Premium 64-bit, Starter, Ultimate, Ultimate 64-bit\n\n> [!IMPORTANT]\n> Η Υποστήριξη για αυτό το προϊόν έχει λήξει, δείτε παρακάτω για πληροφορίες μετεγκατάστασης.\n"
 products:
 - windows
 policyType: fixed
@@ -37,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2007
   endDate: 04/13/2010
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Ζητήματα αναβάθμισης και μετεγκατάστασης των Windows](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Πολιτική service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση\n* Επιχειρήσεις N\n* Επιχείρηση\n* Για μεγάλες επιχειρήσεις X64\n* Αρχική Βασική\n* Αρχική Βασική 64-bit\n* Αρχική Βασική N\n* Αρχική Βασική N 64-bit\n* Αρχική Premium\n* Αρχική Premium 64 bit\n* Μίζα\n* Απόλυτη\n* Απόλυτη 64 bit"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Ζητήματα αναβάθμισης και μετεγκατάστασης των Windows](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση\n* Για Επιχειρήσεις N\n* Επιχείρηση\n* Επιχείρηση X64\n* Οικιακό Βασικό\n* Οικιακό Βασικό 64-bit\n* Οικιακό Βασικό N\n* Οικιακό Βασικό N 64-bit\n* Οικιακό Premium\n* Οικιακό Premium 64-bit\n* Starter\n* Ultimate\n* Ultimate 64-bit"

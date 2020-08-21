@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Εικονική διαμόρφωση επιφάνειας εργασίας της Microsoft για μεγάλες επιχειρήσεις 1.0
-  description: Η εικονική διαμόρφωση επιφάνειας εργασίας της Microsoft Enterprise 1.0 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Microsoft Enterprise Desktop Virtualization 1.0
+  description: Η Εικονική Διαμόρφωση Επιφάνειας Εργασίας της Microsoft Enterprise 1.0 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71dcb3cec051dba7376d58dc536d778ae7359f4a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818577"
-name: Εικονική διαμόρφωση επιφάνειας εργασίας της Microsoft για μεγάλες επιχειρήσεις 1.0
+name: Microsoft Enterprise Desktop Virtualization 1.0
 summary: >
-  Η εικονική διαμόρφωση επιφάνειας εργασίας της Microsoft Enterprise 1.0 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Η Εικονική Διαμόρφωση Επιφάνειας Εργασίας της Microsoft Enterprise 1.0 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Enterprise
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Επιχείρηση
 
 
   > [!IMPORTANT]
 
-  > Η υποστήριξη για αυτό το προϊόν έχει λήξει. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω.
+  > Η υποστήριξη για αυτό το προϊόν έληξε. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 08/03/2008
   endDate: 04/12/2011
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Πολιτική service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση"
