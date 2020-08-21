@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server
-  description: Ο Windows Server ακολουθεί τη σύγχρονη πολιτική κύκλου ζωής.
+  description: Ο Windows Server ακολουθεί τη Σύγχρονη Πολιτική Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 27a932028448e8fe9d583c1d4169c6818a0224b7
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869623"
 name: Windows Server
 summary: >+
-  Ο Windows Server ακολουθεί τη [σύγχρονη](/lifecycle/policies/modern) πολιτική κύκλου ζωής.
+  Ο Windows Server ακολουθεί τη [Σύγχρονη](/lifecycle/policies/modern) Πολιτική Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Κέντρο δεδομένων,
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Κέντρο δεδομένων, Standard
 
 products:
 - windows
@@ -40,4 +40,4 @@ releases:
 - version: Version 1709
   startDate: 10/17/2017
   endDate: 04/09/2019
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Κανάλια συντήρησης του Windows Server: LTSC και SAC](/windows-server/get-started-19/servicing-channels-19)\n* [Συνήθεις ερωτήσεις για τον κύκλο ζωής - Προϊόντα των Windows](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n> [!NOTE]\n> Η ενημέρωση οκτωβρίου των Windows 10 (έκδοση 1809) κυκλοφόρησε εκ νέου στις 13 Νοεμβρίου 2018. Οι ημερομηνίες υποστήριξης προσαρμόστηκαν ανάλογα.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Datacenter\n* Πρότυπο"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Κανάλια Συντήρησης του Windows Server: LTSC και SAC](/windows-server/get-started-19/servicing-channels-19)\n* [Συνήθεις ερωτήσεις για τον Κύκλο Ζωής - Προϊόντα των Windows](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n> [!NOTE]\n> Η Ενημέρωση Οκτωβρίου για τα Windows 10 (έκδοση 1809) επανακυκλοφόρησε στις 13 Νοεμβρίου 2018. Οι ημερομηνίες υποστήριξης έχουν προσαρμοστεί αναλόγως.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Κέντρο Δεδομένων\n* Τυπική ροή εργασίας"

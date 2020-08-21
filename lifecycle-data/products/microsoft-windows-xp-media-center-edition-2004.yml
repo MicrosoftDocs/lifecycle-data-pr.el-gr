@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Windows XP Media Center Edition 2004
-  description: Τα Microsoft Windows XP Media Center Edition 2004 ακολουθούν την πολιτική σταθερού κύκλου ζωής.
+  description: Τα Microsoft Windows XP Media Center Edition 2004 ακολουθούν την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 08/05/2020
   ms.openlocfilehash: 8dc0603e1db4f759c1d882a09a6b3d95ea08cbec
   ms.sourcegitcommit: cc83950a649c02cedd0a5a869702e8e5605d18ec
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 08/05/2020
   ms.locfileid: "883441"
 name: Microsoft Windows XP Media Center Edition 2004
 summary: >+
-  Τα Microsoft Windows XP Media Center Edition 2004 ακολουθούν την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Τα Microsoft Windows XP Media Center Edition 2004 ακολουθούν την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Media Center
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Κέντρο Πολυμέσων
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/27/2003
   endDate: 10/10/2006
-content: "\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Κέντρο πολυμέσων"
+content: "\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Κέντρο Πολυμέσων"

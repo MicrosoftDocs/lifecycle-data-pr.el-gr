@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 IoT 2019 LTSC
-  description: Το LTSC του Windows 10 IoT 2019 ακολουθεί την Πολιτική σταθερού κύκλου ζωής.
+  description: Το LTSC του Windows 10 IoT 2019 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: ad6f4ccb69d960e07a7be59e49a629f280e0025f
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869532"
 name: Windows 10 IoT 2019 LTSC
 summary: >+
-  Το LTSC του Windows 10 IoT 2019 ακολουθεί την [Πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το LTSC του Windows 10 IoT 2019 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Core, Enterprise
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Core, Για Επιχειρήσεις
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2018
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Βασικές υπηρεσίες IoT των Windows 10](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n* [Τα Windows 10 Οκτωβρίου Update (έκδοση 1809) επανκυκλοδιάστηκε στις 13 Νοεμβρίου 2018. Οι ημερομηνίες υποστήριξης προσαρμόστηκαν ανάλογα.](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Τα Windows ως υπηρεσία (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Συνήθεις ερωτήσεις για τα Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n> [!NOTE]\n> LTSC = Κανάλι μακροπρόθεσμης συντήρησης των Windows 10\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Πυρήνα\n* Επιχείρηση"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Υπηρεσίες Windows 10 IoT Core](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n* [Η ενημέρωση Οκτωβρίου για τα Windows 10 (έκδοση 1809) επανακυκλοφόρησε στις 13 Νοεμβρίου 2018. Οι Ημερομηνίες Υποστήριξης έχουν προσαρμοστεί αναλόγως.](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Τα Windows ως υπηρεσία (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Συνήθεις ερωτήσεις για τα Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n> [!NOTE]\n> LTSC = Κανάλι Μακροπρόθεσμης συντήρησης των Windows 10\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Πυρήνας\n* Επιχείρηση"

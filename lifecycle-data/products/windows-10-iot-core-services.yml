@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Υπηρεσίες πυρήνα IoT των Windows 10
-  description: Οι υπηρεσίες Windows 10 IoT Core ακολουθούν τη σύγχρονη πολιτική κύκλου ζωής.
+  title: Υπηρεσίες Windows 10 IoT Core
+  description: Οι Υπηρεσίες Windows 10 IoT Core ακολουθούν τη Σύγχρονη Πολιτική Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: e2e64958c91092f2890a4d871de3fd7b96614d65
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869529"
-name: Υπηρεσίες πυρήνα IoT των Windows 10
+name: Υπηρεσίες Windows 10 IoT Core
 summary: >+
-  Οι υπηρεσίες Windows 10 IoT Core ακολουθούν τη [σύγχρονη](/lifecycle/policies/modern) πολιτική κύκλου ζωής.
+  Οι Υπηρεσίες Windows 10 IoT Core ακολουθούν τη [Σύγχρονη](/lifecycle/policies/modern) Πολιτική Κύκλου Ζωής.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2018
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Βασικές υπηρεσίες IoT των Windows 10](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> Οι Βασικές υπηρεσίες Windows 10 IoT είναι μια συνδρομή που προσφέρει υποστήριξη λογισμικού ως υπηρεσία, συμπεριλαμβανομένου του ελέγχου ενημέρωσης με το Κέντρο ενημέρωσης συσκευών και της βελτιωμένης ασφάλειας με τη βεβαίωση εύρυθμης λειτουργίας συσκευής, εφόσον εκτελείτε μια υποστηριζόμενη έκδοση του βασικού λογισμικού IoT των Windows 10."
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Υπηρεσίες Windows 10 IoT Core](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> Οι Υπηρεσίες Windows 10 IoT Core είναι μια συνδρομή που προσφέρει υποστήριξη λογισμικού ως υπηρεσία, συμπεριλαμβανομένου του ελέγχου ενημέρωσης με το Κέντρο Ενημέρωσης Συσκευών και της βελτιωμένης ασφάλειας με το Device Health Attestation, εφόσον εκτελείτε μια υποστηριζόμενη έκδοση του λογισμικού IoT Core των Windows 10."

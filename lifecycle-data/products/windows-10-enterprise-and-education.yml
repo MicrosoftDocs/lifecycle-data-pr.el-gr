@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 Για μεγάλες επιχειρήσεις και εκπαιδευτικά ιδρύματα
-  description: Τα Windows 10 για μεγάλες επιχειρήσεις και εκπαιδευτικά ιδρύματα ακολουθούν τη σύγχρονη πολιτική κύκλου ζωής.
+  title: Windows 10 για Επιχειρήσεις και Εκπαίδευση
+  description: Τα Windows 10 Enterprise και Education ακολουθούν τη Σύγχρονη Πολιτική Κύκλου Ζωής.
   ms.date: 07/30/2020
   ms.openlocfilehash: 959937e0ef4ac9c0cc65ecb1a6ef8aa332a835a8
   ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "879157"
-name: Windows 10 Για μεγάλες επιχειρήσεις και εκπαιδευτικά ιδρύματα
+name: Windows 10 για Επιχειρήσεις και Εκπαίδευση
 summary: >
-  Τα Windows 10 για μεγάλες επιχειρήσεις και εκπαιδευτικά ιδρύματα ακολουθούν τη [σύγχρονη](/lifecycle/policies/modern) πολιτική κύκλου ζωής.
+  Τα Windows 10 για Επιχειρήσεις και Εκπαίδευση ακολουθούν τη [Σύγχρονη](/lifecycle/policies/modern) Πολιτική Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Εκπαίδευση,
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Εκπαίδευση, Επιχειρήσεις
 
 
   > [!IMPORTANT]
@@ -57,4 +57,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Τα Windows ως υπηρεσία (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Πληροφορίες προϊόντος](/windows/windows-10/)\n* [Ενημερωτικό δελτίο κύκλου ζωής των Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Συνήθεις ερωτήσεις για τον κύκλο ζωής - Προϊόντα των Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Εκτός εάν αναβληθεί, οι επόμενες ενημερώσεις δυνατοτήτων ημιαξιομειού καναλιού των Windows 10 ενδέχεται να εγκατασταθούν πριν από την ημερομηνία λήξης της κύριας υποστήριξης που παρατίθεται.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Εκπαίδευση\n* Επιχείρηση"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Τα Windows ως υπηρεσία (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Πληροφορίες Προϊόντος](/windows/windows-10/)\n* [Ενημερωτικό δελτίο κύκλου ζωής των Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Συνήθεις ερωτήσεις για τον Κύκλο Ζωής - Προϊόντα των Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Εκτός εάν αναβληθούν, οι επόμενες ενημερώσεις δυνατοτήτων του εξαμηνιαίου καναλιού των Windows 10 μπορούν να εγκατασταθούν πριν από την ημερομηνία λήξης της Βασικής Υποστήριξης που αναφέρεται.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Εκπαίδευση\n* Επιχείρηση"
