@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft SQL Server 2005
-  description: Ο Microsoft SQL Server 2005 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  description: Ο Microsoft SQL Server 2005 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: cbfadc2995b179c7ee286f02fb5e78cc01d7db8f
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818117"
 name: Microsoft SQL Server 2005
 summary: >
-  Ο Microsoft SQL Server 2005 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Ο Microsoft SQL Server 2005 ακολουθεί την πολιτική [ Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Συμπαγής, Προγραμματιστής, Ενσωματωμένος, Επιχείρηση, Επιχείρηση για συστήματα που βασίζονται σε Itanium, Enterprise X64, Express, Express με προηγμένες υπηρεσίες, Πρότυπο, Πρότυπο για συστήματα που βασίζονται σε Itanium, Πρότυπο X64, Ομάδα εργασίας
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Compact, Προγραμματιστής, Ενσωματωμένο, Επιχείρηση, Επιχείρηση για συστήματα βασισμένα σε Itanium, Επιχείρηση X64, Express, Express με προημένες υπηρεσίες, Standard, Standard με συστήματα βασισμένα σε Itanium, Standard X64, Ομάδα Εργασίας
 
 
   > [!IMPORTANT]
 
-  > Η υποστήριξη για αυτό το προϊόν έχει λήξει. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω.
+  > Η υποστήριξη για αυτό το προϊόν έληξε. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω.
 products:
 - sql-server
 policyType: fixed
@@ -43,4 +43,4 @@ releases:
 - version: Original Release
   startDate: 01/14/2006
   endDate: 07/10/2007
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Πολιτική service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Η συμπαγής έκδοση του Microsoft SQL Server 2005 κυκλοφόρησε στις 19 Φεβρουαρίου 2007.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Συμπαγή\n* Προγραμματιστή\n* Ενσωματωμένο\n* Επιχείρηση\n* Επιχείρηση για συστήματα που βασίζονται σε Ιτανίου\n* Για μεγάλες επιχειρήσεις X64\n* Express\n* Εξπρές με προηγμένες υπηρεσίες\n* Πρότυπο\n* Πρότυπο για συστήματα που βασίζονται σε Ιτανίου\n* Πρότυπο X64\n* Ομάδας εργασίας"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Η συμπαγής έκδοση του Microsoft SQL Server 2005 κυκλοφόρησε στις 19 Φεβρουαρίου 2007.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Συμπαγής\n* Προγραμματιστής\n* Ενσωματωμένο\n* Επιχείρηση\n* Επιχείρηση για Συστήματα που βασίζονται σε Itanium\n* Επιχείρηση X64\n* Express\n* Εξπρές με Προηγμένες Υπηρεσίες\n* Τυπική ροή εργασίας\n* Πρότυπο για Συστήματα που βασίζονται σε Itanium\n* Τυπικό X64\n* Ομάδας εργασίας"

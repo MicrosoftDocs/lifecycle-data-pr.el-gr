@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Ενσωματωμένα τα Windows XP
-  description: Τα Windows XP Embedded ακολουθούν την πολιτική σταθερού κύκλου ζωής.
+  title: Windows XP Embedded
+  description: Τα Windows XP Embedded ακολουθούν την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2259d8ae34d4c63ad67bf4966d15bf71f2faa04c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818073"
-name: Ενσωματωμένα τα Windows XP
+name: Windows XP Embedded
 summary: >
-  Τα Windows XP Embedded ακολουθούν την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Τα Windows XP Embedded ακολουθούν την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
   Αυτό ισχύει για τις ακόλουθες εκδόσεις: Ενσωματωμένο
@@ -19,7 +19,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Η υποστήριξη για αυτό το προϊόν έχει λήξει.
+  > Η υποστήριξη για αυτό το προϊόν έληξε.
 products:
 - windows
 policyType: fixed
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 01/30/2002
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Ενσωματωμένη υποστήριξη των Windows XP](https://support.microsoft.com/help/18581)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Ενσωματωμένο"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Υποστήριξη των Windows XP Embedded](https://support.microsoft.com/help/18581)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Ενσωματωμένο"

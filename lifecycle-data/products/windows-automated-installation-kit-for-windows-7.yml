@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Κιτ αυτόματης εγκατάστασης των Windows για Windows 7
-  description: Το Κιτ αυτόματης εγκατάστασης των Windows για Windows 7 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Κιτ Αυτόματης Εγκατάστασης των Windows για τα Windows 7
+  description: Το Κιτ Αυτόματης Εγκατάστασης των Windows για τα Windows 7 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: aef3eea94538c8956abb01f8b3e681e9932d18a5
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "817928"
-name: Κιτ αυτόματης εγκατάστασης των Windows για Windows 7
+name: Κιτ Αυτόματης Εγκατάστασης των Windows για τα Windows 7
 summary: >
-  Το Κιτ αυτόματης εγκατάστασης των Windows για Windows 7 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Κιτ Αυτόματης Εγκατάστασης των Windows για τα Windows 7 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 
   > [!IMPORTANT]
 
-  > Η υποστήριξη για αυτό το προϊόν έχει λήξει.
+  > Η υποστήριξη για αυτό το προϊόν έληξε.
 products:
 - windows
 policyType: fixed-mainstream-only

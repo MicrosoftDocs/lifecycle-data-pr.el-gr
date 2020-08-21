@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Σύστημα Διαχείρισης Λιανικής Δυναμικής 2.0
-  description: Το Dynamics Retail Management System 2.0 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Σύστημα Dynamics Retail Management 2.0
+  description: Το Σύστημα Dynamics Retail Management 2.0 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: e587a27011a62b298f9003be9805c2e01b146057
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818263"
-name: Σύστημα Διαχείρισης Λιανικής Δυναμικής 2.0
+name: Σύστημα Dynamics Retail Management 2.0
 summary: >+
-  Το Dynamics Retail Management System 2.0 ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Σύστημα Dynamics Retail Management 2.0 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Έδρα, Λειτουργίες Καταστήματος
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Κεντρικά Γραφεία, Λειτουργίες Καταστημάτων
 
 products:
 - dynamics
@@ -39,4 +39,4 @@ releases:
 - version: Service Pack 1
   startDate: 07/31/2007
   endDate: 10/14/2008
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Έδρα\n* Λειτουργίες χώρου αποθήκευσης"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Κεντρικά Γραφεία\n* Λειτουργίες Χώρου Αποθήκευσης"

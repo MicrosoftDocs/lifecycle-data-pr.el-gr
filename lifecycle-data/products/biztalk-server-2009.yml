@@ -1,25 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: BizTalk Server 2009
-  description: Ο BizTalk Server 2009 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  description: Ο BizTalk Server 2009 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 89280d62397e3c5dbfaaf332c7f8618eb2713d0d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818843"
 name: BizTalk Server 2009
-summary: >
-  Ο BizTalk Server 2009 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
-
-
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Κλάδος, Προγραμματιστής, Εταιρεία,
-
-
-  > [!IMPORTANT]
-
-  > Η υποστήριξη για αυτό το προϊόν έχει λήξει. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω.
+summary: "Ο BizTalk Server 2009 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής. \n\nΑυτό ισχύει για τις ακόλουθες εκδόσεις: Υποκατάστημα, Developer, Επιχείρηση, Standard\n\n> [!IMPORTANT]\n> Η υποστήριξη για αυτό το προϊόν έληξε. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω.\n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -31,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Πληροφορίες έκδοσης](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n* [Πολιτική service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Υποκατάστημα\n* Προγραμματιστή\n* Επιχείρηση\n* Πρότυπο"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Πληροφορίες Έκδοσης](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Υποκατάστημα\n* Προγραμματιστής\n* Επιχείρηση\n* Τυπική ροή εργασίας"

@@ -1,23 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Διαχείριση ρύθμισης παραμέτρων κέντρου συστήματος της Microsoft 2007
-  description: Η Διαχείριση ρύθμισης παραμέτρων του Κέντρου συστήματος της Microsoft 2007 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Microsoft System Center Configuration Manager 2007
+  description: Ο Microsoft System Center Configuration Manager 2007 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 796670fd93547cc79f69c544085070efb0116650
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818521"
-name: Διαχείριση ρύθμισης παραμέτρων κέντρου συστήματος της Microsoft 2007
-summary: >
-  Η Διαχείριση ρύθμισης παραμέτρων του Κέντρου συστήματος της Microsoft 2007 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
-
-
-
-  > [!IMPORTANT]
-
-  > Η υποστήριξη για αυτό το προϊόν έχει λήξει. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω.
+name: Microsoft System Center Configuration Manager 2007
+summary: "Ο Microsoft System Center Configuration Manager 2007 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής. \n\n\n> [!IMPORTANT]\n> Η υποστήριξη για αυτό το προϊόν έληξε. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω.\n"
 products:
 - msc
 policyType: fixed
@@ -35,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/29/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Πληροφορίες προϊόντος](/mem/configmgr/core/understand/introduction)\n* [Πολιτική service pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Πληροφορίες Προϊόντος](/mem/configmgr/core/understand/introduction)\n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)"

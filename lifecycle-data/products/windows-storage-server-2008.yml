@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Storage Server 2008
-  description: Ο Windows Storage Server 2008 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  description: Ο Windows Storage Server 2008 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5fcd64fc253504e9ffb8db1c34a0597cc550b12b
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "817909"
 name: Windows Storage Server 2008
 summary: >
-  Ο Windows Storage Server 2008 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Ο Windows Storage Server 2008 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Βασικές εκδόσεις, Βασικές 32-Bit, Βασικές 64-bit, Βασικές ενσωματωμένες, Βασικές ενσωματωμένες 32-bit, Εταιρεία, Εταιρική ενσωματωμένη, Τυπική, Τυπική ενσωματωμένη, Ομάδα εργασίας
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Βασικό, Βασικό 32-Bit, Basic 64-bit, Βασικό Ενσωματωμένο, Βασικό Ενσωματωμένο 32-bit, Επιχείρηση, Ενσωματωμένη Επιχείρηση, Standard, Standard Embedded, Ομάδα εργασίας
 
 
   > [!IMPORTANT]
 
-  > Αυτό το προϊόν έχει φτάσει στο τέλος της υποστήριξης. Δείτε παρακάτω για οδηγίες μετεγκατάστασης.
+  > Η υποστήριξη για αυτό το προϊόν έχει λήξει. Δείτε παρακάτω για οδηγίες μετεγκατάστασης.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Service Pack 2
   startDate: 07/19/2009
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Πληροφορίες αναβάθμισης διακομιστή](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Βασικές\n* Βασικά 32 bit\n* Βασικό 64-bit\n* Βασικά ενσωματωμένα\n* Βασικό ενσωματωμένο 32-bit\n* Επιχείρηση\n* Ενσωματωμένο για μεγάλες επιχειρήσεις\n* Πρότυπο\n* Τυπικό ενσωματωμένο\n* Ομάδας εργασίας"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Πληροφορίες Αναβάθμισης Διακομιστή](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Βασικό\n* Βασικό 32-Bit\n* Βασικό 64-bit\n* Ενσωματωμένο Βασικό\n* Βασικό Ενσωματωμένο 32-bit\n* Επιχείρηση\n* Ενσωματωμένη Επιχείρηση\n* Τυπική ροή εργασίας\n* Standard Ενσωματωμένο\n* Ομάδας εργασίας"

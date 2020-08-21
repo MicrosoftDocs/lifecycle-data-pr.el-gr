@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2010
-  description: Το Visual Studio 2010 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  description: Το Visual Studio 2010 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 30c112ab23bba45aaec60660ab85c362bcebf030
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818090"
 name: Visual Studio 2010
 summary: >+
-  Το Visual Studio 2010 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Visual Studio 2010 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Παράγοντες, Όλοι, ASP .NET MVC 4, Express, F# 2.0 Χρόνος εκτέλεσης, Διαχείριση εργαστηρίου, Εργαλεία απόδοσης, Premium, Επαγγελματίας, Απομακρυσμένο πρόγραμμα εντοπισμού σφαλμάτων, SDK, Shell (Integrated), Κέλυφος (Απομονωμένος), Παράγοντες ομάδας, Εξερεύνηση ομάδας, Επαγγελματίας δοκιμής, Εργαλεία για το Office System 4.0 Runtime, Ultimate, VB Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Οπτικοποίηση &
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Πράκτορες, Όλα, ASP .NET MVC 4, Express, F# 2.0 Runtime, Διαχείριση Εργαστηρίου, Εργαλεία Performance, Premium, Επαγγελματικό, Remote Debugger, SDK, Shell (Integrated), Shell (Isolated), Ομάδα Πρακτόρων, Team Explorer, Test Professional, Εργαλεία για Office System 4.0 Runtime, Ultimate, VB Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Παράγοντες\n* Όλα\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Χρόνος εκτέλεσης\n* Διαχείριση Εργαστηρίου\n* Εργαλεία επιδόσεων\n* Premium\n* Επαγγελματική\n* Απομακρυσμένο πρόγραμμα εντοπισμού σφαλμάτων\n* Sdk\n* Κέλυφος (Ενσωματωμένο)\n* Κέλυφος (Απομονωμένο)\n* Πράκτορες ομάδας\n* Εξερεύνηση ομάδας\n* Δοκιμή Επαγγελματική\n* Εργαλεία για το χρόνο εκτέλεσης του συστήματος του Office 4.0\n* Απόλυτη\n* VB Εξπρές\n* Οπτική έκφραση C#\n* Οπτική C++ Εξπρές\n* Οπτικός προγραμματιστής Ιστού Εξπρές\n* & μοντελοποίησης απεικόνισης SDK"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Πράκτορες\n* Όλα\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Χρόνος Εκτέλεσης\n* Διαχείριση Εργαστηρίου\n* Εργαλεία Επιδόσεων\n* Premium\n* Επαγγελματικό\n* Απομακρυσμένο Πρόγραμμα Εντοπισμού Σφαλμάτων\n* SDK\n* Κελί (Ενσωματωμένο)\n* Shell (Απομονωμένο)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Εργαλεία για τον Χρόνο Εκτέλεσης του συστήματος του Office 4.0\n* Ultimate\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Visualization & Modeling SDK"
