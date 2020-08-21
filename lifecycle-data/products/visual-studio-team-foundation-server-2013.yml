@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Διακομιστής υποδομής ομάδας του Visual Studio 2013
-  description: Ο Visual Studio Team Foundation Server 2013 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Visual Studio Team Foundation Server 2013
+  description: Ο Visual Studio Team Foundation Server 2013 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: b24e1b9ebaf9855024973bfa2ff6b7d90e3af408
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854572"
-name: Διακομιστής υποδομής ομάδας του Visual Studio 2013
-summary: >+
-  Ο Visual Studio Team Foundation Server 2013 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
-
-
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Όλα, Διαχείριση έκδοσης
-
+name: Visual Studio Team Foundation Server 2013
+summary: "Ο Visual Studio Team Foundation Server 2013 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής. \n\nΑυτό ισχύει για τις ακόλουθες εκδόσεις: Όλα, Release Management\n\n"
 products:
 - vs
 policyType: fixed
@@ -30,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 10/11/2016
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες προϊόντος](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [Πληροφορίες συντήρησης](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Για το διακομιστή διαχείρισης έκδοσης για TFS 2013, η ενημερωμένη έκδοση 4 θα υποστηρίζεται σύμφωνα με τις οδηγίες πολιτικής μέχρι τις 4/9/2024.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Όλα\n* Διαχείριση έκδοσης"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες Προϊόντος](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [Πληροφορίες Συντήρησης](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [ Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Για τον Release Management Server για TFS 2013, η ενημέρωση 4 θα υποστηρίζεται σύμφωνα με τις οδηγίες πολιτικής μέχρι τις 4/9/2024.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Όλα\n* Release Management"

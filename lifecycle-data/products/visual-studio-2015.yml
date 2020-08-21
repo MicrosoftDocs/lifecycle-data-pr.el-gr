@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2015
-  description: Το Visual Studio 2015 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  description: Το Visual Studio 2015 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4300bd472c7f836c9d93e7f7e3da2005da410bac
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854441"
 name: Visual Studio 2015
-summary: >+
-  Το Visual Studio 2015 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
-
-
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Παράγοντες, Κοινότητα, Επιχειρήσεις, Εξπρές για Web, Express για Windows 10, Express για windows Desktop, SdK μοντελοποίησης, Επαγγελματική, Διαχείριση έκδοσης, Απομακρυσμένα εργαλεία, SDK, Κέλυφος (Ενσωματωμένο), Κέλυφος (Απομονωμένο), Δοκιμή Professional, Visual C++ αναδιανεμητικό
-
+summary: "Το Visual Studio 2015 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής. \n\nΑυτό ισχύει για τις ακόλουθες εκδόσεις: Πράκτορες, Κοινότητα, Επιχείρηση, Express για τον Ιστό, Express για τα Windows 10, Express για τα Windows Desktop, Modeling SDK, Επαγγελματικό, Release Management, Απομακρυσμένα Εργαλεία, SDK, Shell (Integrated), Shell (Isolated), Test Professional, Visual C++ Redistributable\n\n"
 products:
 - vs
 policyType: fixed
@@ -30,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες συντήρησης](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Παράγοντες\n* Community\n* Επιχείρηση\n* Εξπρές για web\n* Εξπρές για Windows 10\n* Εξπρές για την επιφάνεια εργασίας των Windows\n* Μοντελοποίηση SDK\n* Επαγγελματική\n* Διαχείριση έκδοσης\n* Απομακρυσμένα εργαλεία\n* Sdk\n* Κέλυφος (Ενσωματωμένο)\n* Κέλυφος (Απομονωμένο)\n* Δοκιμή Επαγγελματική\n* Οπτική C++ με δυνατότητα αναδιανομής"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες Συντήρησης](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Πράκτορες\n* Κοινότητα\n* Επιχείρηση\n* Εξπρές για τον Ιστό\n* Express για τα Windows 10\n* Εξπρές για την επιφάνεια εργασίας των Windows\n* Modeling SDK\n* Επαγγελματικό\n* Release Management\n* Απομακρυσμένα Eργαλεία\n* SDK\n* Κελί (Ενσωματωμένο)\n* Shell (Απομονωμένο)\n* Test Professional\n* Visual C++ Redistributable"

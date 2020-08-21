@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Αυτόνομο πακέτο υφάσματος υπηρεσίας για τον Windows Server
-  description: Το αυτόνομο πακέτο υφάσματος υπηρεσίας για τον Windows Server ακολουθεί τη σύγχρονη πολιτική κύκλου ζωής.
+  title: Αυτόνομο πακέτο Fabric υπηρεσίας για τον Windows Server
+  description: Το αυτόνομο πακέτο Fabric υπηρεσίας για τον Windows Server ακολουθεί τη Σύγχρονη Πολιτική Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: d1876355f78b6c35bded38d9b1cbd039d4f0cd91
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854503"
-name: Αυτόνομο πακέτο υφάσματος υπηρεσίας για τον Windows Server
+name: Αυτόνομο πακέτο Fabric υπηρεσίας για τον Windows Server
 summary: >+
-  Το αυτόνομο πακέτο υφάσματος υπηρεσίας για τον Windows Server ακολουθεί τη [σύγχρονη](/lifecycle/policies/modern) πολιτική κύκλου ζωής.
+  Το αυτόνομο πακέτο Υπηρεσίας Fabric για τον Windows Server ακολουθεί τη [Σύγχρονη](/lifecycle/policies/modern) Πολιτική Κύκλου Ζωής.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 09/26/2016
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες συντήρησης](/azure/service-fabric/service-fabric-support)"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες Συντήρησης](/azure/service-fabric/service-fabric-support)"

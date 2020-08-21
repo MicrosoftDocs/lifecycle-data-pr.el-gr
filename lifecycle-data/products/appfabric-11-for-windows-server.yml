@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: AppFabric 1.1 για windows server
-  description: Το AppFabric 1.1 για Windows Server ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: AppFabric 1.1 για Windows Server
+  description: Το AppFabric 1.1 για Windows Server ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 64fa9cde8a1c3dffe62eac74d0c43c0cf7911fa7
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854366"
-name: AppFabric 1.1 για windows server
+name: AppFabric 1.1 για Windows Server
 summary: >+
-  Το AppFabric 1.1 για Windows Server ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το AppFabric 1.1 για Windows Server ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 02/11/2012
   endDate: 04/12/2022
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Επέκταση κύκλου ζωής](/archive/blogs/msdn/appfabric/microsoft-appfabric-1-1-for-windows-server-support-lifecycle-extension-4112017)"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Επέκταση Κύκλου Ζωής](/archive/blogs/msdn/appfabric/microsoft-appfabric-1-1-for-windows-server-support-lifecycle-extension-4112017)"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2012
-  description: Το Visual Studio 2012 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  description: Το Visual Studio 2012 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 31d437b362fc9cdf06165caca18202e49cd7624b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854393"
 name: Visual Studio 2012
 summary: >+
-  Το Visual Studio 2012 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Visual Studio 2012 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Παράγοντες, Κοινότητα 2013, Express για Web, Express για Windows 8, Express για windows Desktop, IntelliTrace Collector, Εργαλεία Microsoft Azure, Premium, Επαγγελματικά, Απομακρυσμένα εργαλεία, Κέλυφος (Ενσωματωμένο), Κέλυφος (Απομονωμένο), Εργαλεία δεδομένων ΤΟΥ SQL Server, Εξερεύνηση ομάδας, Δοκιμή Professional 2013, Ultimate, Visual C++ αναδιανομή, Επεκτάσεις εργαλείων Web
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Πράκτορες, Κοινότητα 2013, Express για Web, Express για Windows 8, Express για Windows Desktop, IntelliTrace Collector, Microsoft Azure Tools, Premium, Επαγγελματικό, Απομακρυσμένα εργαλεία, Shell (Integrated), Shell (Isolated), Εργαλεία SQL Server Data, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable, Web Tools Extensions
 
 products:
 - vs
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Κύκλος ζωής και συντήρηση προϊόντων του Visual Studio](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Παράγοντες\n* Κοινότητα 2013\n* Εξπρές για web\n* Εξπρές για Windows 8\n* Εξπρές για την επιφάνεια εργασίας των Windows\n* Συλλέκτης IntelliTrace\n* Εργαλεία Microsoft Azure\n* Premium\n* Επαγγελματική\n* Απομακρυσμένα εργαλεία\n* Κέλυφος (Ενσωματωμένο)\n* Κέλυφος (Απομονωμένο)\n* Εργαλεία δεδομένων του SQL Server\n* Εξερεύνηση ομάδας\n* Δοκιμή Επαγγελματική 2013\n* Απόλυτη\n* Οπτική C++ με δυνατότητα αναδιανομής\n* Επεκτάσεις εργαλείων Web"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Κύκλος ζωής και Συντήρηση Προϊόντων του Visual Studio](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Πράκτορες\n* Κοινότητα 2013\n* Εξπρές για τον Ιστό\n* Express για Windows 8\n* Εξπρές για την επιφάνεια εργασίας των Windows\n* IntelliTrace Collector\n* Εργαλεία Microsoft Azure\n* Premium\n* Επαγγελματικό\n* Απομακρυσμένα Eργαλεία\n* Κελί (Ενσωματωμένο)\n* Shell (Απομονωμένο)\n* Εργαλεία Δεδομένων SQL Server\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ Redistributable\n* Επεκτάσεις Εργαλείων Ιστού"
