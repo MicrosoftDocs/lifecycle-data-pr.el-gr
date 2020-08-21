@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SQL Server 2014
-  description: Ο SQL Server 2014 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  description: Ο SQL Server 2014 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: e0e209968b254d731dcf393a09d7353899d837ef
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854615"
 name: SQL Server 2014
 summary: >+
-  Ο SQL Server 2014 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Ο SQL Server 2014 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Επιχειρηματική ευφυΐα, Προγραμματιστής, Εταιρεία, Εταιρικός πυρήνας, Εξπρές, Τυπικός, Web
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Business Intelligence, Προγγραματισμός, Επιχείρηση, Πυρήνας Επιχείρησης, Express, Standard, Ιστός
 
 products:
 - sql-server
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 06/05/2014
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχειρηματική Ευφυΐα\n* Προγραμματιστή\n* Επιχείρηση\n* Εταιρικός πυρήνας\n* Express\n* Πρότυπο\n* Web"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχειρηματική Ευφυΐα\n* Προγραμματιστής\n* Επιχείρηση\n* Εταιρικός Πυρήνας\n* Express\n* Τυπική ροή εργασίας\n* Ιστός"

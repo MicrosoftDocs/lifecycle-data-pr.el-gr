@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 2016 LTSB
-  description: Τα Windows 10 2016 LTSB ακολουθούν την πολιτική σταθερού κύκλου ζωής.
+  title: Windows 10 Enterprise 2016 LTSB
+  description: Τα Windows 10 2016 LTSB ακολουθούν την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 05a489099eb9b0bd08717e99e8735490d93edbbd
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854235"
-name: Windows 10 2016 LTSB
+name: Windows 10 Enterprise 2016 LTSB
 summary: >+
-  Τα Windows 10 2016 LTSB ακολουθούν την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Τα Windows 10 2016 LTSB ακολουθούν την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Enterprise
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Επιχείρηση
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 08/02/2016
   endDate: 10/13/2026
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Επανέκδοση της ενημερωμένης έκδοσης των Windows 10 Οκτωβρίου (έκδοση 1809)](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Τα Windows ως υπηρεσία (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Συνήθεις ερωτήσεις για τα Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Ενημέρωση Οκτωβρίου των Windows (έκδοση 1809) επανέκδοση](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Τα Windows ως υπηρεσία (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Συνήθεις ερωτήσεις για τα Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση"

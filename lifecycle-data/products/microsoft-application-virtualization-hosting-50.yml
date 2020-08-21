@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Φιλοξενία εικονικής διαμόρφωσης εφαρμογών της Microsoft 5.0 για επιτραπέζιους υπολογιστές των Windows
-  description: Η φιλοξενία εικονικής διαμόρφωσης εφαρμογών της Microsoft 5.0 για επιφάνειες εργασίας των Windows ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Microsoft Application Virtualization Hosting 5.0 για επιτραπέζιους υπολογιστές Windows
+  description: Το Microsoft Application Virtualization Hosting 5.0 για την Επιφάνεια Εργασίας των Windows Desktops ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: dff04b865491bfb99aa8d20e556aafd434a59398
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854331"
-name: Φιλοξενία εικονικής διαμόρφωσης εφαρμογών της Microsoft 5.0 για επιτραπέζιους υπολογιστές των Windows
+name: Microsoft Application Virtualization Hosting 5.0 για επιτραπέζιους υπολογιστές Windows
 summary: >+
-  Η φιλοξενία εικονικής διαμόρφωσης εφαρμογών της Microsoft 5.0 για επιφάνειες εργασίας των Windows ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Microsoft Application Virtualization Hosting 5.0 για την Επιφάνεια Εργασίας των Windows ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: για τις επιφάνειες εργασίας των Windows
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: για τους Επιτραπέζιους Υπολογιστές των Windows
 
 products:
 - windows
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες προϊόντος](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Πολιτική service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* για επιφάνειες εργασίας των Windows"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες Προϊόντος](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Για επιτραπέζιους υπολογιστές Windows"

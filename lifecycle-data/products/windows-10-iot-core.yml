@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Πυρήνας IoT των Windows 10
-  description: Ο πυρήνας IoT των Windows 10 ακολουθεί τη σύγχρονη πολιτική κύκλου ζωής.
+  title: Windows 10 IoT Core
+  description: Τα Windows 10 IoT Core ακολουθούν τη Σύγχρονη Πολιτική Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4de1aecc88c37d87a38cd5eca9274bcb4c854739
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854484"
-name: Πυρήνας IoT των Windows 10
+name: Windows 10 IoT Core
 summary: >
-  Ο πυρήνας IoT των Windows 10 ακολουθεί τη [σύγχρονη](/lifecycle/policies/modern) πολιτική κύκλου ζωής.
+  Τα Windows 10 IoT Core ακολουθούν τη [Σύγχρονη](/lifecycle/policies/modern) Πολιτική Κύκλου Ζωής.
 
 
 
@@ -40,4 +40,4 @@ releases:
 - version: Version 1607
   startDate: 08/02/2016
   endDate: 04/10/2018
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες προϊόντος](/windows/iot-core/windows-iot-core)\n* [Ενημερωτικό δελτίο κύκλου ζωής των Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Τα Windows ως υπηρεσία (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Συνήθεις ερωτήσεις για τον κύκλο ζωής - Προϊόντα των Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Εκτός εάν αναβληθεί, οι επόμενες ενημερώσεις δυνατοτήτων ημιαξιομειού καναλιού των Windows 10 ενδέχεται να εγκατασταθούν πριν από την ημερομηνία λήξης της κύριας υποστήριξης που παρατίθεται."
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες Προϊόντος](/windows/iot-core/windows-iot-core)\n* [Ενημερωτικό δελτίο κύκλου ζωής των Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Τα Windows ως υπηρεσία (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Συνήθεις ερωτήσεις για τον Κύκλο Ζωής - Προϊόντα των Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Εκτός εάν αναβληθούν, οι επόμενες ενημερώσεις δυνατοτήτων του εξαμηνιαίου καναλιού των Windows 10 μπορούν να εγκατασταθούν πριν από την ημερομηνία λήξης της Βασικής Υποστήριξης που αναφέρεται."

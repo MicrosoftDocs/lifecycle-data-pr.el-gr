@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Small Business Server 2011
-  description: Ο Windows Small Business Server 2011 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Windows Server 2011 για Μικρές Επιχειρήσεις
+  description: Ο Windows Server για Μικρές Επιχειρήσεις 2011 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 61033305f4abf2b1c63cd15f8ae3dce88331fa7e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854389"
-name: Windows Small Business Server 2011
+name: Windows Server 2011 για Μικρές Επιχειρήσεις
 summary: >
-  Ο Windows Small Business Server 2011 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Ο Windows Server για Μικρές Επιχειρήσεις 2011 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Βασικά στοιχεία, Πρόσθετο Premium,
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Σημαντικά, Premium Add-On, Standard
 
 
   > [!IMPORTANT]
 
-  > Η ημερομηνία υποστήριξης για αυτό το πακέτο προϊόντος καθορίζεται από τους αντίστοιχους κύκλους ζωής του μεμονωμένου συστατικού προϊόντος. Ελέγξτε τον κύκλο ζωής του μεμονωμένου συστατικού προϊόντος για να προσδιορίσετε τη διάρκεια της υποστήριξης.
+  > Η ημερομηνία υποστήριξης για αυτό το πακέτο προϊόντος καθορίζεται από τους αντίστοιχους κύκλους ζωής του μεμονωμένου στοιχείου προϊόντος. Ελέγξτε τον κύκλο ζωής του μεμονωμένου στοιχείου προϊόντος για να προσδιορίσετε τη διάρκεια της υποστήριξης.
 products:
 - windows
 policyType: fixed
@@ -28,4 +28,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 03/09/2011
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](https://aka.ms/AA1ovn4)\n* [Μετεγκατάσταση του Προτύπου Windows Small Business Server 2011 σε βασικά στοιχεία του Windows Server](/windows-server-essentials/migrate/migrate-windows-small-business-server-2011-standard-to-windows-server-essentials)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Βασικά\n* Πρόσθετο premium\n* Πρότυπο"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](https://aka.ms/AA1ovn4)\n* [Μετεγκατάσταση του Windows για Μικρές Επιχειρήσεις Server 2011 Standard Windows Server Essentials](/windows-server-essentials/migrate/migrate-windows-small-business-server-2011-standard-to-windows-server-essentials)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Σημαντικά\n* Premium Add-On\n* Τυπική ροή εργασίας"
