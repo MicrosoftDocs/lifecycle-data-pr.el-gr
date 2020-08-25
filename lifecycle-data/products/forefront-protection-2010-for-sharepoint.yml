@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Forefront Protection 2010 για το SharePoint
+  description: Το Forefront Protection 2010 για το SharePoint ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: cb0b92034979bf559cc72ac5d6b6302d3e986f39
+  ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 08/25/2020
+  ms.locfileid: "908738"
+name: Forefront Protection 2010 για το SharePoint
+summary: >+
+  Το Forefront Protection 2010 για το SharePoint ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 07/15/2010
+  extendedEnd: 12/31/2015
+releases:
+- version: Original Release
+  startDate: 07/15/2010
+  endDate: 12/31/2015
+content: "\n\n> [!NOTE]\n> Ο Χάρτης πορείας για τα προϊόντα ασφαλείας κάτω από το Forefront brand έχει αλλάξει. Αυτό το προϊόν έχει διακοπεί από τις 31 Δεκεμβρίου, 2015."
