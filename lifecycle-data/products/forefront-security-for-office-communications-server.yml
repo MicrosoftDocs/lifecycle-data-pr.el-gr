@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Forefront Security για το Office Communications Server
+  description: Το Forefront Security για το Office Communications Server ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 5f0144e2e7f36644a959dccab8e1da4696e8c230
+  ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
+  ms.translationtype: MT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 08/25/2020
+  ms.locfileid: "908737"
+name: Forefront Security για το Office Communications Server
+summary: >+
+  Το Forefront Security για το Office Communications Server ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 06/09/2009
+  extendedEnd: 12/31/2015
+releases:
+- version: RTM
+  startDate: 06/09/2009
+  endDate: 12/31/2015
+content: "\n\n> [!NOTE]\n> Ο Χάρτης πορείας για τα προϊόντα ασφαλείας κάτω από το Forefront brand έχει αλλάξει. Αυτό το προϊόν έχει διακοπεί από τις 31 Δεκεμβρίου, 2015."
