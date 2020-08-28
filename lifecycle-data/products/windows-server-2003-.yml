@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'Windows Server 2003 '
+  description: Ο Windows Server 2003 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
+  ms.date: 08/13/2020
+  ms.openlocfilehash: 3558caf5ca1df8b303629236184460220b5a76e5
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.translationtype: HT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893965"
+name: 'Windows Server 2003 '
+summary: >+
+  Ο Windows Server 2003 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
+
+
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Κέντρο δεδομένων (32-bit x86), Κέντρο δεδομένων (x64), Κέντρο δεδομένων για συστήματα που βασίζονται σε Τεχνολογία Itanium, Για Επιχειρήσεις (32-Bit x86), Για Επιχειρήσεις για συστήματα που βασίζονται σε Τεχνολογία Itanium, Για Επιχειρήσεις X64, Standard (32-bit x86), Web
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/28/2003
+  end: 07/13/2010
+  extendedEnd: 07/14/2015
+releases:
+- version: Service Pack 2
+  startDate: 03/13/2007
+  endDate: 07/14/2015
+- version: Service Pack 1
+  startDate: 03/30/2005
+  endDate: 04/14/2009
+- version: Original Release
+  startDate: 05/28/2003
+  endDate: 04/10/2007
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Προετοιμασία υπολογιστών του Windows Server 2003 για μετεγκατάσταση](/azure/migrate/prepare-windows-server-2003-migration)\n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Υποστηριζόμενες διαδρομές για αναβάθμιση από Windows Server 2003 σε Windows Server 2008](https://support.microsoft.com/help/951041/supported-paths-for-upgrading-from-windows-server-2003-to-windows-serv)\n\n> [!NOTE]\n> Τα συστήματα με βάση το itanium έχουν ημερομηνία έναρξης τη 19η Ιουνίου 2003.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Κέντρο δεδομένων (32-bit x86)\n* Κέντρο δεδομένων (x64)\n* Κέντρο δεδομένων για συστήματα που βασίζονται σε τεχνολογία Itanium\n* Για επιχειρήσεις (32-Bit x86)\n* Επιχείρηση για Συστήματα που βασίζονται σε Itanium\n* Επιχείρηση X64\n* Τυπικό (32-bit x86)\n* Ιστός"
