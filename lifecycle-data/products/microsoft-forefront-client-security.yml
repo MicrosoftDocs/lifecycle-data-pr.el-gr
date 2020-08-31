@@ -2,13 +2,13 @@
 metadata:
   title: Ασφάλεια προγράμματος-πελάτη του Microsoft Forefront
   description: Το Microsoft Forefront Client Security ακολουθεί την πολιτική σταθερού κύκλου ζωής.
-  ms.date: 08/21/2020
-  ms.openlocfilehash: 802c6836324ac39b0b8ffc99c1f7f6734906445b
-  ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
+  ms.date: 08/28/2020
+  ms.openlocfilehash: 335ae81ffa4b7cb64352b19e7330765a4cac6c68
+  ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
   ms.translationtype: MT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 08/25/2020
-  ms.locfileid: "908740"
+  ms.lasthandoff: 08/28/2020
+  ms.locfileid: "924255"
 name: Ασφάλεια προγράμματος-πελάτη του Microsoft Forefront
 summary: >+
   Το Microsoft Forefront Client Security ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 08/02/2007
   endDate: 07/14/2015
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Προστασία απόληξης κέντρου συστήματος](http://www.microsoft.com/server-cloud/products/system-center-2012-r2-configuration-manager/default.aspx)\n\n> [!NOTE]\n> Η ασφάλεια προγράμματος-πελάτη Forefront έχει διακοπεί. Η υποστήριξη λήγει στις 14 Ιουλίου 2015. Οι ενημερώσεις ορισμού προστασίας από λογισμικό κακόβουλης λειτουργίας και antispyware δεν θα είναι πλέον διαθέσιμες μετά το τέλος της υποστήριξης για την έκδοση του προϊόντος. Παρακαλείσθε να αξιολογήσετε την προστασία απόληξης συστήματος κέντρου ως αντικαταστάτης."
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Προστασία απόληξης κέντρου συστήματος](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)\n\n> [!NOTE]\n> Το Forefront Client Security έχει διακοπεί από τις 14 Ιουλίου, 2015. Οι ενημερώσεις ορισμού προστασίας από λογισμικό κακόβουλης λειτουργίας και antispyware δεν θα είναι πλέον διαθέσιμες μετά το τέλος της υποστήριξης για την έκδοση του προϊόντος. Παρακαλείσθε να αξιολογήσετε την προστασία απόληξης συστήματος κέντρου ως αντικαταστάτης."
