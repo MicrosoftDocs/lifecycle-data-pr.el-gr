@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2019
-  description: Το Microsoft Office 2019 ακολουθεί την Πολιτική σταθερού κύκλου ζωής.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 76252d1d17d478ee3ac5717a68cc8887de606d69
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  description: Το Microsoft Office 2019 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 09/01/2020
+  keywords: Home and Business,Home and Student,Personal,Professional,Professional Academic,Professional Plus,Standard
+  ms.openlocfilehash: 902490302b48c61548ee755b3765506bb1e53b04
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "869591"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930380"
 name: Microsoft Office 2019
 summary: >+
-  Το Microsoft Office 2019 ακολουθεί την [Πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Microsoft Office 2019 ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Σπίτι και Επιχειρήσεις, Σπίτι και Φοιτητής, Προσωπικός, Επαγγελματίας, Επαγγελματικός Ακαδημαϊκός, Επαγγελματικός Plus, Πρότυπο
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: οικιακή χρήση, οικιακή χρήση και μαθητές, προσωπικά, επαγγελματικά, επαγγελματικά ακαδημαϊκά, επαγγελματικά Plus, Standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 09/24/2018
   endDate: 10/14/2025
-content: "\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Σπίτι και Επιχειρήσεις\n* Σπίτι και Φοιτητής\n* Προσωπική\n* Επαγγελματική\n* Επαγγελματική Ακαδημαϊκή\n* Επαγγελματικό Συν\n* Πρότυπο"
+content: "\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Οικιακό και Επιχειρηματικό\n* Οικιακό και Φοιτητικό\n* Προσωπικό\n* Επαγγελματικό\n* Επαγγελματικό Ακαδημαϊκό\n* Επαγγελματικό Plus\n* Τυπική ροή εργασίας"
