@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Εκδότης 2010
+  title: Publisher 2010
   description: Ο Publisher 2010 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: edb6c6caacc0e7d246a043d454934fe19b72fa52
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 73037ae31d902bde1b7d7f2a41fe29a4f4c101cd
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "817948"
-name: Εκδότης 2010
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "926236"
+name: Publisher 2010
 summary: >+
-  Ο Publisher 2010 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Ο Publisher 2010 ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις:
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Τυπική ροή εργασίας
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Πρότυπο"
+content: "\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Τυπική ροή εργασίας"
