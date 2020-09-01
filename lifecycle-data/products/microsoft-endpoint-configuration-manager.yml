@@ -2,13 +2,14 @@
 metadata:
   title: Διαχείριση ρύθμισης παραμέτρων τελικού σημείου της Microsoft
   description: Η διαχείριση ρύθμισης παραμέτρων απόληξης της Microsoft ακολουθεί την πολιτική σύγχρονου κύκλου ζωής.
-  ms.date: 08/20/2020
-  ms.openlocfilehash: 0543b1273fc60ca7a23a5ce6455cf027737021c7
-  ms.sourcegitcommit: f5095aa6fc41dcc71c883cae08719b5b6bf9585c
+  ms.date: 09/01/2020
+  keywords: SCCM,System Center Configuration Manager
+  ms.openlocfilehash: fa325717dae54209b97245681c1e0292890ba952
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 08/20/2020
-  ms.locfileid: "905847"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934043"
 name: Διαχείριση ρύθμισης παραμέτρων τελικού σημείου της Microsoft
 summary: >
   Η διαχείριση ρύθμισης παραμέτρων απόληξης της Microsoft ακολουθεί την πολιτική [σύγχρονου](/lifecycle/policies/modern) κύκλου ζωής.
@@ -69,4 +70,4 @@ releases:
 - version: Version 1511
   startDate: 12/08/2015
   endDate: 12/08/2016
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες συντήρησης](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [Λεπτομέρειες έκδοσης](/mem/configmgr/core/servers/manage/updates#version-details)\n* [Η διαχείριση ρύθμισης παραμέτρων του System Center είναι πλέον η διαχείριση ρύθμισης παραμέτρων απόληξης της Microsoft](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [Ιστορικές εκδόσεις](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Τι είναι η Διαχείριση παραμέτρων](/mem/configmgr/core/understand/introduction)\n\n\n\nλέξεις-κλειδιά: SCCM, διαχείριση ρύθμισης παραμέτρων κέντρου συστήματος"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες Συντήρησης](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [Λεπτομέρειες έκδοσης](/mem/configmgr/core/servers/manage/updates#version-details)\n* [Η διαχείριση ρύθμισης παραμέτρων του System Center είναι πλέον η διαχείριση ρύθμισης παραμέτρων απόληξης της Microsoft](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [Ιστορικές εκδόσεις](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Τι είναι η Διαχείριση παραμέτρων](/mem/configmgr/core/understand/introduction)"
