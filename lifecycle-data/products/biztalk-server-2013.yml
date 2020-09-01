@@ -2,13 +2,14 @@
 metadata:
   title: BizTalk Σέρβερ 2013
   description: Ο BizTalk Server 2013 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9598ebb125a35917a9f5d125bd1a6e49b42694c3
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Branch,Developer,Enterprise,Standard
+  ms.openlocfilehash: 100aa95885f04cb46c643954c2f6de0cfac1073e
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "854365"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "932193"
 name: BizTalk Σέρβερ 2013
 summary: "Ο BizTalk Server 2013 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής. \n\nΑυτό ισχύει για τις ακόλουθες εκδόσεις: Υποκατάστημα, Developer, Επιχείρηση, Standard\n\n"
 products:
