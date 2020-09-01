@@ -2,19 +2,20 @@
 metadata:
   title: Microsoft Office 2016 για Mac
   description: Το Microsoft Office 2016 για Mac ακολουθεί την πολιτική σταθερού κύκλου ζωής.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 8d2998bebb75602990459d9d60060f04cc516e03
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Home and Business,Home and Student,Standard
+  ms.openlocfilehash: b92cf0db708d566826b8d260ef9026bc308c41ce
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "854635"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936300"
 name: Microsoft Office 2016 για Mac
 summary: >+
-  Το Microsoft Office 2016 για Mac ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Microsoft Office 2016 για Mac ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Οικία και επιχειρήσεις, Οικία και Φοιτητής,
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: οικιακή χρήση, οικιακή χρήση και μαθητές, Standard
 
 products:
 - office
@@ -26,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 09/22/2015
   endDate: 10/13/2020
-content: "\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Σπίτι και Επιχειρήσεις\n* Σπίτι και Φοιτητής\n* Πρότυπο"
+content: "\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Οικιακό και Επιχειρηματικό\n* Οικιακό και Φοιτητικό\n* Τυπική ροή εργασίας"
