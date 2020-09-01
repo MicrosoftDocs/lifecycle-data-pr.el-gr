@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Lync Server 2010
   description: Ο Microsoft Lync Server 2010 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
-  ms.date: 07/30/2020
-  ms.openlocfilehash: 093060d50a15334bdeac1891bf7828d50ad0f9dc
-  ms.sourcegitcommit: e219a019691b1cde9e6f715e4e725b5861450d57
+  ms.date: 09/01/2020
+  keywords: Enterprise,Group Chat Software Development Kit,SDK,Standard
+  ms.openlocfilehash: 9095849697c158ed1ff78a7a1bdd940cbfc8170f
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 07/31/2020
-  ms.locfileid: "879451"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936929"
 name: Microsoft Lync Server 2010
 summary: >+
   Ο Microsoft Lync Server 2010 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
@@ -22,9 +23,9 @@ policyType: fixed
 supportDates:
   start: 01/25/2011
   end: 04/10/2018
-  extendedEnd: 04/13/2021
+  extendedEnd: 04/11/2023
 releases:
 - version: Original Release
   startDate: 01/25/2011
-  endDate: 04/13/2021
+  endDate: 04/11/2023
 content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Έκδοση Lync Phone](/lifecycle/products/microsoft-lync-phone-edition?branch=live)\n\n> [!NOTE]\n> Η Έκδοση Lync Phone υποστηρίζεται με τον Lync Server 2010 και τον Lync Server 2013. Η ημερομηνία υποστήριξης για την Έκδοση Lync Phone έχει παραταθεί 2 χρόνια για να ευθυγραμμιστεί με τον κύκλο ζωής του Lync Server 2013.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση\n* Κιτ ανάπτυξης λογισμικού ομαδικής συνομιλίας\n* SDK\n* Τυπική ροή εργασίας"

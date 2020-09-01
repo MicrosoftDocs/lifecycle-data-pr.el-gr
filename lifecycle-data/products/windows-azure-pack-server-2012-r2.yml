@@ -2,13 +2,14 @@
 metadata:
   title: Πακέτο Windows Azure (Server 2012 R2)
   description: Το Πακέτο Windows Azure (Server 2012 R2) ακολουθεί την Πολιτική Κύκλου Ζωής Στοιχείου.
-  ms.date: 08/13/2020
-  ms.openlocfilehash: e5e578924beb6eada37c05ac523dbcdf48445841
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 09/01/2020
+  keywords: on Windows Server 2012 R2
+  ms.openlocfilehash: 70414fc5234140541a7193f29b07b4c298430272
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893966"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937003"
 name: Πακέτο Windows Azure (Server 2012 R2)
 summary: >+
   Το Πακέτο Windows Azure (Server 2012 R2) ακολουθεί την Πολιτική Κύκλου Ζωής [Στοιχείου](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).

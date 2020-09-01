@@ -2,16 +2,17 @@
 metadata:
   title: Microsoft Speech Server 2004
   description: Ο Microsoft Speech Server 2004 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 50ebb3b700a83d7d247d368d948c2ff051a14b18
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 2fb4a48b2caffce89e54dac838ff7f1149886d48
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "818206"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937077"
 name: Microsoft Speech Server 2004
 summary: >+
-  Ο Microsoft Speech Server 2004 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Ο Microsoft Speech Server 2004 ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
 
 
   Αυτό ισχύει για τις ακόλουθες εκδόσεις: Enterprise, Standard
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 04/28/2004
   endDate: 07/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση\n* Πρότυπο"
+content: "\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση\n* Τυπική ροή εργασίας"

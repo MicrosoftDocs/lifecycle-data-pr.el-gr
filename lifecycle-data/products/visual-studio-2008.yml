@@ -2,13 +2,14 @@
 metadata:
   title: Visual Studio 2008
   description: Το Visual Studio 2008 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 2c78c508275eda64e51e80bb21e954944bd86404
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: All,Pro w/MSDN Premium,Professional,Professional w/MSDN ,Team Suite,Team Test Load Agent,VB Express,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express
+  ms.openlocfilehash: dda36bd66c9de69696c202177f1197c068e2f646
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "818091"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937558"
 name: Visual Studio 2008
 summary: >+
   Το Visual Studio 2008 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
