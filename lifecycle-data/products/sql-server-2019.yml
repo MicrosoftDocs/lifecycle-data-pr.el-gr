@@ -2,19 +2,20 @@
 metadata:
   title: SQL Server 2019
   description: Ο SQL Server 2019 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: d2a4363c26eb63e860cd117cb7fc0333370033cc
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.date: 09/01/2020
+  keywords: on Linux (all editions),on Windows (all editions)
+  ms.openlocfilehash: e80b4d51844a591f9c912932761d121d9c0d6d37
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "869612"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937965"
 name: SQL Server 2019
 summary: >+
-  Ο SQL Server 2019 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Ο SQL Server 2019 ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: σε Linux (όλες τις εκδόσεις), στα Windows (όλες οι εκδόσεις)
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: σε Linux (όλες οι εκδόσεις), σε Windows (όλες οι εκδόσεις)
 
 products:
 - sql-server
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/04/2019
   endDate: 01/08/2030
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες συντήρησης](https://blogs.msdn.microsoft.com/sqlreleaseservices/announcing-the-modern-servicing-model-for-sql-server/)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* σε Linux (όλες οι εκδόσεις)\n* στα Windows (όλες οι εκδόσεις)"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες Συντήρησης](https://blogs.msdn.microsoft.com/sqlreleaseservices/announcing-the-modern-servicing-model-for-sql-server/)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* σε Linux (όλες οι εκδόσεις)\n* στα Windows (όλες οι εκδόσεις)"

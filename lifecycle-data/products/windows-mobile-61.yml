@@ -1,25 +1,26 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Mobile 6.1
-  description: Το Windows Mobile 6.1 ακολουθεί την Πολιτική σταθερού κύκλου ζωής.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 09ef8cd65daf2ed34f0557d1180ba9b405bf0956
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Windows Mobile 6,1
+  description: Το Windows Mobile 6,1 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  ms.date: 09/01/2020
+  keywords: Adaptation Kit,Professional,Standard
+  ms.openlocfilehash: 97c434aaac90a1923508ffe5b1d18e735bfa4101
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "817916"
-name: Windows Mobile 6.1
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939815"
+name: Windows Mobile 6,1
 summary: >
-  Το Windows Mobile 6.1 ακολουθεί την [Πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Windows Mobile 6,1 ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Κιτ προσαρμογής, Επαγγελματική,
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Kit προσαρμογής, Professional, Standard
 
 
   > [!IMPORTANT]
 
-  > Η υποστήριξη για αυτό το προϊόν έχει λήξει.
+  > Η υποστήριξη για αυτό το προϊόν έληξε.
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -30,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 07/01/2008
   endDate: 01/08/2013
-content: "\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Κιτ προσαρμογής\n* Επαγγελματική\n* Πρότυπο"
+content: "\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Κιτ προσαρμογής\n* Επαγγελματικό\n* Τυπική ροή εργασίας"

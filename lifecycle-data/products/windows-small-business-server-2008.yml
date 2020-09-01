@@ -2,13 +2,14 @@
 metadata:
   title: Windows Server 2008 για Μικρές Επιχειρήσεις
   description: Ο Windows Server 2008 για Μικρές Επιχειρήσεις ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: ca524a5b2238d362198454212c1b53d9946cdb05
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Premium,Standard
+  ms.openlocfilehash: 947f1cc48a1ef1b5397103a64ce7fb2f3e52db2d
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "818078"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939186"
 name: Windows Server 2008 για Μικρές Επιχειρήσεις
 summary: "Ο Windows Server 2008 για Μικρές Επιχειρήσεις ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.\n\nΑυτό ισχύει για τις ακόλουθες εκδόσεις: Premium, Πρότυπο\n\n> [!IMPORTANT]\n> Η υποστήριξη για αυτό το προϊόν έληξε. \n\nΗ ημερομηνία υποστήριξης για αυτό το πακέτο προϊόντος καθορίζεται από τους αντίστοιχους κύκλους ζωής του μεμονωμένου στοιχείου προϊόντος. Ελέγξτε τον κύκλο ζωής του μεμονωμένου στοιχείου προϊόντος για να προσδιορίσετε τη διάρκεια της υποστήριξης.\n"
 products:
