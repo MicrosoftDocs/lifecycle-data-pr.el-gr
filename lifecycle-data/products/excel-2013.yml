@@ -2,19 +2,20 @@
 metadata:
   title: Excel 2013
   description: Το Excel 2013 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: a8420acbf87b6c3035713e5085c07f3b9db9c88f
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: a61ea8a7812cf8f0588cedf137009800c888809c
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "854524"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "931527"
 name: Excel 2013
 summary: >+
-  Το Excel 2013 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Excel 2013 ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις:
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Τυπική ροή εργασίας
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/11/2023
-content: "\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Πρότυπο"
+content: "\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Τυπική ροή εργασίας"

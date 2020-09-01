@@ -2,19 +2,20 @@
 metadata:
   title: Παράσταση 3
   description: Η παράσταση 3 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9544cb1ac337a36e0e9d12b4afde25d392bdd767
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Design,Encoder,Studio,Web
+  ms.openlocfilehash: 406642d42292645f0a1f233b77937ba831d08671
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "818006"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930750"
 name: Παράσταση 3
 summary: >+
-  Η παράσταση 3 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Η παράσταση 3 ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Σχεδιασμός, Κωδικοποιητής, Στούντιο, Web
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: σχεδίαση, κωδικοποιητής, στούντιο, Web
 
 products:
 - expression
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/19/2009
   endDate: 01/14/2020
-content: "\n\n> [!NOTE]\n> Η ημερομηνία έναρξης για το σχέδιο έκφρασης 3 είναι 19 Νοεμβρίου 2009. \n\n## <a name=\"editions\"></a>Εκδόσεις \n* Σχεδιασμό\n* Κωδικοποιητή\n* Στούντιο\n* Web"
+content: "\n\n> [!NOTE]\n> Η ημερομηνία έναρξης για τη σχεδίαση παράστασης 3 είναι η 19η Νοεμβρίου 2009. \n\n## <a name=\"editions\"></a>Εκδόσεις \n* Σχέδιο\n* Κωδικοποιητή\n* Στούντιο\n* Ιστός"

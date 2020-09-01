@@ -2,16 +2,17 @@
 metadata:
   title: Exchange Server 2016
   description: Ο Exchange Server 2016 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 7d83d6853298231fb4bd84b90ccf197a8029e8a2
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: bad2d3a8e4e33ce78bd15a78145aceb308d0eefb
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "854421"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "931157"
 name: Exchange Server 2016
 summary: >+
-  Ο Exchange Server 2016 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Ο Exchange Server 2016 ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
 
 
   Αυτό ισχύει για τις ακόλουθες εκδόσεις: Enterprise, Standard
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/01/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες συντήρησης](/Exchange/new-features/updates?redirectedfrom)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση\n* Πρότυπο"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες συντήρησης](/Exchange/new-features/updates?redirectedfrom)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση\n* Τυπική ροή εργασίας"
