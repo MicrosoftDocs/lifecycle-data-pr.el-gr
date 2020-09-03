@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Διαχείριση κύκλου ζωής ταυτότητας της Microsoft 2007
-  description: Η Διαχείριση κύκλου ζωής ταυτότητας της Microsoft 2007 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Microsoft Identity Lifecycle Manager 2007
+  description: Το Microsoft Identity Lifecycle Manager 2007 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: e87de30d9ecd945c0aa172fa69f570a981114ab2
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818243"
-name: Διαχείριση κύκλου ζωής ταυτότητας της Microsoft 2007
+name: Microsoft Identity Lifecycle Manager 2007
 summary: >+
-  Η Διαχείριση κύκλου ζωής ταυτότητας της Microsoft 2007 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Microsoft Identity Lifecycle Manager 2007 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/30/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](/previous-versions/mim/ff608268(v=ws.10)?redirectedfrom=MSDN)\n* [Πολιτική service pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](/previous-versions/mim/ff608268(v=ws.10)?redirectedfrom=MSDN)\n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)"

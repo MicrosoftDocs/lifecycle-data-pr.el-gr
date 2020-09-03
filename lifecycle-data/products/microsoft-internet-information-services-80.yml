@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Υπηρεσίες πληροφοριών Internet της Microsoft 8.0
-  description: Οι υπηρεσίες Microsoft Internet Information Services 8.0 ακολουθούν την πολιτική κύκλου ζωής στοιχείων.
+  title: Microsoft Internet Information Services 8.0
+  description: Οι υπηρεσίες Internet Microsoft Information 8.0 ακολουθούν την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71be1061b611798489998e4437c1e3d80bbe19b3
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "817997"
-name: Υπηρεσίες πληροφοριών Internet της Microsoft 8.0
+name: Microsoft Internet Information Services 8.0
 summary: >+
-  Οι υπηρεσίες Microsoft Internet Information Services 8.0 ακολουθούν την πολιτική κύκλου ζωής [στοιχείων.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Οι υπηρεσίες Microsoft Internet Information 8.0 ακολουθούν την Πολιτική Σταθερού Κύκλου Ζωής [Εξαρτήματος](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:

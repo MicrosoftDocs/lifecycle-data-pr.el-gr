@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Ενσωματωμένα windows 8
-  description: Τα Windows Embedded 8 ακολουθούν την πολιτική σταθερού κύκλου ζωής.
+  title: Ενσωματωμένα Windows 8
+  description: Το Windows Embedded 8 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: f4d8f0d9d9388cb8b8187fbe923022a2b537ba3b
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818453"
-name: Ενσωματωμένα windows 8
+name: Ενσωματωμένα Windows 8
 summary: >+
-  Τα Windows Embedded 8 ακολουθούν την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Windows Embedded 8 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Pro, Standard
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Pro, Τυπική
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Συνήθεις ερωτήσεις για τον κύκλο ζωής - Προϊόντα των Windows](/lifecycle/faq/windows)\n* [Ενσωματωμένα windows 8.1](/lifecycle/products/windows-embedded-81-pro?branch=live)\n\n> [!NOTE]\n> Οι πελάτες πρέπει να μετεγκατασταθούν στο Windows Emdedded 8.1 για να παραμείνουν υποστηριζόμενοι.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Pro\n* Πρότυπο"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Συνήθεις ερωτήσεις για τον Κύκλο Ζωής - Προϊόντα των Windows](/lifecycle/faq/windows)\n* [Windows Embedded 8.1](/lifecycle/products/windows-embedded-81-pro?branch=live)\n\n> [!NOTE]\n> Οι πελάτες πρέπει να μετεγκατασταθούν στο Windows Emdedded 8.1 για να παραμείνουν υποστηριζόμενοι.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Pro\n* Τυπική ροή εργασίας"

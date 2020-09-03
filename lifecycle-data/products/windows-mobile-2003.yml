@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Mobile 2003
-  description: Το Windows Mobile 2003 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  description: Το Windows Mobile 2003 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: b96e4abc858aaa87a5031200887e906b781878f7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818431"
 name: Windows Mobile 2003
 summary: >
-  Το Windows Mobile 2003 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Windows Mobile 2003 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: για Pocket PC, για smartphones, λογισμικό δεύτερης έκδοσης για το τηλέφωνο PC τσεπών, λογισμικό δεύτερης έκδοσης για το smartphone
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: για Pocket PC, για smartphones, λογισμικό δεύτερης έκδοσης για το Pocket PC Phone, λογισμικό δεύτερης έκδοσης για smartphone
 
 
   > [!IMPORTANT]
 
-  > Η υποστήριξη για αυτό το προϊόν έχει λήξει.
+  > Η υποστήριξη για αυτό το προϊόν έληξε.
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2004
   endDate: 07/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* για υπολογιστή τσέπης\n* για smartphones\n* Λογισμικό δεύτερης έκδοσης για το τηλέφωνο PC τσεπών\n* Λογισμικό δεύτερης έκδοσης για smartphone"
+content: "\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* για υπολογιστή τσέπης\n* για smartphones\n* Λογισμικό δεύτερης έκδοσης για το Pocket PC Phone\n* Λογισμικό δεύτερης έκδοσης για smartphone"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office InfoPath 2007
-  description: Το Microsoft Office InfoPath 2007 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Microsoft Office Infopath 2007
+  description: Το Microsoft Office InfoPath 2007 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 248f2411554bdaf4d0f83c003dda9b735b631225
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818210"
-name: Microsoft Office InfoPath 2007
+name: Microsoft Office Infopath 2007
 summary: >+
-  Το Microsoft Office InfoPath 2007 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Microsoft Office InfoPath 2007 ακολουθεί την πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](/office/troubleshoot/support/office-2007-not-support)"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](/office/troubleshoot/support/office-2007-not-support)"

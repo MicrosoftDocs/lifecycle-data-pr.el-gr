@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Υπηρεσίες προστασίας Web πύλης διαχείρισης απειλών του Microsoft Forefront
-  description: Οι υπηρεσίες προστασίας Web πύλης διαχείρισης απειλών του Microsoft Forefront ακολουθούν την πολιτική σταθερού κύκλου ζωής.
+  title: Microsoft Forefront Threat Management Gateway Web Protection Services
+  description: Η Πύλη Διαχείρισης Απειλών 2010 του Microsoft Web Protection ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: c4c69a070513e336ed8305b8f6a37c2bf5972d1c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818567"
-name: Υπηρεσίες προστασίας Web πύλης διαχείρισης απειλών του Microsoft Forefront
+name: Microsoft Forefront Threat Management Gateway Web Protection Services
 summary: >+
-  Οι υπηρεσίες προστασίας Web πύλης διαχείρισης απειλών του Microsoft Forefront ακολουθούν την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Η Πύλη Διαχείρισης Απειλών 2010 του Microsoft Web Protection ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 12/01/2009
   endDate: 12/31/2015
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Χάρτης πορείας forefront](https://blogs.technet.microsoft.com/hybridcloud/2012/09/12/important-changes-to-forefront-product-roadmaps/)\n\n> [!NOTE]\n> Ο οδικός χάρτης για τα προϊόντα ασφαλείας με την επωνυμία Forefront έχει αλλάξει.Αυτό το προϊόν διακόπτεται στις 31 Δεκεμβρίου 2015."
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Χάρτης πορείας forefront](https://blogs.technet.microsoft.com/hybridcloud/2012/09/12/important-changes-to-forefront-product-roadmaps/)\n\n> [!NOTE]\n> Ο οδικός χάρτης για τα προϊόντα ασφαλείας με την επωνυμία Forefront έχει αλλάξει. Αυτό το προϊόν διακόπτεται στις 31 Δεκεμβρίου 2015.\n\n\n"

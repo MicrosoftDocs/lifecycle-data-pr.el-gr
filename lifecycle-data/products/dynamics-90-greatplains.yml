@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Δυναμική 9.0 Μεγάλες πεδιάδες
-  description: Το Dynamics 9.0 GreatPlains ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Dynamics 9.0 GreatPlains
+  description: Το Dynamics 9.0 GreatPlains ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0015493ad223e4603a77b348f406d9a2df47d315
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818021"
-name: Δυναμική 9.0 Μεγάλες πεδιάδες
+name: Dynamics 9.0 GreatPlains
 summary: >
-  Το Dynamics 9.0 GreatPlains ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Dynamics 9.0 GreatPlains ακολουθεί την πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 
   > [!IMPORTANT]
 
-  > Η υποστήριξη για αυτό το προϊόν έχει λήξει.
+  > Η υποστήριξη για αυτό το προϊόν έληξε.
 products:
 - dynamics
 policyType: fixed

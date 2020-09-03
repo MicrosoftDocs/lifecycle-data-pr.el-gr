@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Τηλεφωνική έκδοση του Microsoft Office Communicator
-  description: Η έκδοση τηλεφώνου του Microsoft Office Communicator ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Έκδοση Microsoft Office Communicator Phone
+  description: Το Microsoft Office Communicator Phone Edition ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 368d65cc1ace6dffa576cfa9add8d9e3286a6ea9
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818914"
-name: Τηλεφωνική έκδοση του Microsoft Office Communicator
+name: Έκδοση Microsoft Office Communicator Phone
 summary: >+
-  Η έκδοση τηλεφώνου του Microsoft Office Communicator ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Microsoft Office Communicator Phone Edition ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Τηλέφωνο
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Phone
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2007
   endDate: 04/11/2017
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Τηλέφωνο"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Τηλέφωνο"

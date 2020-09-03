@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Διαχείριση λειτουργιών κέντρου συστήματος 2007
-  description: Η Διαχείριση λειτουργιών του Κέντρου συστήματος 2007 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: System Center Operations Manager 2007
+  description: Ο System Center Operations Manager 2007 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8efa21f33b388d13bbe5ca14c03dc2275d9d5b78
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818472"
-name: Διαχείριση λειτουργιών κέντρου συστήματος 2007
-summary: "Η Διαχείριση λειτουργιών του Κέντρου συστήματος 2007 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.\n\n\n> [!IMPORTANT]\n> Η υποστήριξη για αυτό το προϊόν έχει λήξει. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω. \n"
+name: System Center Operations Manager 2007
+summary: "Ο System Center Operations Manager 2007 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.\n\n\n> [!IMPORTANT]\n> Η υποστήριξη για αυτό το προϊόν έληξε. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω. \n"
 products:
 - msc
 policyType: fixed
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 06/23/2007
   endDate: 04/14/2009
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)\n* [Πολιτική service pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)\n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)"
