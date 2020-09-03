@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Σειρά Azure StorSimple 8000
+  title: Azure StorSimple 8000 Series
   description: Η σειρά Azure StorSimple 8000 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: b7f4d4313e664c1d52d52ee6394c8cad97f69e85
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854200"
-name: Σειρά Azure StorSimple 8000
+name: Azure StorSimple 8000 Series
 summary: >+
-  Η σειρά Azure StorSimple 8000 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Η σειρά Azure StorSimple 8000 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:
@@ -24,4 +24,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/01/2014
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Υποστήριξη λύσης StorSimple](https://msdn.microsoft.com/library/mt433077(TechNet.10).aspx)\n* [Οδηγίες για τη μετανάστευση](/azure/storage/files/storage-files-migration-storsimple-8000)\n\n> [!NOTE]\n> Η υποστήριξη για τη σειρά Azure StorSimple 8000 επεκτείνεται, όπως φαίνεται για να παρέχει στους πελάτες την τυπική λωρίδα χρόνου κύκλου ζωής. Η εκτεταμένη υποστήριξη περιλαμβάνει μόνο ενημερώσεις αντικατάστασης υλικού και ασφάλειας."
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Υποστήριξη λύσης StorSimple](https://msdn.microsoft.com/library/mt433077(TechNet.10).aspx)\n* [Οδηγίες Μετεγκατάστασης](/azure/storage/files/storage-files-migration-storsimple-8000)\n\n> [!NOTE]\n> Η υποστήριξη για τη σειρά Azure StorSimple 8000 Series παρατείνεται όπως υποδεικνύεται, ώστε να παρασχεθεί στους πελάτες το τυπικό χρονοδιάγραμμα κύκλου ζωής. Η εκτεταμένη υποστήριξη περιλαμβάνει μόνο αντικατάσταση υλικού και ενημερώσεις ασφαλείας."

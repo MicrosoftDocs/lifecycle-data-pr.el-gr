@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft .NET Framework 4.5
-  description: Το Microsoft .NET Framework 4.5 ακολουθεί την πολιτική κύκλου ζωής στοιχείων.
+  description: Το Microsoft .NET Framework 4.5 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0462a82a1db09bc170784225cae666c3d526559c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854304"
 name: Microsoft .NET Framework 4.5
 summary: >+
-  Το Microsoft .NET Framework 4.5 ακολουθεί την πολιτική κύκλου ζωής [στοιχείων.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Το Microsoft .NET Framework 4.5 ακολουθεί την Πολιτική Κύκλου Ζωής [Εξαρτήματος](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/09/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Συνήθεις ερωτήσεις για τον κύκλο ζωής - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Πληροφορίες προϊόντος](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-45)\n\n> [!NOTE]\n> Η υποστήριξη για το .NET Framework 4, 4.5 και 4.5.1 έληξε στις 12 Ιανουαρίου 2016."
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Συνήθεις Ερωτήσεις για τον Κύκλο Ζωής - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Πληροφορίες Προϊόντος](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-45)\n\n> [!NOTE]\n> Η υποστήριξη για το .NET Framework 4, 4.5 και 4.5.1 έληξε στις 12 Ιανουαρίου 2016."

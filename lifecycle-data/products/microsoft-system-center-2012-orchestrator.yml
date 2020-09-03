@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Ενορχήστρωση κέντρου συστήματος της Microsoft 2012
-  description: Ο ενορχηστρωτής του Κέντρου συστήματος της Microsoft 2012 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Microsoft System Center 2012 Orchestrator
+  description: Το Microsoft System Center 2012 Orchestrator ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: d2e8d6efc8fa088c9eb3db033e371374b8e78d40
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854403"
-name: Ενορχήστρωση κέντρου συστήματος της Microsoft 2012
+name: Microsoft System Center 2012 Orchestrator
 summary: >+
-  Ο ενορχηστρωτής του Κέντρου συστήματος της Microsoft 2012 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Microsoft System Center 2012 Orchestrator ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική service pack](/lifecycle/policies/fixed#service-packs)\n* [Τεκμηρίωση κέντρου συστήματος](/system-center/#pivot=components&panel=components-all)\n* [Πόροι κέντρου συστήματος](https://www.microsoft.com/system-center/resources)"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Κεντρικό σύστημα εγγράφων (documentation)](/system-center/#pivot=components&panel=components-all)\n* [Κεντρικό σύστημα Πόρων](https://www.microsoft.com/system-center/resources)"

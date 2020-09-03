@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Φιλοξενία εικονικής διαμόρφωσης εφαρμογών της Microsoft 5.1 για επιτραπέζιους υπολογιστές των Windows
-  description: Η φιλοξενία εικονικής διαμόρφωσης εφαρμογών της Microsoft 5.1 για επιφάνειες εργασίας των Windows ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Microsoft Application Virtualization Hosting 5.1 για επιτραπέζιους υπολογιστές Windows
+  description: Η εφαρμογή Virtualization Hosting 5.1 της Microsoft για επιτραπέζιους υπολογιστές των Windows ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: c6fc257da84e3276165d0ab97a736120c1424172
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854520"
-name: Φιλοξενία εικονικής διαμόρφωσης εφαρμογών της Microsoft 5.1 για επιτραπέζιους υπολογιστές των Windows
+name: Microsoft Application Virtualization Hosting 5.1 για επιτραπέζιους υπολογιστές Windows
 summary: >+
-  Η φιλοξενία εικονικής διαμόρφωσης εφαρμογών της Microsoft 5.1 για επιφάνειες εργασίας των Windows ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Η εφαρμογή Virtualization Hosting 5.1 της Microsoft για επιτραπέζιους υπολογιστές των Windows ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: για τις επιφάνειες εργασίας των Windows
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: για τους Επιτραπέζιους Υπολογιστές των Windows
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2015
   endDate: 04/14/2026
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες προϊόντος](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* για επιφάνειες εργασίας των Windows"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες Προϊόντος](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Για επιτραπέζιους υπολογιστές Windows"

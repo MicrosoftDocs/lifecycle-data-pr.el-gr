@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Ενσωματωμένα windows 8.1 φορητά
-  description: Η φορητή συσκευή Windows Embedded 8.1 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Windows Embedded 8.1 Συσκευή χειρός
+  description: Τα Windows Embedded 8.1 ακολουθούν την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0b19ad1d2a53ee16861bf63a21f6924b3bea1c67
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854660"
-name: Ενσωματωμένα windows 8.1 φορητά
+name: Windows Embedded 8.1 Συσκευή χειρός
 summary: >
-  Η φορητή συσκευή Windows Embedded 8.1 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Τα Windows Embedded 8.1 ακολουθούν την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 
   > [!IMPORTANT]
 
-  > Η υποστήριξη για αυτό το προϊόν έχει λήξει. Εάν ο οργανισμός σας εξακολουθεί να διατηρεί αυτές τις πλατφόρμες και έχει πρόσθετες ερωτήσεις, επικοινωνήστε με την ομάδα του λογαριασμού σας.
+  > Η υποστήριξη για αυτό το προϊόν έληξε. Εάν ο οργανισμός σας εξακολουθεί να διατηρεί αυτές τις πλατφόρμες και έχει πρόσθετες ερωτήσεις, επικοινωνήστε με την ομάδα του λογαριασμού σας.
 products:
 - windows
 policyType: fixed-mainstream-only
