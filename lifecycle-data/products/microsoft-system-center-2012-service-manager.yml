@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Διαχείριση υπηρεσιών του Κέντρου συστήματος της Microsoft 2012
-  description: Η Διαχείριση υπηρεσιών του Κέντρου συστήματος της Microsoft 2012 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Κεντρικό σύστημα Microsoft 2012 Service Manager
+  description: Το Microsoft System Center 2012 Service Manager ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 98b376f557f50d8ecdb538898e2526fa207c12bb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854266"
-name: Διαχείριση υπηρεσιών του Κέντρου συστήματος της Microsoft 2012
+name: Κεντρικό σύστημα Microsoft 2012 Service Manager
 summary: >+
-  Η Διαχείριση υπηρεσιών του Κέντρου συστήματος της Microsoft 2012 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Microsoft System Center 2012 Service Manager ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική service pack](/lifecycle/policies/fixed#service-packs)\n* [Πόροι κέντρου συστήματος](https://www.microsoft.com/system-center/resources)\n* [Τεκμηρίωση κέντρου συστήματος](/system-center/#pivot=components&panel=components-all)"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Κεντρικό σύστημα Πόρων](https://www.microsoft.com/system-center/resources)\n* [Κεντρικό σύστημα εγγράφων (documentation)](/system-center/#pivot=components&panel=components-all)"

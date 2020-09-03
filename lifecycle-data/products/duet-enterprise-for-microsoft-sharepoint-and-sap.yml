@@ -5,19 +5,19 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: fbab932e4c44c55969682684dc2ec7590c3dd6f9
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854468"
 name: Ντουέτο για μεγάλες επιχειρήσεις για το Microsoft SharePoint και το SAP
 summary: >
-  Το Duet Enterprise για το Microsoft SharePoint και το SAP ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Duet Enterprise για το Microsoft SharePoint και το SAP ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
 
 
 
   > [!IMPORTANT]
 
-  > Η υποστήριξη για αυτό το προϊόν έχει λήξει. Αυτό το προϊόν πωλείται και υποστηρίζεται από το SAP.
+  > Η υποστήριξη για αυτό το προϊόν έληξε. Αυτό το προϊόν πωλείται και υποστηρίζεται από το SAP.
 products:
 - office
 policyType: fixed

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Infopath 2013
-  description: Το Infopath 2013 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  description: Το Infopath 2013 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 69bc8811a52c75cb58357ad4e0213f28a1001cae
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854419"
 name: Infopath 2013
 summary: >+
-  Το Infopath 2013 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Infopath 2013 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις:
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Τυπική ροή εργασίας
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 07/14/2026
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Λεπτομέρειες υποστήριξης](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> Η υποστήριξη για το Microsoft InfoPath 2013 επεκτείνεται όπως φαίνεται, προκειμένου να διασφαλιστεί η συμβατότητα με τον SharePoint Server 2016.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Πρότυπο"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Λεπτομέρειες υποστήριξης](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> Η υποστήριξη για το Microsoft InfoPath 2013 επεκτείνεται όπως φαίνεται, προκειμένου να διασφαλιστεί η συμβατότητα με τον SharePoint Server 2016.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Τυπική ροή εργασίας"
