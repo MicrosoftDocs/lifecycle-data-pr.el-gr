@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Διαχείριση προστασίας δεδομένων του Κέντρου συστήματος της Microsoft 2006
-  description: Η Διαχείριση προστασίας δεδομένων του Microsoft System Center 2006 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Microsoft System Center Data Protection Manager 2006
+  description: Το Microsoft System Center Data Protection Manager 2006 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: e1d39ae874bd9d3a0491711fa466958ed75fae39
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818519"
-name: Διαχείριση προστασίας δεδομένων του Κέντρου συστήματος της Microsoft 2006
+name: Microsoft System Center Data Protection Manager 2006
 summary: >+
-  Η Διαχείριση προστασίας δεδομένων του Microsoft System Center 2006 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Microsoft System Center Data Protection Manager 2006 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2005
   endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική service pack](/lifecycle/policies/fixed#service-packs)\n* [Οδηγίες για τη μετανάστευση](https://blogs.technet.microsoft.com/dpm/2016/03/24/system-center-data-protection-manager-2006-end-of-support)"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Οδηγίες Μετεγκατάστασης](https://blogs.technet.microsoft.com/dpm/2016/03/24/system-center-data-protection-manager-2006-end-of-support)"

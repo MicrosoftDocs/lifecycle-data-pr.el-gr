@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Project Portfolio Server 2007
-  description: Ο Microsoft Office Project Portfolio Server 2007 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  description: Ο Microsoft Office Project Portfolio Server 2007 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2f15eca6cc021c35859f131ae0d1e3ddc0efc3ba
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818552"
 name: Microsoft Office Project Portfolio Server 2007
 summary: >+
-  Ο Microsoft Office Project Portfolio Server 2007 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Ο Microsoft Office Project Portfolio Server 2007 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 04/14/2009
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](/office/troubleshoot/support/office-2007-not-support)\n* [Πολιτική service pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](/office/troubleshoot/support/office-2007-not-support)\n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)"

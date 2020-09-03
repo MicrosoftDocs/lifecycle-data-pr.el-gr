@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Access 2007
-  description: Η Microsoft Office Access 2007 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  description: Το Microsoft Office Access 2007 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6a358ac2958361f3f7af669b1beee16d5ff83c08
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818227"
 name: Microsoft Office Access 2007
 summary: >+
-  Η Microsoft Office Access 2007 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Microsoft Office Access 2007 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](/office/troubleshoot/support/office-2007-not-support)"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](/office/troubleshoot/support/office-2007-not-support)"

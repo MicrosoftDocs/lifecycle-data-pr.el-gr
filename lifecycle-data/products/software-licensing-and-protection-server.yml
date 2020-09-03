@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a42af57f9f0bfd7232e67126c6d9923413e06f6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "817958"
 name: Διακομιστής παραχώρησης αδειών χρήσης και προστασίας λογισμικού
 summary: >
-  Ο διακομιστής παραχώρησης αδειών χρήσης και προστασίας λογισμικού ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Ο διακομιστής παραχώρησης αδειών χρήσης και προστασίας λογισμικού ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Enterprise, Standard
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Enterprise, Τυπική
 
 
   > [!IMPORTANT]
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 12/30/2007
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Διακομιστής παραχώρησης αδειών χρήσης και προστασίας λογισμικού (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση\n* Πρότυπο"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Διακομιστής παραχώρησης αδειών χρήσης και προστασίας λογισμικού (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση\n* Τυπική ροή εργασίας"

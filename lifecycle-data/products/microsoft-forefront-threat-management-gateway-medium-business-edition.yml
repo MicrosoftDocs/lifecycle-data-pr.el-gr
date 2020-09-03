@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Πύλη διαχείρισης απειλών της Microsoft Forefront, Έκδοση για μεσαίες επιχειρήσεις
-  description: Η πύλη διαχείρισης απειλών του Microsoft Forefront, Medium Business Edition ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Microsoft Forefront Threat Management Gateway, Medium Business Edition
+  description: Η Πύλη Διαχείρισης Απειλών του Microsoft Forefront, έκδοση για Μεσαίες Επιχειρήσεις ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3c131da862f2972fbb5afe704f499ea4e649df78
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818568"
-name: Πύλη διαχείρισης απειλών της Microsoft Forefront, Έκδοση για μεσαίες επιχειρήσεις
+name: Microsoft Forefront Threat Management Gateway, Medium Business Edition
 summary: >+
-  Η πύλη διαχείρισης απειλών του Microsoft Forefront, Medium Business Edition ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Η Πύλη Διαχείρισης Απειλών του Microsoft Forefront, έκδοση για μεσαίες επιχειρήσεις ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Επιχειρήσεις
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Για επιχειρήσεις
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/12/2008
   endDate: 11/12/2018
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση"

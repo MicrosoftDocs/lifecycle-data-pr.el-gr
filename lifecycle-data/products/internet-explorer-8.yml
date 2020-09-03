@@ -5,15 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 829f271edf5fe7984b750209a89f0f40efc6a3c3
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818659"
 name: Internet Explorer 8
-summary: >+
-  Ο Internet Explorer 8 ακολουθεί την πολιτική κύκλου ζωής [στοιχείων.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
-
-
+summary: "Ο Internet Explorer 8 ακολουθεί την πολιτική κύκλου ζωής [στοιχείων](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy). \n\n\n"
 products:
 - internet-explorer
 policyType: component
@@ -22,4 +19,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 06/17/2009
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](https://www.microsoft.com/itpro/microsoft-edge)\n* [Συνήθεις ερωτήσεις για την πολιτική κύκλου ζωής του Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Από τις 12 Ιανουαρίου 2016, μόνο η πιο πρόσφατη έκδοση του Internet Explorer που είναι διαθέσιμη για ένα υποστηριζόμενο λειτουργικό σύστημα θα λάβει τεχνική υποστήριξη και ενημερωμένες εκδόσεις ασφαλείας."
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](https://www.microsoft.com/itpro/microsoft-edge)\n* [Συνήθεις ερωτήσεις για την πολιτική κύκλου ζωής του Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Από τις 12 Ιανουαρίου 2016, μόνο η πιο πρόσφατη έκδοση του Internet Explorer που είναι διαθέσιμη για ένα υποστηριζόμενο λειτουργικό σύστημα λαμβάνει τεχνική υποστήριξη και ενημερωμένες εκδόσεις ασφαλείας."

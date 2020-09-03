@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Publisher 2007
-  description: Ο Microsoft Office Publisher 2007 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  description: Το Microsoft Office Publisher 2007 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9e01522f77b919b6d35a61fbffa27a2b761a5a4d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818547"
 name: Microsoft Office Publisher 2007
 summary: >+
-  Ο Microsoft Office Publisher 2007 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Microsoft Office Publisher 2007 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](/office/troubleshoot/support/office-2007-not-support)"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](/office/troubleshoot/support/office-2007-not-support)"
