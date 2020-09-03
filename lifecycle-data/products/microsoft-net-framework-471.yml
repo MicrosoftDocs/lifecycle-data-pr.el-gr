@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft .NET Framework 4.7.1
-  description: Το Microsoft .NET Framework 4.7.1 ακολουθεί την πολιτική κύκλου ζωής στοιχείων.
+  description: Το Microsoft .NET Framework 4.7.1 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής Εξαρτήματος.
   ms.date: 07/28/2020
   ms.openlocfilehash: e57e809b4800ee789f7ae748bf0dd67d28966f91
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869571"
 name: Microsoft .NET Framework 4.7.1
 summary: >+
-  Το Microsoft .NET Framework 4.7.1 ακολουθεί την πολιτική κύκλου ζωής [στοιχείων.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Το Microsoft .NET Framework 4.7.1 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) Κύκλου Ζωής Εξαρτήματος.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/17/2017
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες προϊόντος](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-471)\n* [Συνήθεις ερωτήσεις για τον κύκλο ζωής του .NET Framework](/lifecycle/faq/dotnet-framework)\n\n> [!NOTE]\n> Το .NET Framework είναι ένα στοιχείο του λειτουργικού συστήματος των Windows. Τα στοιχεία λαμβάνουν την ίδια υποστήριξη με το γονικό προϊόν ή την πλατφόρμα τους."
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες Προϊόντος](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-471)\n* [Συνήθεις ερωτήσεις για τον κύκλο ζωής του .NET Framework](/lifecycle/faq/dotnet-framework)\n\n> [!NOTE]\n> Το .NET Framework είναι ένα στοιχείο του λειτουργικού συστήματος των Windows OS. Τα στοιχεία λαμβάνουν την ίδια υποστήριξη με το γονικό προϊόν ή πλατφόρμα."

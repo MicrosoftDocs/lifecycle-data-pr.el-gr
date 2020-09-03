@@ -1,23 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 Mobile Enterprise, κυκλοφόρησε τον Οκτώβριο του 2017
-  description: Τα Windows 10 Mobile Enterprise, που κυκλοφόρησαν τον Οκτώβριο του 2017, ακολουθούν την Πολιτική σταθερού κύκλου ζωής.
+  title: Windows 10 Mobile Enterprise, που κυκλοφόρησε τον Οκτώβριο 2017
+  description: Τα Windows 10 Mobile Enterprise, που κυκλοφόρησαν τον Οκτώβριο του 2017, ακολουθούν την πολιτική σταθερού κύκλου ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: eca2b57c1fc69d610cf6f8cf0232c11eccf06ead
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869557"
-name: Windows 10 Mobile Enterprise, κυκλοφόρησε τον Οκτώβριο του 2017
-summary: >
-  Τα Windows 10 Mobile Enterprise, που κυκλοφόρησαν τον Οκτώβριο του 2017, ακολουθούν την [Πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
-
-
-
-  > [!IMPORTANT]
-
-  > Η υποστήριξη για αυτό το προϊόν έχει λήξει.
+name: Windows 10 Mobile Enterprise, που κυκλοφόρησε τον Οκτώβριο 2017
+summary: "Τα Windows 10 Mobile Enterprise, που κυκλοφόρησαν τον Οκτώβριο του 2017, ακολουθούν την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής. \n\n\n> [!IMPORTANT]\n> Η υποστήριξη για αυτό το προϊόν έληξε.\n"
 products:
 - windows
 policyType: fixed
@@ -28,4 +21,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/17/2017
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Συνήθεις ερωτήσεις για τον κύκλο ζωής του λειτουργικού συστήματος συσκευής](/lifecycle/faq/device-operating-systems)\n* [Τα Windows 10 Mobile τερμάτισαν την υποστήριξη στις 10 Δεκεμβρίου 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Συνήθεις ερωτήσεις για τον κύκλο ζωής του λειτουργικού συστήματος συσκευής](/lifecycle/faq/device-operating-systems)\n* [Η υποστήριξη του Windows 10 Mobile έληξε στις 10 Δεκεμβρίου 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)"

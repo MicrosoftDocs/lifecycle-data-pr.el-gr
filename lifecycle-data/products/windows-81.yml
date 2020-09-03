@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 8,1
-  description: Τα Windows 8,1 ακολουθούν την πολιτική σταθερού κύκλου ζωής.
+  title: Windows 8.1
+  description: Τα Windows 8.1 ακολουθούν την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 08/21/2020
   ms.openlocfilehash: 42fc7e148a73c5583047b7bed3862484dea56340
   ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906656"
-name: Windows 8,1
+name: Windows 8.1
 summary: >+
-  Τα Windows 8,1 ακολουθούν την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Τα Windows 8.1 ακολουθούν την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Enterprise, N για μεγάλες επιχειρήσεις, N, Pro με Media Center, Professional, Professional N, SL
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Enterprise, Enterprise N, N, Pro με Media Center, Professional, Professional N, SL
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2013
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Συνήθεις ερωτήσεις κύκλου ζωής-προϊόντα Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση\n* Εταιρικό N\n* N\n* Pro με το Media Center\n* Επαγγελματική\n* Επαγγελματικό N\n* SL"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Συνήθεις ερωτήσεις για τον Κύκλο Ζωής - Προϊόντα των Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση\n* Enterprise N\n* Ν\n* Pro με Media Center\n* Επαγγελματικό\n* Επαγγελματικό N\n* SL"

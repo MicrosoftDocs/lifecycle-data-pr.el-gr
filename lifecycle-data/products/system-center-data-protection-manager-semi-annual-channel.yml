@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Σύστημα Κέντρο Προστασίας Δεδομένων Manager Εξαμηνιαία Κανάλι
-  description: Το εξαμηνιαίο κανάλι της Διαχείρισης Προστασίας Δεδομένων του System Center ακολουθεί τη σύγχρονη πολιτική κύκλου ζωής.
+  title: System Center Data Protection Manager Semi Annual Channel
+  description: Το System Center Data Protection Manager Semi Annual Channel ακολουθεί τη σύγχρονη πολιτική κύκλου ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 60f83dbcc7830bca583b04a805878d1836f7e965
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869604"
-name: Σύστημα Κέντρο Προστασίας Δεδομένων Manager Εξαμηνιαία Κανάλι
+name: System Center Data Protection Manager Semi Annual Channel
 summary: >
-  Το εξαμηνιαίο κανάλι της Διαχείρισης Προστασίας Δεδομένων του System Center ακολουθεί τη [σύγχρονη](/lifecycle/policies/modern) πολιτική κύκλου ζωής.
+  Το System Center Data Protection Manager Semi Annual Channel ακολουθεί την πολιτική [Σταθερού](/lifecycle/policies/modern) Κύκλου Ζωής.
 
 
 
   > [!IMPORTANT]
 
-  > Η υποστήριξη τελείωσε. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω.
+  > Η Υποστήριξη έληξε. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω.
 products:
 - msc
 policyType: modern-on-prem
@@ -31,4 +31,4 @@ releases:
 - version: Version 1801
   startDate: 02/08/2018
   endDate: 08/08/2019
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](/system-center/dpm/upgrade-dpm?view=sc-dpm-2019)"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](/system-center/dpm/upgrade-dpm?view=sc-dpm-2019)"
