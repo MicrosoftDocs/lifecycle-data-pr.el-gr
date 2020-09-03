@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Έκδοση τηλεφώνου Microsoft Lync
-  description: Το Microsoft Lync Phone Edition ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Microsoft Lync Phone Edition
+  description: Η Microsoft Lync Phone Edition ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/30/2020
   ms.openlocfilehash: 9eab078296b6c16d3acdc1552739dabb02ab10a1
   ms.sourcegitcommit: e219a019691b1cde9e6f715e4e725b5861450d57
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/31/2020
   ms.locfileid: "879501"
-name: Έκδοση τηλεφώνου Microsoft Lync
+name: Microsoft Lync Phone Edition
 summary: >+
-  Το Microsoft Lync Phone Edition ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Η Microsoft Lync Phone Edition ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πρόσθετες πληροφορίες](https://techcommunity.microsoft.com/t5/Skype-for-Business-Blog/Certified-Skype-for-Business-Online-Phones-and-what-this-means/ba-p/120035)\n\n> [!NOTE]\n> Το Lync Phone Edition υποστηρίζεται με τον Lync Server 2010 και τον Lync Server 2013. Η ημερομηνία υποστήριξης για το Lync Phone Edition έχει παραταθεί 2 χρόνια για να ευθυγραμμιστεί με τον κύκλο ζωής του Lync Server 2013."
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πρόσθετες πληροφορίες](https://techcommunity.microsoft.com/t5/Skype-for-Business-Blog/Certified-Skype-for-Business-Online-Phones-and-what-this-means/ba-p/120035)\n\n> [!NOTE]\n> Η Έκδοση Lync Phone υποστηρίζεται με τον Lync Server 2010 και τον Lync Server 2013. Η ημερομηνία υποστήριξης για την Έκδοση Lync Phone έχει παραταθεί 2 χρόνια για να ευθυγραμμιστεί με τον κύκλο ζωής του Lync Server 2013."

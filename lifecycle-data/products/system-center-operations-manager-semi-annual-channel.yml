@@ -5,19 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: e1cc9be8f8d34eb92823ef4a44548be49dbe2476
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869603"
 name: Ημιαυτόματο κανάλι διαχείρισης λειτουργιών κέντρου συστήματος
-summary: >
-  Το εξαμηνιαίο κανάλι της Διαχείρισης λειτουργιών του Κέντρου Συστήματος ακολουθεί τη [σύγχρονη](/lifecycle/policies/modern) πολιτική κύκλου ζωής.
-
-
-
-  > [!IMPORTANT]
-
-  > Η υποστήριξη τελείωσε. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω.
+summary: "Το εξαμηνιαίο κανάλι της Διαχείρισης λειτουργιών του Κέντρου Συστήματος ακολουθεί τη [σύγχρονη](/lifecycle/policies/modern) πολιτική κύκλου ζωής. \n\n\n> [!IMPORTANT]\n> Η Υποστήριξη έληξε. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω.\n"
 products:
 - msc
 policyType: modern-on-prem
@@ -31,4 +24,4 @@ releases:
 - version: Version 1801
   startDate: 02/08/2018
   endDate: 08/08/2019
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)"

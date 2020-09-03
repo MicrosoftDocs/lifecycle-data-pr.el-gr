@@ -1,23 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Σύστημα Κέντρο Υπηρεσίας Διαχείρισης Εξαμηνιαία Κανάλι
-  description: Το εξαμηνιαίο κανάλι του System Center Service Manager ακολουθεί τη σύγχρονη πολιτική κύκλου ζωής.
+  title: System Center Service Manager Semi Annual Channel
+  description: Το System Center Service Manager Semi Annual Channel ακολουθεί τη σύγχρονη πολιτική κύκλου ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 37355211dc2600ad5f372f914e386a836b5c4be9
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869540"
-name: Σύστημα Κέντρο Υπηρεσίας Διαχείρισης Εξαμηνιαία Κανάλι
-summary: >
-  Το εξαμηνιαίο κανάλι του System Center Service Manager ακολουθεί τη [σύγχρονη](/lifecycle/policies/modern) πολιτική κύκλου ζωής.
-
-
-
-  > [!IMPORTANT]
-
-  > Η υποστήριξη τελείωσε. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω.
+name: System Center Service Manager Semi Annual Channel
+summary: "Το System Center Service Manager Semi Annual Channel ακολουθεί τη [σύγχρονη](/lifecycle/policies/modern) πολιτική κύκλου ζωής. \n\n\n> [!IMPORTANT]\n> Η Υποστήριξη έληξε. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω.\n"
 products:
 - msc
 policyType: modern-on-prem
@@ -31,4 +24,4 @@ releases:
 - version: Version 1801
   startDate: 02/08/2018
   endDate: 08/08/2019
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](/system-center/scsm/upgrade-sm?view=sc-sm-2019)"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](/system-center/scsm/upgrade-sm?view=sc-sm-2019)"
