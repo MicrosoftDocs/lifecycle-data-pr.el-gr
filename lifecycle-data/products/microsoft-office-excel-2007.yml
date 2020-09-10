@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Office Excel 2007
   description: Το Microsoft Office Excel 2007 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: fc9de7b0c021adafe412b797fc40b821dd5d7a4f
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: Home and Student,Standard
+  ms.openlocfilehash: 90c89c9f01c1f62faf118eebc4840cce70ad32f8
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "818225"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1001611"
 name: Microsoft Office Excel 2007
 summary: >+
   Το Microsoft Office Excel 2007 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.

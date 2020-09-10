@@ -2,13 +2,14 @@
 metadata:
   title: SoftGrid Application Virtualization
   description: Το SoftGrid Application Virtualization ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 17b8078138b718a634c2561ac4b1e73f3966ce24
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: 4.1 for Desktops,4.2 for Desktops,for Terminal Services 4.1
+  ms.openlocfilehash: 5009a44f0d0ab2b180f62474de8f4d4bb01e3e62
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "817942"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1001019"
 name: SoftGrid Application Virtualization
 summary: >
   Το SoftGrid Application Virtualization ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
