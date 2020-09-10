@@ -2,13 +2,14 @@
 metadata:
   title: Πλαίσιο συνδεδεμένων υπηρεσιών της Microsoft 3.0
   description: Το Microsoft .NET Framework συνδεδεμένων υπηρεσιών 3.0 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: f30c38e094a3b58f587d59871bd573607df04273
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: Billing Standard Business Event,Order Handling Standard Business Event,Server,Standard,Standard Server with Standard Business Events
+  ms.openlocfilehash: e9592f59a0c2be51336c7bcc16312cc0cf90686b
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "818590"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "999983"
 name: Πλαίσιο συνδεδεμένων υπηρεσιών της Microsoft 3.0
 summary: >+
   Το πλαίσιο συνδεδεμένων υπηρεσιών της Microsoft 3.0 ακολουθεί την πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
