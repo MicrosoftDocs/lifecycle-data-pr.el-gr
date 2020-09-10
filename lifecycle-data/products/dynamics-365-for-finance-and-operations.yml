@@ -2,13 +2,14 @@
 metadata:
   title: Dynamics 365 για Χρηματοδότηση και Λειτουργίες
   description: Το Dynamics 365 για Χρηματοδότηση και Λειτουργίες ακολουθεί τη Σύγχρονη Πολιτική Κύκλου Ζωής.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 04432837adaeae9ae5ec6f7cfad703875e45b772
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/10/2020
+  keywords: Enterprise
+  ms.openlocfilehash: d4aa86f20aea4c570c467a0af08be2b70ac92aae
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "854464"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "998836"
 name: Dynamics 365 για Χρηματοδότηση και Λειτουργίες
 summary: >+
   Το Dynamics 365 για Χρηματοδότηση και Λειτουργίες ακολουθεί τη [Σύγχρονη](/lifecycle/policies/modern) Πολιτική Κύκλου Ζωής.
