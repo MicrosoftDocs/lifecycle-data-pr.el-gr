@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft SQL Server 2008
   description: Ο Microsoft SQL Server 2008 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
-  ms.date: 08/03/2020
-  ms.openlocfilehash: 15d47cb19d68d2ebb70659d43f7341eba2db1663
-  ms.sourcegitcommit: ea5579a833360652f47792f68134e2b25be4d487
+  ms.date: 09/01/2020
+  keywords: Datacenter,Developer,Enterprise,Express,Express with Advanced Services,Standard,Standard Edition for Small Business,Web,Workgroup
+  ms.openlocfilehash: e5bb477dc06874d285717a07c49f44473f599d63
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 08/04/2020
-  ms.locfileid: "882215"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "929714"
 name: Microsoft SQL Server 2008
 summary: >
   Ο Microsoft SQL Server 2008 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
@@ -43,4 +44,4 @@ releases:
 - version: Original Release
   startDate: 11/06/2008
   endDate: 04/13/2010
-content: "> [!TIP]\n> Οι Εκτεταμένες Ενημερώσεις Ασφαλείας (ESU) είναι διαθέσιμες για τις εκδόσεις Datacenter, Standard, Enterprise, Web και Workgroup αυτού του προϊόντος, για έως και τρία χρόνια επιπλέον μετά τη λήξη υποστήριξης.\nΚυκλοφορία-------------------------------Ημερομηνία έναρξης----Ημερομηνία λήξης\n\nΕκτεταμένη Ενημέρωση Ασφαλείας Έτος 3---13/07/2021---12/07/2022\n\nΕκτεταμένη Ενημέρωση Ασφαλείας Έτος 2---14/07/2021---13/07/2021\n\nΕκτεταμένη Ενημέρωση Ασφαλείας Έτος 1---9/07/2019---14/07/2020\n\n\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Πρόγραμμα Εκτεταμένης Ενημέρωσης Ασφαλείας (ESU)](/lifecycle/faq/extended-security-updates)\n* [Ιστολόγιο Υπηρεσιών Έκδοσης SQL](https://blogs.msdn.com/b/sqlreleaseservices/archive/2014/09/26/sql-server-2008-r2-service-pack-3-has-released.aspx)\n\n> [!NOTE]\n> Μόνο για το IA64, το SP3 θα υποστηρίζεται μέχρι τις 9/7/2019.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Κέντρο Δεδομένων\n* Προγραμματιστής\n* Επιχείρηση\n* Express\n* Εξπρές με Προηγμένες Υπηρεσίες\n* Τυπική ροή εργασίας\n* Τυπική Έκδοση για Μικρές Επιχειρήσεις\n* Ιστός\n* Ομάδας εργασίας"
+content: "> [!TIP]\n> Οι Εκτεταμένες Ενημερώσεις Ασφαλείας (ESU) είναι διαθέσιμες για τις εκδόσεις Datacenter, Standard, Enterprise, Web, Workgroup και ενσωματωμένες εκδόσεις αυτού του προϊόντος, για έως και τρία χρόνια επιπλέον μετά τη λήξη υποστήριξης.\n\n## <a name=\"links\"></a>Συνδέσεις \n* [Πρόγραμμα Εκτεταμένης Ενημέρωσης Ασφαλείας (ESU)](/lifecycle/faq/extended-security-updates)\n* [Ιστολόγιο Υπηρεσιών Έκδοσης SQL](https://blogs.msdn.com/b/sqlreleaseservices/archive/2014/09/26/sql-server-2008-r2-service-pack-3-has-released.aspx)\n* [Οδηγίες Μετεγκατάστασης](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Μόνο για το IA64, το SP3 θα υποστηρίζεται μέχρι τις 9/7/2019.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Κέντρο Δεδομένων\n* Προγραμματιστής\n* Επιχείρηση\n* Express\n* Εξπρές με Προηγμένες Υπηρεσίες\n* Τυπική ροή εργασίας\n* Τυπική Έκδοση για Μικρές Επιχειρήσεις\n* Ιστός\n* Ομάδας εργασίας"
