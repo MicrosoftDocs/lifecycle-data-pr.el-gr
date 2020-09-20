@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Mobile 6,5
-  description: Το Windows Mobile 6,5 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Windows Mobile 6.5
+  description: Το Windows Mobile 6.5 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/01/2020
   keywords: Professional,Standard
   ms.openlocfilehash: 33efcc83ffb0f417751ab3b65937ba480a5d0ac7
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "939741"
-name: Windows Mobile 6,5
+name: Windows Mobile 6.5
 summary: >
-  Το Windows Mobile 6,5 ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Windows Mobile 6.5 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
   Αυτό ισχύει για τις ακόλουθες εκδόσεις: Επαγγελματικό, Standard
