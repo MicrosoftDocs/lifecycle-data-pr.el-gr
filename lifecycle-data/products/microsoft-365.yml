@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft 365
-  description: Το Microsoft 365 ακολουθεί τη σύγχρονη πολιτική κύκλου ζωής.
+  description: Το Microsoft 365 ακολουθεί τη Σύγχρονη Πολιτική Κύκλου Ζωής.
   ms.date: 09/01/2020
   keywords: Business,Education,Enterprise,Government
   ms.openlocfilehash: 49d1c65ad462a3ce987df621004cf7341ac4aa23
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "935967"
 name: Microsoft 365
 summary: >+
-  Το Microsoft 365 ακολουθεί τη [σύγχρονη](/lifecycle/policies/modern) πολιτική κύκλου ζωής.
+  Το Microsoft 365 ακολουθεί τη [Σύγχρονη](/lifecycle/policies/modern) Πολιτική Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Business, Education, Enterprise, κυβέρνηση
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Business, Education, Enterprise, Government
 
 products:
 - office
@@ -25,4 +25,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 09/22/2015
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Χάρτης πορείας του Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)\n* [Απαιτήσεις συστήματος](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση\n* Εκπαίδευση\n* Επιχείρηση\n* Κυβέρνηση"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Χάρτης του Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)\n* [Απαιτήσεις συστήματος](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση\n* Εκπαίδευση\n* Επιχείρηση\n* Government"

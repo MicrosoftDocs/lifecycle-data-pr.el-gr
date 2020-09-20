@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Storage Server 2016
-  description: Ο Windows Storage Server 2016 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  description: Ο Windows Storage Server 2016 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/01/2020
   keywords: Standard,Workgroup
   ms.openlocfilehash: 3c0a7d1d5f6f5a73282c35ad96c1b0a036f938d1
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938964"
 name: Windows Storage Server 2016
 summary: >+
-  Ο Windows Storage Server 2016 ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Ο Windows Storage Server 2016 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Τυπικό, Ομάδα εργασίας
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Τυπική, Ομάδα Εργασίας
 
 products:
 - windows
