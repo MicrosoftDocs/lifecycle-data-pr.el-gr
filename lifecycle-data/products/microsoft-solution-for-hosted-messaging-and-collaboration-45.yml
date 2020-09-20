@@ -5,15 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: cbc7bce389f60d1972cae075005525780c82eed0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818207"
 name: Λύση της Microsoft για φιλοξενούμενα μηνύματα και συνεργασία 4.5
-summary: >+
-  Η λύση της Microsoft για φιλοξενούμενα μηνύματα και συνεργασία 4.5 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
-
-
+summary: "Η λύση της Microsoft για φιλοξενούμενα μηνύματα και συνεργασία 4.5 ακολουθεί την πολιτική [ σταθερού](/lifecycle/policies/fixed) κύκλου ζωής. \n\n\n"
 products:
 - windows
 policyType: fixed-mainstream-only

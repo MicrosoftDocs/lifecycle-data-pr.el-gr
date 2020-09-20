@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Excel για Mac 2011
-  description: Το Excel για Mac 2011 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  description: Το Excel για Mac 2011 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6fbc511fd70af039109ad1e301de765ad20e836c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818691"
 name: Excel για Mac 2011
 summary: >+
-  Το Excel για Mac 2011 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Excel για Mac 2011 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Η βασική υποστήριξη για το Microsoft Office για Mac 2011 επεκτείνεται όπως φαίνεται, ώστε να παρέχεται στους πελάτες η τυπική λωρίδα χρόνου μετάβασης κύκλου ζωής."
+content: "\n\n> [!NOTE]\n> Η Βασική υποστήριξη για το Microsoft Office για Mac 2011 επεκτείνεται όπως φαίνεται, ώστε να παρέχεται σε όλους τους πελάτες η τυπική λωρίδα χρόνου μετάβασης κύκλου ζωής."

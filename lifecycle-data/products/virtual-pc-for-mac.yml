@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Εικονικός υπολογιστής για Mac
-  description: Το Virtual PC για Mac ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  description: Το εικονικό PC για Mac ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: cf556aeada0feade9a260e41c921b5f0ac6638e7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818462"
 name: Εικονικός υπολογιστής για Mac
 summary: >+
-  Το Virtual PC για Mac ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Τo εικονικό PC για Mac ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 11/12/2003
   endDate: 01/13/2009
-content: "\n\n> [!NOTE]\n> Περιλαμβάνεται έκδοση 5.01, έκδοση 5.02, έκδοση 5.03, έκδοση 5.04, έκδοση 6.01, έκδοση 6.02, έκδοση 6.1, έκδοση 6.1.1 αναπροσαρμογή, έκδοση 7, έκδοση 7.01"
+content: "\n\n> [!NOTE]\n> Περιλαμβάνεται έκδοση 5.01, έκδοση 5.02, έκδοση 5.03, έκδοση 5.04, έκδοση 6.01, έκδοση 6.02, έκδοση 6.1, έκδοση αναβάθμισης 6.1.1, έκδοση 7, έκδοση 7.01"

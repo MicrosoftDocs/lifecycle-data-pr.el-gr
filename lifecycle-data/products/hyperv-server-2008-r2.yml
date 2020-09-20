@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Διακομιστής Hyper-V 2008 R2
-  description: Ο Διακομιστής Hyper-V 2008 R2 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  description: Ο Hyper-V Server 2008 R2 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6887524823a979fc8ea45c7745423de784efec7e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818673"
 name: Διακομιστής Hyper-V 2008 R2
-summary: "Ο Διακομιστής Hyper-V 2008 R2 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.\n\n\n> [!IMPORTANT]\n> Η υποστήριξη για αυτό το προϊόν έχει λήξει. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω. \n"
+summary: "Ο Hyper-V Server 2008 R2 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.\n\n\n> [!IMPORTANT]\n> Η υποστήριξη για αυτό το προϊόν έληξε. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω. \n"
 products:
 - windows
 policyType: fixed
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2009
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](/windows-server/get-started/modernize-windows-server-2008)"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](/windows-server/get-started/modernize-windows-server-2008)"
