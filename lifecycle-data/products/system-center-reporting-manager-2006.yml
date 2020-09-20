@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Διαχείριση αναφοράς κέντρου συστήματος 2006
-  description: Η Διαχείριση αναφορών κέντρου συστήματος 2006 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: System Center Reporting Manager 2006
+  description: Ο System Center Reporting Manager 2006 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 472619ad5c47b8f0e8ff33bf769094c5edc6c58f
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818470"
-name: Διαχείριση αναφοράς κέντρου συστήματος 2006
+name: System Center Reporting Manager 2006
 summary: >
-  Η Διαχείριση αναφορών κέντρου συστήματος 2006 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Ο System Center Reporting Manager 2006 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 
   > [!IMPORTANT]
 
-  > Η υποστήριξη για αυτό το προϊόν έχει λήξει. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω.
+  > Η υποστήριξη για αυτό το προϊόν έληξε. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω.
 products:
 - msc
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 09/17/2006
   endDate: 10/11/2016
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](https://blogs.technet.microsoft.com/momteam/2016/10/06/microsoft-system-center-reporting-manager-2006-end-of-support)"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](https://blogs.technet.microsoft.com/momteam/2016/10/06/microsoft-system-center-reporting-manager-2006-end-of-support)"

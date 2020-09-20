@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Υπηρεσίες των Microsoft Windows για UNIX 3.5
-  description: Οι υπηρεσίες των Microsoft Windows για UNIX 3.5 ακολουθούν την πολιτική κύκλου ζωής στοιχείων.
+  description: Οι υπηρεσίες των Microsoft Windows για UNIX 3.5 ακολουθούν την Πολιτική Κύκλου Ζωής Στοιχείου.
   ms.date: 07/28/2020
   ms.openlocfilehash: 55f7940da408533190f0d2c0fdb2d323e983a9e4
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "817953"
 name: Υπηρεσίες των Microsoft Windows για UNIX 3.5
-summary: "Οι υπηρεσίες των Microsoft Windows για UNIX 3.5 ακολουθούν την πολιτική κύκλου ζωής [στοιχείων.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)\n\n\n> [!IMPORTANT]\n> Η υποστήριξη τελείωσε. \n"
+summary: "Οι υπηρεσίες των Microsoft Windows για UNIX 3.5 ακολουθούν την Πολιτική Κύκλου Ζωής [Στοιχείου](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).\n\n\n> [!IMPORTANT]\n> Η Υποστήριξη έληξε. \n"
 products:
 - windows
 policyType: component

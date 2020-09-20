@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Προσαρμογείς αρχείων BizTalk της Microsoft για το SWIFT
-  description: Οι προσαρμογείς Microsoft BizTalk FileAct και InterAct για SWIFT ακολουθούν την πολιτική σταθερού κύκλου ζωής.
+  title: Προσαρμογείς FileAct και InterAct της Microsoft BizTalk για SWIFT
+  description: Οι προσαρμογείς Microsoft BizTalk FileAct και InterAct για SWIFT ακολουθούν την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 654ca219f5eb9869d6bae2aaaef848a48af3560e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818621"
-name: Προσαρμογείς αρχείων BizTalk της Microsoft για το SWIFT
-summary: >+
-  Οι προσαρμογείς Microsoft BizTalk FileAct και InterAct για SWIFT ακολουθούν την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
-
-
+name: Προσαρμογείς FileAct και InterAct της Microsoft BizTalk για SWIFT
+summary: "Οι Προσαρμογείς Microsoft BizTalk FileAct και InterAct για SWIFT ακολουθούν την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής. \n\n\n"
 products:
 - microsoft-servers
 policyType: fixed
