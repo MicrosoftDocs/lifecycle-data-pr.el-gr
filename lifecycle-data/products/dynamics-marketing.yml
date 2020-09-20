@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Δυναμικό μάρκετινγκ
-  description: Το Dynamics Marketing ακολουθεί τη σύγχρονη πολιτική κύκλου ζωής.
+  title: Dynamics Marketing
+  description: Το Dynamics Marketing ακολουθεί τη Σύγχρονη Πολιτική Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 641933ec6025a979f820962706701c6034173ccb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854638"
-name: Δυναμικό μάρκετινγκ
+name: Dynamics Marketing
 summary: >+
-  Το Dynamics Marketing ακολουθεί τη [σύγχρονη](/lifecycle/policies/modern) πολιτική κύκλου ζωής.
+  Το Dynamics Marketing ακολουθεί τη [Σύγχρονη](/lifecycle/policies/modern) Πολιτική Κύκλου Ζωής.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2014
   endDate: 05/15/2018
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες συντήρησης](https://cloudblogs.microsoft.com/dynamics365/bdm/2017/08/18/microsoft-dynamics-marketing-service-will-be-discontinued-and-learn-whats-coming-next/?source=crm)"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες Συντήρησης](https://cloudblogs.microsoft.com/dynamics365/bdm/2017/08/18/microsoft-dynamics-marketing-service-will-be-discontinued-and-learn-whats-coming-next/?source=crm)"

@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Παράσταση 3
-  description: Η παράσταση 3 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Expression 3
+  description: Το Expression 3 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/01/2020
   keywords: Design,Encoder,Studio,Web
   ms.openlocfilehash: 406642d42292645f0a1f233b77937ba831d08671
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930750"
-name: Παράσταση 3
+name: Expression 3
 summary: >+
-  Η παράσταση 3 ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Expression 3 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: σχεδίαση, κωδικοποιητής, στούντιο, Web
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Design, Encoder, Studio, Web
 
 products:
 - expression
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/19/2009
   endDate: 01/14/2020
-content: "\n\n> [!NOTE]\n> Η ημερομηνία έναρξης για τη σχεδίαση παράστασης 3 είναι η 19η Νοεμβρίου 2009. \n\n## <a name=\"editions\"></a>Εκδόσεις \n* Σχέδιο\n* Κωδικοποιητή\n* Στούντιο\n* Ιστός"
+content: "\n\n> [!NOTE]\n> Η ημερομηνία έναρξης για το Expression Design 3 είναι 19 Νοεμβρίου 2009. \n\n## <a name=\"editions\"></a>Εκδόσεις \n* Design\n* Encoder\n* Studio\n* Ιστός"

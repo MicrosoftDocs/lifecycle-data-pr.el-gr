@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Πυρήνας πλαισίου οντότητας
-  description: Ο πυρήνας πλαισίου οντότητας ακολουθεί τη σύγχρονη πολιτική κύκλου ζωής.
+  title: Entity Framework Core
+  description: Ο Entity Framework Core ακολουθεί τη Σύγχρονη Πολιτική Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 635de4ebbcd4ff1061210469cd509fe9771be356
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854527"
-name: Πυρήνας πλαισίου οντότητας
+name: Entity Framework Core
 summary: >+
-  Ο πυρήνας πλαισίου οντότητας ακολουθεί τη [σύγχρονη](/lifecycle/policies/modern) πολιτική κύκλου ζωής.
+  Ο Entity Framework Core ακολουθεί τη [Σύγχρονη](/lifecycle/policies/modern) Πολιτική Κύκλου Ζωής.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 06/27/2016
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Συνήθεις ερωτήσεις για τον κύκλο ζωής - .NET Core](/lifecycle/faq/dotnet-core)\n* [Πληροφορίες συντήρησης](https://github.com/dotnet/core/blob/master/microsoft-support.md)\n* [Χάρτης .NET](https://github.com/dotnet/core/blob/master/roadmap.md)"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Συχνές Ερωτήσεις για τον Κύκλο Ζωής - .NET Core](/lifecycle/faq/dotnet-core)\n* [Πληροφορίες Συντήρησης](https://github.com/dotnet/core/blob/master/microsoft-support.md)\n* [Χάρτης .NET](https://github.com/dotnet/core/blob/master/roadmap.md)"
