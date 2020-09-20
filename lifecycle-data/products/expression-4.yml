@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Παράσταση 4
-  description: Η παράσταση 4 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Expression 4
+  description: Το Expression 4 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/01/2020
   keywords: Design,Encoder,Studio Ultimate,Web
   ms.openlocfilehash: ad3463184e4da721215fe51169c93401d2d9c848
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930861"
-name: Παράσταση 4
+name: Expression 4
 summary: >+
-  Η παράσταση 4 ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Expression 4 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: σχεδίαση, κωδικοποιητής, Studio Ultimate, Web
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Design, Encoder, Studio Ultimate, Web
 
 products:
 - expression
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/26/2010
   endDate: 07/14/2020
-content: "\n\n> [!NOTE]\n> Το άκρο της κύριας υποστήριξης για το Expression Studio Ultimate 4 είναι η 13η Οκτωβρίου 2015.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Σχέδιο\n* Κωδικοποιητή\n* Studio Ultimate\n* Ιστός"
+content: "\n\n> [!NOTE]\n> Η λήξη της βασικής υποστήριξης για το Expression Studio Ultimate 4 είναι στις 13 Οκτωβρίου 2015.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Design\n* Encoder\n* Studio Ultimate\n* Ιστός"

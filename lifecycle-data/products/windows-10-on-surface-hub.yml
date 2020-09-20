@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 στο Surface Hub
-  description: Τα Windows 10 στο Surface Hub ακολουθούν την πολιτική σταθερού κύκλου ζωής.
+  title: Windows 10 σε Surface Hub
+  description: Τα Windows 10 στο Surface Hub ακολουθούν την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: d5c994b23c967ac3138bc695168ac1bbeec1856b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854226"
-name: Windows 10 στο Surface Hub
+name: Windows 10 σε Surface Hub
 summary: >+
-  Τα Windows 10 στο Surface Hub ακολουθούν την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Τα Windows 10 στο Surface Hub ακολουθούν την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 03/25/2016
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Ενημερώσεις των Windows (Surface Hub)](/surface-hub/manage-windows-updates-for-surface-hub)\n\n> [!NOTE]\n> Ανατρέξτε στη σελίδα ενημερωμένες εκδόσεις των Windows (Surface Hub) για να βεβαιωθείτε ότι λαμβάνετε τις πιο πρόσφατες ενημερώσεις του Surface Hub."
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Ενημερώσεις Windows (Surface Hub)](/surface-hub/manage-windows-updates-for-surface-hub)\n\n> [!NOTE]\n> Ανατρέξτε στη σελίδα με τις ενημερώσεις των Windows (Surface Hub) για να βεβαιωθείτε ότι λαμβάνετε τις τελευταίες ενημερώσεις του Surface Hub."

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Υπηρεσίες πληροφοριών Internet της Microsoft 10.0
-  description: Οι υπηρεσίες Microsoft Internet Information Services 10.0 ακολουθούν την πολιτική κύκλου ζωής στοιχείων.
+  title: Microsoft Internet Information Services 10.0
+  description: Οι Microsoft Internet Information Services 10.0 ακολουθούν την Πολιτική Κύκλου Ζωής Στοιχείου.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6ee9b2824e6fd7cff445f978c3a6294e7784abcb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854318"
-name: Υπηρεσίες πληροφοριών Internet της Microsoft 10.0
+name: Microsoft Internet Information Services 10.0
 summary: >+
-  Οι υπηρεσίες Microsoft Internet Information Services 10.0 ακολουθούν την πολιτική κύκλου ζωής [στοιχείων.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Οι Microsoft Internet Information Services 10.0 ακολουθεί την Πολιτική Κύκλου Ζωής [Στοιχείου](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/12/2016
   endDate: 01/11/2027
-content: "\n\n> [!NOTE]\n> Αυτή η έκδοση είναι γνωστή ως στοιχείο που ακολουθεί τον κύκλο ζωής υποστήριξης του γονικού κύριου προϊόντος της, του Windows Server 2016."
+content: "\n\n> [!NOTE]\n> Αυτή η έκδοση είναι γνωστή ως Στοιχείο που ακολουθεί τον Κύκλο Ζωής Υποστήριξης του γονικού Κύριου Προϊόντος, των Windows Server 2016."
