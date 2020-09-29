@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics CRM 2015
-  description: Το Dynamics CRM 2015 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  description: Το Dynamics CRM 2015 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8ed74b140e6c7efc0913db1aced0cac171298a8b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854642"
 name: Dynamics CRM 2015
 summary: >+
-  Το Dynamics CRM 2015 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Dynamics CRM 2015 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release (ver 7.0)
   startDate: 02/11/2015
   endDate: 01/14/2025
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες υποστήριξης](https://support.microsoft.com/help/3018363/microsoft-dynamics-crm-2015-updates-and-hotfixes)"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες Υποστήριξης](https://support.microsoft.com/help/3018363/microsoft-dynamics-crm-2015-updates-and-hotfixes)"

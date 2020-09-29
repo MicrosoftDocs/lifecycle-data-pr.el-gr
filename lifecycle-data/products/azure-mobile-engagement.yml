@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Δέσμευση για κινητές συσκευές Azure
-  description: Το Azure Mobile Engagement ακολουθεί τη σύγχρονη πολιτική κύκλου ζωής.
+  title: Azure Mobile Engagement
+  description: Το Azure Mobile Engagement ακολουθεί τη Σύγχρονη Πολιτική Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5b91321c749556c0bd13b700b1c8a1806e2a9bb5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854237"
-name: Δέσμευση για κινητές συσκευές Azure
+name: Azure Mobile Engagement
 summary: >+
-  Το Azure Mobile Engagement ακολουθεί τη [σύγχρονη](/lifecycle/policies/modern) πολιτική κύκλου ζωής.
+  Το Azure Mobile Engagement ακολουθεί τη [Σύγχρονη](/lifecycle/policies/modern) Πολιτική Κύκλου Ζωής.
 
 
 products:

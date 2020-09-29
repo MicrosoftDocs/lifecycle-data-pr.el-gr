@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Κωδικός Visual Studio
-  description: Ο κώδικας του Visual Studio ακολουθεί τη σύγχρονη πολιτική κύκλου ζωής.
+  title: Visual Studio Code
+  description: Το Visual Studio Code ακολουθεί τη Σύγχρονη Πολιτική Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3d0488c1baf7058618ba22280b0795ecf6e5a6b4
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854575"
-name: Κωδικός Visual Studio
+name: Visual Studio Code
 summary: >+
-  Ο κώδικας του Visual Studio ακολουθεί τη [σύγχρονη](/lifecycle/policies/modern) πολιτική κύκλου ζωής.
+  Το Visual Studio ακολουθεί τη [Σύγχρονη](/lifecycle/policies/modern) Πολιτική Κύκλου Ζωής.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 04/14/2016
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες συντήρησης](/visualstudio/productinfo/vs-servicing-mac)"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες Συντήρησης](/visualstudio/productinfo/vs-servicing-mac)"
