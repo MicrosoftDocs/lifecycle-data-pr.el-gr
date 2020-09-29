@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Speech Server 2004 R2
-  description: Ο Microsoft Speech Server 2004 R2 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  description: Ο Microsoft Speech Server 2004 R2 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: d93a0964531bf4fb6b7019880a39fd9a6e07dfa4
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937040"
 name: Microsoft Speech Server 2004 R2
 summary: >+
-  Ο Microsoft Speech Server 2004 R2 ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Ο Microsoft Speech Server 2004 R2 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
   Αυτό ισχύει για τις ακόλουθες εκδόσεις: Enterprise, Standard

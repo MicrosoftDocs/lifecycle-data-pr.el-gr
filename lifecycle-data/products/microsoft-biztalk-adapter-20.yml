@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Προσαρμογέας Microsoft BizTalk 2,0
-  description: Ο προσαρμογέας Microsoft BizTalk 2,0 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Προσαρμογέας BizTalk της Microsoft 2.0
+  description: Ο Προσαρμογέας BizTalk 2.0 της Microsoft ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/01/2020
   keywords: for MSMQ,for mySAP Business Suite,for SAP
   ms.openlocfilehash: e6ccc3e11575a0d48e60228fa8eca4d1e4849669
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934746"
-name: Προσαρμογέας Microsoft BizTalk 2,0
+name: Προσαρμογέας BizTalk της Microsoft 2.0
 summary: >+
-  Ο προσαρμογέας Microsoft BizTalk 2,0 ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Ο προσαρμογέας BizTalk 2.0 της Microsoft ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
   Αυτό ισχύει για τις ακόλουθες εκδόσεις: για το MSMQ, για το mySAP Business Suite, για το SAP
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/20/2004
   endDate: 01/13/2015
-content: "\n\n> [!NOTE]\n> Η ημερομηνία έναρξης για τον προσαρμογέα Microsoft BizTalk 2,0 για SAP είναι 2 Νοεμβρίου 2004. Η ημερομηνία έναρξης για τον προσαρμογέα Microsoft BizTalk για MSMQ 2,0 είναι 10 Δεκεμβρίου 2004\n\n## <a name=\"editions\"></a>Εκδόσεις \n* για το MSMQ\n* για την επιχειρηματική σουίτα mySAP\n* για το SAP"
+content: "\n\n> [!NOTE]\n> Η ημερομηνία έναρξης για τον προσαρμογέα Microsoft BizTalk 2.0 για SAP είναι 2 Νοεμβρίου 2004. Η ημερομηνία έναρξης για τον προσαρμογέα Microsoft BizTalk για το MSMQ 2.0 είναι 10 Δεκεμβρίου 2004\n\n## <a name=\"editions\"></a>Εκδόσεις \n* για το MSMQ\n* για το mySAP Business Suite\n* για το SAP"
