@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Υπηρεσίες RIA του Ιδρύματος επικοινωνιών των Windows
-  description: Οι υπηρεσίες RIA του Windows Communication Foundation ακολουθούν την πολιτική σταθερού κύκλου ζωής.
+  title: Windows Communication Foundation RIA Services
+  description: Το Windows Communication Foundation RIA Services ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3876aae1488148f489c9c4c46dfd24bb89fd9480
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "817924"
-name: Υπηρεσίες RIA του Ιδρύματος επικοινωνιών των Windows
+name: Windows Communication Foundation RIA Services
 summary: >+
-  Οι υπηρεσίες RIA του Windows Communication Foundation ακολουθούν την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Windows Communication Foundation RIA Services ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:

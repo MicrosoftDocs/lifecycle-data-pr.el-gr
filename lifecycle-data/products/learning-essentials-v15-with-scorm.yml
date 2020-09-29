@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Εκμάθηση Essentials v1.5 με SCORM
+  title: Learning Essentials v1.5 με SCORM
   description: Το Learning Essentials v1.5 με SCORM ακολουθεί την Πολιτική κύκλου ζωής στοιχείων.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7d1881def5a4b9f675b435cc766a3594b8ad7e56
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818652"
-name: Εκμάθηση Essentials v1.5 με SCORM
+name: Learning Essentials v1.5 με SCORM
 summary: >+
-  Το Learning Essentials v1.5 με SCORM ακολουθεί την Πολιτική κύκλου ζωής [στοιχείων.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Το Learning Essentials v1.5 με SCORM ακολουθεί την πολιτική κύκλου ζωής [στοιχείων](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:

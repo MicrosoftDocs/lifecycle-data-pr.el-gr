@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Κονσόλα διαχείρισης ασφαλείας διακομιστή Microsoft Forefront
-  description: Η κονσόλα διαχείρισης ασφαλείας του Microsoft Forefront Server ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  description: Η κονσόλα διαχείρισης ασφαλείας διακομιστή Microsoft Forefront ακολουθεί την πολιτική σταθερού κύκλου ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 79937f95580b655b318e965e2ef659931323ff8d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818570"
 name: Κονσόλα διαχείρισης ασφαλείας διακομιστή Microsoft Forefront
 summary: >+
-  Η κονσόλα διαχείρισης ασφαλείας του Microsoft Forefront Server ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Η κονσόλα διαχείρισης ασφαλείας διακομιστή Microsoft Forefront ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
 
 
 products:

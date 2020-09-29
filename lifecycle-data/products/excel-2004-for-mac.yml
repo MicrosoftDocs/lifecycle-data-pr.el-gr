@@ -5,12 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 51b0adf9f1c97f1ab2032784a18f4d0fbd9912c0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818252"
 name: Microsoft Excel 2004 για Mac
-summary: "Το Microsoft Excel 2004 για Mac ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.\n\n\n> [!IMPORTANT]\n> Η υποστήριξη για αυτό το προϊόν έχει λήξει. \n"
+summary: "Το Microsoft Excel 2004 για Mac ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.\n\n\n> [!IMPORTANT]\n> Η υποστήριξη για αυτό το προϊόν έληξε. \n"
 products:
 - office
 policyType: fixed-mainstream-only
