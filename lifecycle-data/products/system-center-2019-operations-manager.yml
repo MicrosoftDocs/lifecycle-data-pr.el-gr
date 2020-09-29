@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Υπεύθυνος Λειτουργίας Κέντρου Συστήματος 2019
-  description: Η Διαχείριση λειτουργιών του System Center 2019 ακολουθεί την Πολιτική σταθερού κύκλου ζωής.
+  title: System Center 2019 Operations Manager
+  description: Το System Center 2019 Operations Manager ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: f5bee333a3804dceb691a900186014bd104a6e77
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869543"
-name: Υπεύθυνος Λειτουργίας Κέντρου Συστήματος 2019
+name: System Center 2019 Operations Manager
 summary: >+
-  Η Διαχείριση λειτουργιών του System Center 2019 ακολουθεί την [Πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το System Center 2019 Operations Manager ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 03/14/2019
   endDate: 04/09/2029
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες προϊόντος](/system-center/)"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες Προϊόντος](/system-center/)"

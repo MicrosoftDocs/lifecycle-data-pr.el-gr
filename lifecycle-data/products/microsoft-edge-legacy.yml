@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Παλαιού τύπου Microsoft Edge
-  description: Το Microsoft Edge Legacy ακολουθεί την πολιτική κύκλου ζωής στοιχείων.
+  title: Microsoft Edge Legacy
+  description: Το Microsoft Edge Legacy ακολουθεί την Πολιτική Κύκλου Ζωής Στοιχείου.
   ms.date: 08/24/2020
   ms.openlocfilehash: e3739694176a49b69fa121857ed8740523a36816
   ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 08/25/2020
   ms.locfileid: "908739"
-name: Παλαιού τύπου Microsoft Edge
+name: Microsoft Edge Legacy
 summary: >
-  Το Microsoft Edge Legacy ακολουθεί την πολιτική κύκλου ζωής [στοιχείων](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Το Microsoft Edge Legacy ακολουθεί την Πολιτική Κύκλου Ζωής [Στοιχείου](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 

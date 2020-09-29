@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Υπηρεσίες BizTalk μέσω Azure
-  description: Το Azure BizTalk Services ακολουθεί την πολιτική σύγχρονου κύκλου ζωής.
+  title: Υπηρεσίες Azure BizTalk
+  description: Οι υπηρεσίες Azure BizTalk ακολουθούν τη Σύγχρονη Πολιτική Κύκλου Ζωής.
   ms.date: 08/19/2020
   ms.openlocfilehash: 3fba232a5fce7a5cbc705ce79978718f84181737
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904107"
-name: Υπηρεσίες BizTalk μέσω Azure
+name: Υπηρεσίες Azure BizTalk
 summary: >+
-  Το Azure BizTalk Services ακολουθεί την πολιτική [σύγχρονου](/lifecycle/policies/modern) κύκλου ζωής.
+  Οι υπηρεσίες Azure BizTalk ακολουθούν τη [Σύγχρονη](/lifecycle/policies/modern) Πολιτική Κύκλου Ζωής.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 11/21/2013
   endDate: 05/31/2018
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες μετεγκατάστασης](https://azure.microsoft.com/services/biztalk-services)"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](https://azure.microsoft.com/services/biztalk-services)"

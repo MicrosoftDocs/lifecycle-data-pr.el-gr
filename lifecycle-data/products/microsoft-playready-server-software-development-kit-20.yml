@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Κιτ ανάπτυξης λογισμικού του Microsoft PlayReady Server 2,0
-  description: Το κιτ ανάπτυξης λογισμικού του Microsoft PlayReady Server 2,0 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Κιτ ανάπτυξης λογισμικού διακομιστή Microsoft PlayReady 2.0
+  description: Το Κιτ ανάπτυξης λογισμικού διακομιστή Microsoft PlayReady 2.0 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 08/21/2020
   ms.openlocfilehash: 61635292b88f853a5daeda3ffcc766a1786e42cd
   ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "908058"
-name: Κιτ ανάπτυξης λογισμικού του Microsoft PlayReady Server 2,0
-summary: >+
-  Το κιτ ανάπτυξης λογισμικού του Microsoft PlayReady Server 2,0 ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
-
-
+name: Κιτ ανάπτυξης λογισμικού διακομιστή Microsoft PlayReady 2.0
+summary: "Το Κιτ ανάπτυξης λογισμικού διακομιστή Microsoft PlayReady 2.0 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed)Κύκλου Ζωής. \n\n\n"
 products:
 - windows
 policyType: fixed-mainstream-only

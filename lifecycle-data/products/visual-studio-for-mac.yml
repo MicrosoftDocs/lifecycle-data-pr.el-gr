@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Οπτικό στούντιο για Mac
-  description: Το Visual Studio για Mac ακολουθεί τη σύγχρονη πολιτική κύκλου ζωής.
+  title: Visual Studio για Mac
+  description: Το Visual Studio για Mac ακολουθεί τη Σύγχρονη Πολιτική Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: df41c429361462c1a4f73795de70cba9591f0197
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869537"
-name: Οπτικό στούντιο για Mac
+name: Visual Studio για Mac
 summary: >+
-  Το Visual Studio για Mac ακολουθεί τη [σύγχρονη](/lifecycle/policies/modern) πολιτική κύκλου ζωής.
+  Το Visual Studio για Mac ακολουθεί τη [Σύγχρονη](/lifecycle/policies/modern) Πολιτική Κύκλου Ζωής.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 05/10/2017
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες συντήρησης](/visualstudio/productinfo/vs-servicing-mac)"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες Συντήρησης](/visualstudio/productinfo/vs-servicing-mac)"

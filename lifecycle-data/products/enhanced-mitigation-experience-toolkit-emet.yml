@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Κιτ εργαλείων βελτιωμένης εμπειρίας μετριασμού (EMET)
-  description: Το κιτ εργαλείων βελτιωμένης εμπειρίας μετριασμού (EMET) ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Κιτ εργαλείων Enhanced Mitigation Experience (EMET)
+  description: Το κιτ εργαλείων Enhanced Mitigation Experience (EMET) ακολουθεί την πολιτική σταθερού κύκλου ζωής.
   ms.date: 08/20/2020
   ms.openlocfilehash: 3dbfe94571aa33f4f48608ce2078f978d4901ae8
   ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "905297"
-name: Κιτ εργαλείων βελτιωμένης εμπειρίας μετριασμού (EMET)
-summary: >+
-  Το κιτ εργαλείων βελτιωμένης εμπειρίας μετριασμού (EMET) ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
-
-
+name: Κιτ εργαλείων Enhanced Mitigation Experience (EMET)
+summary: "Το κιτ εργαλείων Enhanced Mitigation Experience (EMET) ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής. \n\n\n"
 products:
 - windows
 policyType: fixed

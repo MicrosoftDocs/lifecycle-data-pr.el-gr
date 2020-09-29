@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Works
-  description: Το Microsoft Works ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  description: Το Microsoft Works ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 08/19/2020
   ms.openlocfilehash: da68f15014771676be04285328ffde3ff1c49858
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904114"
 name: Microsoft Works
 summary: >+
-  Το Microsoft Works ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Microsoft Works ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:
@@ -39,4 +39,4 @@ releases:
 - version: Microsoft Works Suite 2004
   startDate: 10/25/2003
   endDate: 01/09/2007
-content: "\n\n> [!NOTE]\n> Αυτή η καταχώρηση περιέχει όλα τα προϊόντα του Microsoft Works που κυκλοφόρησαν μεταξύ του 2003 και του 2007."
+content: "\n\n> [!NOTE]\n> Αυτή η λίστα περιέχει ΟΛΑ τα προϊόντα του Microsoft Works που κυκλοφόρησαν μεταξύ 2003 και 2007."

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Live OneCare
-  description: Το Windows Live OneCare ακολουθεί τη σύγχρονη πολιτική κύκλου ζωής.
+  description: Το Windows Live OneCare ακολουθεί τη Σύγχρονη Πολιτική Κύκλου Ζωής.
   ms.date: 08/19/2020
   ms.openlocfilehash: f37abdbbca933797a22116b3c1aaf794ac0cd1a2
   ms.sourcegitcommit: 7058ee1673709d6dd4bed24f043690e0da2c6bb4
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "902766"
 name: Windows Live OneCare
 summary: >+
-  Το Windows Live OneCare ακολουθεί τη [σύγχρονη](/lifecycle/policies/modern) πολιτική κύκλου ζωής.
+  Το Windows Live OneCare ακολουθεί τη [Σύγχρονη](/lifecycle/policies/modern) Πολιτική Κύκλου Ζωής.
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft XML Core Services 4,0
-  description: Το Microsoft XML Core Services 4,0 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Microsoft XML Core Services 4.0
+  description: Οι υπηρεσίες Microsoft XML Core 4.0 ακολουθούν την πολιτική σταθερού κύκλου ζωής.
   ms.date: 08/12/2020
   ms.openlocfilehash: 311394fe73d17ea11fe92712511a42af1f509295
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893054"
-name: Microsoft XML Core Services 4,0
+name: Microsoft XML Core Services 4.0
 summary: >+
-  Το Microsoft XML Core Services 4,0 ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Οι υπηρεσίες Microsoft XML Core 4.0 ακολουθούν την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Service Pack 3
   startDate: 12/28/2009
   endDate: 04/12/2014
-content: "\n\n> [!NOTE]\n> Η υποστήριξη για τις υπηρεσίες XML Core Services 4,0 έληξε. Η υποστήριξη ήταν διαθέσιμη μόνο για το Service Pack 3."
+content: "\n\n> [!NOTE]\n> Η υποστήριξη για τις υπηρεσίες XML Core 4.0 έληξε. Η υποστήριξη ήταν διαθέσιμη μόνο για το Service Pack 3."

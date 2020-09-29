@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Διακομιστής διαχείρισης ελέγχου και ελέγχου του Microsoft Office 2013
-  description: Ο διακομιστής διαχείρισης ελέγχου και ελέγχου του Microsoft Office 2013 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Microsoft Office Audit και Control Management Server 2013
+  description: Τα Microsoft Office Audit και Control Management Server 2013 ακολουθούν την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 08/21/2020
   ms.openlocfilehash: 95c21c2239aee0e4e83c2caf5dc3752c0915b58e
   ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "907910"
-name: Διακομιστής διαχείρισης ελέγχου και ελέγχου του Microsoft Office 2013
+name: Microsoft Office Audit και Control Management Server 2013
 summary: >+
-  Ο διακομιστής διαχείρισης ελέγχου και ελέγχου του Microsoft Office 2013 ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Τα Microsoft Office Audit και Control Management Server 2013 ακολουθούν την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Ασφάλεια προγράμματος-πελάτη του Microsoft Forefront
-  description: Το Microsoft Forefront Client Security ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Microsoft Forefront Client Security
+  description: Το Microsoft Forefront Client Security ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 08/28/2020
   ms.openlocfilehash: 335ae81ffa4b7cb64352b19e7330765a4cac6c68
   ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 08/28/2020
   ms.locfileid: "924255"
-name: Ασφάλεια προγράμματος-πελάτη του Microsoft Forefront
+name: Microsoft Forefront Client Security
 summary: >+
-  Το Microsoft Forefront Client Security ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Microsoft Forefront Client Security ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 08/02/2007
   endDate: 07/14/2015
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Προστασία απόληξης κέντρου συστήματος](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)\n\n> [!NOTE]\n> Το Forefront Client Security έχει διακοπεί από τις 14 Ιουλίου, 2015. Οι ενημερώσεις ορισμού προστασίας από λογισμικό κακόβουλης λειτουργίας και antispyware δεν θα είναι πλέον διαθέσιμες μετά το τέλος της υποστήριξης για την έκδοση του προϊόντος. Παρακαλείσθε να αξιολογήσετε την προστασία απόληξης συστήματος κέντρου ως αντικαταστάτης."
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [System Center Endpoint Protection](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)\n\n> [!NOTE]\n> Το Microsoft Forefront Client Security έχει διακοπεί από τις 14 Ιουλίου 2015. Οι ενημερώσεις ορισμού Antimalware και Antispyware δεν θα είναι πλέον διαθέσιμες μετά το τέλος της υποστήριξης για την έκδοση του προϊόντος. Αξιολογήστε το System Center Endpoint Protection ως αντικατάσταση."
