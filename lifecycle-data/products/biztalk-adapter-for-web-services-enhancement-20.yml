@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Προσαρμογέας BizTalk για αναβάθμιση υπηρεσιών Web 2,0
-  description: Ο προσαρμογέας BizTalk για αναβάθμιση υπηρεσιών Web 2,0 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Προσαρμογέας BizTalk για βελτίωση υπηρεσιών Web 2.0
+  description: Ο προσαρμογέας BizTalk για τη βελτίωση των υπηρεσιών Web 2.0 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 08/19/2020
   ms.openlocfilehash: 4b442c30ed4d826959b43220b1b964c1c7d3419a
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904106"
-name: Προσαρμογέας BizTalk για αναβάθμιση υπηρεσιών Web 2,0
+name: Προσαρμογέας BizTalk για βελτίωση υπηρεσιών Web 2.0
 summary: >+
-  Ο προσαρμογέας BizTalk για αναβάθμιση υπηρεσιών Web 2,0 ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Ο προσαρμογέας BizTalk για τη βελτίωση των υπηρεσιών Web 2.0 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:

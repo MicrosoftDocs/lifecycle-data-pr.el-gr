@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Πρόγραμμα προβολής αναφορών της Microsoft με δυνατότητα αναδιανομής 2012
-  description: Το Microsoft Report Viewer με δυνατότητα αναδιανομής 2012 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Microsoft Report Viewer Redistributable 2012
+  description: Η Προβολή αναφοράς Redistributable 2012 Microsoft ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 08/19/2020
   ms.openlocfilehash: 851327e620d35cbb94eb2f0df86755e04c75eaac
   ms.sourcegitcommit: 9d254d51934063ec1dd8c7e0e5fcb53ccc7257b3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "904883"
-name: Πρόγραμμα προβολής αναφορών της Microsoft με δυνατότητα αναδιανομής 2012
+name: Microsoft Report Viewer Redistributable 2012
 summary: >+
-  Το Microsoft Report Viewer με δυνατότητα αναδιανομής 2012 ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Η Προβολή αναφοράς Redistributable 2012 Microsoft ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:

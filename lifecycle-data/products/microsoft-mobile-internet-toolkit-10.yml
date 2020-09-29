@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Mobile Internet Toolkit 1,0
-  description: Το κιτ εργαλείων του Microsoft Mobile Internet 1,0 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Κιτ εργαλείων 1.0 Διαδικτύου της Microsoft για κινητές συσκευές
+  description: Το Κιτ εργαλείων 1.0 Διαδικτύου της Microsoft για κινητές συσκευές ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 08/21/2020
   ms.openlocfilehash: e9a9ce1f047d999f0d4cc8ce565d1611b2b7f748
   ms.sourcegitcommit: b887dde29aba4827223427ffe2a108bb0b7f8a2f
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "907216"
-name: Microsoft Mobile Internet Toolkit 1,0
+name: Κιτ εργαλείων 1.0 Διαδικτύου της Microsoft για κινητές συσκευές
 summary: >+
-  Το κιτ εργαλείων του Microsoft Mobile Internet 1,0 ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Κιτ εργαλείων 1.0 Διαδικτύου της Microsoft για κινητές συσκευές ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:

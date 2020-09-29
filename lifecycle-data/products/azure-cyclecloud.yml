@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Αυνανή ζώνη κύκλου Azure
-  description: Το Azure CycleCloud ακολουθεί τη σύγχρονη πολιτική κύκλου ζωής.
+  title: Azure CycleCloud
+  description: To Azure CycleCloud ακολουθεί τη Σύγχρονη Πολιτική Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4372209f8c7d30c736fb93349bff6a395b0e77ab
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869523"
-name: Αυνανή ζώνη κύκλου Azure
+name: Azure CycleCloud
 summary: >+
-  Το Azure CycleCloud ακολουθεί τη [σύγχρονη](/lifecycle/policies/modern) πολιτική κύκλου ζωής.
+  Το Azure CycleCloud ακολουθεί τη [Σύγχρονη](/lifecycle/policies/modern) Πολιτική Κύκλου Ζωής.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 08/01/2018
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες συντήρησης](/azure/cyclecloud/service-policy)"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες Συντήρησης](/azure/cyclecloud/service-policy)"

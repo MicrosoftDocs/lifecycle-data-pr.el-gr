@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics POS 2,0
-  description: Το Dynamics POS 2,0 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Dynamics POS 2.0
+  description: Το Dynamics POS 2.0 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 08/19/2020
   ms.openlocfilehash: 3d3243b12c58bd8aa66c9dbb674fa5a471a3407e
   ms.sourcegitcommit: 9d254d51934063ec1dd8c7e0e5fcb53ccc7257b3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "904885"
-name: Dynamics POS 2,0
+name: Dynamics POS 2.0
 summary: >+
-  Το Dynamics POS 2,0 ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Dynamics POS 2.0 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:

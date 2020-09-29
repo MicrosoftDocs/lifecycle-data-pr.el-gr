@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Διακομιστής Azure DevOps
-  description: Ο διακομιστής Azure DevOps ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Azure DevOps Server
+  description: Ο Azure DevOps Server ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 08/27/2020
   ms.openlocfilehash: 8b92f5abaadb0973aa3b220683011ec4a9b03fb2
   ms.sourcegitcommit: 0adb28bbd953e938286d5b8fb03cab57a2d18b3b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 08/27/2020
   ms.locfileid: "922964"
-name: Διακομιστής Azure DevOps
+name: Azure DevOps Server
 summary: >+
-  Ο διακομιστής Azure DevOps ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Ο Azure DevOps Server ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:

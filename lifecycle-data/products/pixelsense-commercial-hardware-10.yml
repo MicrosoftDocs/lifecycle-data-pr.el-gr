@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: PixelSense εμπορικού υλικού 1,0
-  description: Το εμπορικό υλικό του PixelSense 1,0 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Εμπορικό υλικό PixelSense 1.0
+  description: Το εμπορικό υλικό PixelSense 1.0 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 08/12/2020
   ms.openlocfilehash: 634e2d48b4c7d357f681ff4e485456080fba7853
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893963"
-name: PixelSense εμπορικού υλικού 1,0
-summary: >+
-  Το εμπορικό υλικό του PixelSense 1,0 ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
-
-
+name: Εμπορικό υλικό PixelSense 1.0
+summary: "Το εμπορικό υλικό PixelSense 1.0 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed)Κύκλου Ζωής. \n\n\n"
 products:
 - windows
 policyType: fixed-mainstream-only

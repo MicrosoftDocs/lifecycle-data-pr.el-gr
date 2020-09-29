@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Πύλη εφαρμογών ευφυών επικοινωνιών φαλαινών
-  description: Η πύλη εφαρμογής Intelligent Communications Communications ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Whale Communications Intelligent Application Gateway
+  description: Το Whale Communications Intelligent Application Gateway ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 08/21/2020
   ms.openlocfilehash: 4946cfbd0c53706853138bd707157a5c318b8dc6
   ms.sourcegitcommit: bc7fcda30191f92db77ed2e7f74d5816ac276a55
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "907140"
-name: Πύλη εφαρμογών ευφυών επικοινωνιών φαλαινών
+name: Whale Communications Intelligent Application Gateway
 summary: >+
-  Η πύλη εφαρμογής Intelligent Communications Communications ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Whale Communications Intelligent Application Gateway ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:
