@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Σειρά Azure StorSimple 1200
+  title: Azure StorSimple 1200 Series
   description: Η σειρά Azure StorSimple 1200 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 82f3a04f6c89120819c1db952a04ddbd45d4f9c9
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854193"
-name: Σειρά Azure StorSimple 1200
+name: Azure StorSimple 1200 Series
 summary: >+
-  Η σειρά Azure StorSimple 1200 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Η σειρά Azure StorSimple 1200 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:
@@ -24,4 +24,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/28/2016
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](/azure/storage/files/storage-files-migration-storsimple-1200)"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](/azure/storage/files/storage-files-migration-storsimple-1200)"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Πακέτο HPC 2012
-  description: Το HPC Pack 2012 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: HPC Pack 2012
+  description: Το HPC Pack 2012 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 965bf24743a042a2aeda7973d670e4daf90327c4
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854359"
-name: Πακέτο HPC 2012
+name: HPC Pack 2012
 summary: >+
-  Το HPC Pack 2012 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το HPC Pack 2012 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:

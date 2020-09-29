@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Συστήματα δωματίων Skype v2
-  description: Τα Συστήματα Δωματίων Skype v2 ακολουθούν τη σύγχρονη πολιτική κύκλου ζωής.
+  description: Τα Συστήματα δωματίων Skype v2 ακολουθούν τη Σύγχρονη Πολιτική Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1b100edccfa58c69264c6e9584cc7f08e1332419
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854577"
 name: Συστήματα δωματίων Skype v2
 summary: >+
-  Τα Συστήματα Δωματίων Skype v2 ακολουθούν τη [σύγχρονη](/lifecycle/policies/modern) πολιτική κύκλου ζωής.
+  Τα Συστήματα δωματίων Skype v2 ακολουθούν τη [Σύγχρονη](/lifecycle/policies/modern) Πολιτική Κύκλου Ζωής.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/18/2016
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες συντήρησης](https://support.office.com/article/support-for-skype-room-systems-v2-current-branch-versions-e915d5f4-7b70-47ca-94b7-d7153048ba38)"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες Συντήρησης](https://support.office.com/article/support-for-skype-room-systems-v2-current-branch-versions-e915d5f4-7b70-47ca-94b7-d7153048ba38)"

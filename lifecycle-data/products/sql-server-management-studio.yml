@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Στούντιο διαχείρισης του SQL Server
-  description: Το SQL Server Management Studio ακολουθεί τη σύγχρονη πολιτική κύκλου ζωής.
+  title: SQL Server Management Studio
+  description: Το SQL Server Management Studio ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: f75480af28215773c8d23bc06a30408940015a5c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854614"
-name: Στούντιο διαχείρισης του SQL Server
+name: SQL Server Management Studio
 summary: >+
-  Το SQL Server Management Studio ακολουθεί τη [σύγχρονη](/lifecycle/policies/modern) πολιτική κύκλου ζωής.
+  Το SQL Server Management Studio ακολουθεί τη [Σύγχρονη](/lifecycle/policies/modern) Πολιτική Κύκλου Ζωής.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 05/27/2016
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες συντήρησης](/sql/ssms/support-policy?view)"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες Συντήρησης](/sql/ssms/support-policy?view)"
