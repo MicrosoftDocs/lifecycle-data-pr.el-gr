@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft System Center Essentials 2010
-  description: Το Microsoft System Center Essentials 2010 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  description: Το Microsoft System Center Essentials 2010 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/01/2020
   keywords: All applicable,wSQL
   ms.openlocfilehash: 93f05c6b49b851871ea5d7f6a2066310ae3144e2
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938187"
 name: Microsoft System Center Essentials 2010
 summary: >+
-  Το Microsoft System Center Essentials 2010 ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Microsoft System Center Essentials 2010 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: όλα τα ισχύοντα, wSQL
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Όλες οι ισχύουσες, wSQL
 
 products:
 - msc
