@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Διαχείριση Υπηρεσιών Κέντρου Συστήματος 2010
-  description: Η Διαχείριση υπηρεσιών του Κέντρου συστήματος 2010 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: System Center Service Manager 2010
+  description: Το System Center Operations Manager 2010 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 844c0319c76e81e57b895549694a67efddc1bccc
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818468"
-name: Διαχείριση Υπηρεσιών Κέντρου Συστήματος 2010
+name: System Center Service Manager 2010
 summary: >+
-  Η Διαχείριση υπηρεσιών του Κέντρου συστήματος 2010 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το System Center Operations Manager 2010 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:

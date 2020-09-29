@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Αυτοκίνητα των Windows 4.2
+  title: Windows Automotive 4.2
   description: Το Windows Automotive 4.2 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: a2671ea93a2852928c59d836ed4ebc8412963b61
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "817926"
-name: Αυτοκίνητα των Windows 4.2
+name: Windows Automotive 4.2
 summary: >
-  Το Windows Automotive 4.2 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Windows Automotive 4.2 ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
 
 
 
   > [!IMPORTANT]
 
-  > Η υποστήριξη για αυτό το προϊόν έχει λήξει.
+  > Η υποστήριξη για αυτό το προϊόν έληξε.
 products:
 - windows
 policyType: fixed

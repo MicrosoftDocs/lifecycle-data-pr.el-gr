@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Δυναμικό CRM 4.0
-  description: Το Dynamics CRM 4.0 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  title: Dynamics CRM 4.0
+  description: Το Dynamics CRM 4.0 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 852d493a2b4693fdc4b3b7cc1e40b30afe880704
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: el-GR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "818709"
-name: Δυναμικό CRM 4.0
+name: Dynamics CRM 4.0
 summary: >+
-  Το Dynamics CRM 4.0 ακολουθεί την [πολιτική σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Dynamics CRM 4.0 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 02/29/2008
   endDate: 04/10/2018
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες για τη μετανάστευση](https://cloudblogs.microsoft.com/dynamics365/)"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](https://cloudblogs.microsoft.com/dynamics365/)"
