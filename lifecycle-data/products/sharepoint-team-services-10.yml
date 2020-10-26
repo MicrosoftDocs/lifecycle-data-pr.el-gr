@@ -2,13 +2,14 @@
 metadata:
   title: Υπηρεσίες SharePoint Team 1.0
   description: Οι Υπηρεσίες SharePoint Team 1.0 ακολουθούν την Πολιτική Σταθερού Κύκλου Ζωής.
-  ms.date: 08/21/2020
-  ms.openlocfilehash: 43ca2a43857a80e890336226a3db4e9a66d702fc
-  ms.sourcegitcommit: 1d4b9c590a93df7de84f28ee0a02ec6b51edf462
+  ms.date: 10/20/2020
+  keywords: 
+  ms.openlocfilehash: fdc77aefda050b3203eff0afebe71607393417fb
+  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
   ms.translationtype: HT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 08/27/2020
-  ms.locfileid: "922765"
+  ms.lasthandoff: 10/20/2020
+  ms.locfileid: "1162592"
 name: Υπηρεσίες SharePoint Team 1.0
 summary: >+
   Οι Υπηρεσίες SharePoint Team 1.0 ακολουθούν την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
