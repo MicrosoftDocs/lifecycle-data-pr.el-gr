@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Azure DevOps Server 2020
+  description: Ο Azure DevOps Server 2020 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
+  ms.date: 10/13/2020
+  keywords: 
+  ms.openlocfilehash: 24c4068f58e0f16b831e6e8268b06a274591da3e
+  ms.sourcegitcommit: ba0f6f0e9898cc2a567ae35ba5a94939a50fcce8
+  ms.translationtype: HT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 10/13/2020
+  ms.locfileid: "1151803"
+name: Azure DevOps Server 2020
+summary: >+
+  Ο Azure DevOps Server 2020 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
+
+
+products:
+- azure
+policyType: fixed
+supportDates:
+  start: 08/25/2020
+  end: 10/14/2025
+  extendedEnd: 10/08/2030
+releases:
+- version: Original Release
+  startDate: 08/25/2020
+  endDate: 10/08/2030
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες επισκόπησης και ενημέρωσης για τον διακομιστή Azure DevOps](/azure/devops/server/whats-new?view=azure-devops-2020&viewFallbackFrom=azure-devops)"
