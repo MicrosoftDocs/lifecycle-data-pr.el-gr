@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 07/11/2023
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Συνήθεις ερωτήσεις για τον Κύκλο Ζωής - Προϊόντα των Windows](https://support.microsoft.co/help/18581)\n* [ Συχνές Ερωτήσεις για τα Windows Embedded 8.1](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση\n* Pro\n* Sideloading"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Συνήθεις ερωτήσεις για τον Κύκλο Ζωής - Προϊόντα των Windows](https://support.microsoft.co/help/18581)\n* [Συνήθεις ερωτήσεις για το Windows Embedded 8.1](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση\n* Pro\n* Sideloading"
