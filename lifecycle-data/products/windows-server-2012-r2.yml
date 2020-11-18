@@ -15,7 +15,7 @@ summary: >+
   Ο Windows Server 2012 R2 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Κέντρο δεδομένων, Σημαντικά, for Embedded Systems, Foundation, Standard
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Κέντρο δεδομένων, Essentials, για Ενσωματωμένα Συστήματα, Foundation, Standard
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Η Βασική και η Εκτεταμένη υποστήριξη για αυτό το προϊόν έχει επεκταθεί ώστε να παρέχει στους πελάτες την τυπική λωρίδα χρόνου μετάβασης κύκλου ζωής.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Κέντρο Δεδομένων\n* Σημαντικά\n* για Ενσωματωμένα Συστήματα\n* Ίδρυμα\n* Τυπική ροή εργασίας"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες μετεγκατάστασης](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Η Βασική και η Εκτεταμένη υποστήριξη για αυτό το προϊόν έχει επεκταθεί ώστε να παρέχει στους πελάτες την τυπική λωρίδα χρόνου μετάβασης κύκλου ζωής.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Κέντρο Δεδομένων\n* Essentials\n* για Ενσωματωμένα Συστήματα\n* Ίδρυμα\n* Standard"

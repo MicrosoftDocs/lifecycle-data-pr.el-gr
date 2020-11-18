@@ -15,7 +15,7 @@ summary: >+
   Το Visual Studio 2010 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Agents, Όλα, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Εργαλεία Επιδόσεων, Premium, Professional, Professional w/MSDN , PSM, Remote Debugger, SDK, Shell (Ενσωματωμένο), Shell (Απομονωμένο), Team Agents, Team Explorer, Test Professional, Εργαλεία για Office System 4.0 Runtime, Ultimate, Ultimate με MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Agents, Όλα, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Εργαλεία Επιδόσεων, Premium, Professional, Professional w/MSDN, PSM, Remote Debugger, SDK, Shell (Ενσωματωμένο), Shell (Απομονωμένο), Team Agents, Team Explorer, Test Professional, Εργαλεία για Office System 4.0 Runtime, Ultimate, Ultimate με MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Πράκτορες\n* Όλα\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Χρόνος Εκτέλεσης\n* Διαχείριση Εργαστηρίου\n* Εργαλεία Επιδόσεων\n* Premium\n* Επαγγελματικό\n* Professional w/MSDN \n* PSM\n* Απομακρυσμένο Πρόγραμμα Εντοπισμού Σφαλμάτων\n* SDK\n* Κελί (Ενσωματωμένο)\n* Shell (Απομονωμένο)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Εργαλεία για τον Χρόνο Εκτέλεσης του συστήματος του Office 4.0\n* Ultimate\n* Ultimate με MSDN\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Visualization & Modeling SDK"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Πράκτορες\n* Όλα\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Χρόνος Εκτέλεσης\n* Διαχείριση Εργαστηρίου\n* Εργαλεία Επιδόσεων\n* Premium\n* Professional\n* Professional w/MSDN \n* PSM\n* Απομακρυσμένο Πρόγραμμα Εντοπισμού Σφαλμάτων\n* SDK\n* Shell (Ενσωματωμένο)\n* Shell (Απομονωμένο)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Εργαλεία για τον Χρόνο Εκτέλεσης του συστήματος του Office 4.0\n* Ultimate\n* Ultimate με MSDN\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Visualization & Modeling SDK"

@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "1002155"
 name: Windows Embedded 8 Industry
 summary: >
-  ΤοWindows Embedded 8 Industry ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
+  Το Windows Embedded 8 Industry ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
   Αυτό ισχύει για τις ακόλουθες εκδόσεις: για Επιχειρήσεις, Pro
@@ -20,7 +20,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Οι πελάτες πρέπει να μετεγκατασταθούν στα Windows 8.1 για να παραμείνουν υποστηριζόμενοι.
+  > Οι πελάτες πρέπει να μετεγκατασταθούν στα Windows 8.1 για να εξακολουθήσουν να λαμβάνουν υποστήριξη.
 products:
 - windows
 policyType: fixed

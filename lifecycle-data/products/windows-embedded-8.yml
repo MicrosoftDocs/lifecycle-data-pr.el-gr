@@ -1,6 +1,6 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Ενσωματωμένα Windows 8
+  title: Windows Embedded 8
   description: Το Windows Embedded 8 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/10/2020
   keywords: Pro,Standard
@@ -10,12 +10,12 @@ metadata:
   ms.contentlocale: el-GR
   ms.lasthandoff: 09/10/2020
   ms.locfileid: "1002055"
-name: Ενσωματωμένα Windows 8
+name: Windows Embedded 8
 summary: >+
   Το Windows Embedded 8 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Pro, Τυπική
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Pro, Standard
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Συνήθεις ερωτήσεις για τον Κύκλο Ζωής - Προϊόντα των Windows](/lifecycle/faq/windows)\n* [Windows Embedded 8.1](/lifecycle/products/windows-embedded-81-pro?branch=live)\n\n> [!NOTE]\n> Οι πελάτες πρέπει να μετεγκατασταθούν στο Windows Emdedded 8.1 για να παραμείνουν υποστηριζόμενοι.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Pro\n* Τυπική ροή εργασίας"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Συνήθεις ερωτήσεις για τον Κύκλο Ζωής - Προϊόντα των Windows](/lifecycle/faq/windows)\n* [Windows Embedded 8.1](/lifecycle/products/windows-embedded-81-pro?branch=live)\n\n> [!NOTE]\n> Οι πελάτες πρέπει να μετεγκατασταθούν στο Windows Emdedded 8.1 εξακολουθήσουν να λαμβάνουν υποστήριξη.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Pro\n* Standard"

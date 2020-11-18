@@ -35,4 +35,4 @@ releases:
 - version: Service Pack 2
   startDate: 07/19/2009
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Πληροφορίες Αναβάθμισης Διακομιστή](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Βασικό\n* Βασικό 32-Bit\n* Βασικό 64-bit\n* Ενσωματωμένο Βασικό\n* Βασικό Ενσωματωμένο 32-bit\n* Επιχείρηση\n* Ενσωματωμένη Επιχείρηση\n* Τυπική ροή εργασίας\n* Standard Ενσωματωμένο\n* Ομάδας εργασίας"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες μετεγκατάστασης](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Πληροφορίες Αναβάθμισης Διακομιστή](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Βασικό\n* Βασικό 32-Bit\n* Βασικό 64-bit\n* Βασικό Embedded\n* Βασικό Embedded 32-bit\n* Επιχείρηση\n* Enterprise Embedded\n* Standard\n* Standard Embedded\n* Ομάδας εργασίας"

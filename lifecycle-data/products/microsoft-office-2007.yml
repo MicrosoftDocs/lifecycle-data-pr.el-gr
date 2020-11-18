@@ -15,7 +15,7 @@ summary: >+
   Το Microsoft Office 2007 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Basic, Enterprise, Home και Student, Multi Language Pack, Professional, Professional Plus, Small Business, Standard, Ultimate
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Basic, Enterprise, για οικιακή χρήση και μαθητές, Multi Language Pack, Professional, Professional Plus, Small Business, Standard, Ultimate
 
 products:
 - office
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](https://support.microsoft.com/kb/3198497)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Βασικό\n* Επιχείρηση\n* Οικιακό και Φοιτητικό\n* Πακέτο πολλαπλών γλωσσών\n* Επαγγελματικό\n* Επαγγελματικό Plus\n* Μικρές Επιχειρήσεις\n* Τυπική ροή εργασίας\n* Ultimate"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες μετεγκατάστασης](https://support.microsoft.com/kb/3198497)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Βασικό\n* Επιχείρηση\n* για οικιακή χρήση και μαθητές\n* Πακέτο πολλαπλών γλωσσών\n* Professional\n* Professional Plus\n* Μικρές Επιχειρήσεις\n* Standard\n* Ultimate"

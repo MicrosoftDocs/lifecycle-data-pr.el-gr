@@ -15,7 +15,7 @@ summary: >+
   Το Microsoft Office 2003 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Βασικό, Επαγγελματικό, Επαγγελματικό για επιχειρήσεις, Μικρές Επιχειρήσεις, Standard, Για φοιτητές και δασκάλους, Συστατικά ιστού
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Βασικό, Professional, Επαγγελματικό για επιχειρήσεις, Μικρές Επιχειρήσεις, Standard, Για φοιτητές και δασκάλους, Στοιχεία Web
 
 products:
 - office
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 11/17/2003
   endDate: 07/27/2005
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Βασικό\n* Επαγγελματικό\n* Επαγγελματικό για Επιχειρήσεις\n* Μικρές Επιχειρήσεις\n* Τυπική ροή εργασίας\n* Μαθητής και Δάσκαλος\n* Στοιχεία Ιστού"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Βασικό\n* Professional\n* Επαγγελματικό για Επιχειρήσεις\n* Μικρές Επιχειρήσεις\n* Standard\n* Μαθητής και Δάσκαλος\n* Στοιχεία Web"

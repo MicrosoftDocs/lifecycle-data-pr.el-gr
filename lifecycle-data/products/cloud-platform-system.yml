@@ -1,6 +1,6 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Σύστημα πλατφόρμας Cloud
+  title: Σύστημα Cloud Platform
   description: Το Σύστημα Cloud Platform ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/01/2020
   keywords: Standard
@@ -10,12 +10,12 @@ metadata:
   ms.contentlocale: el-GR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "932045"
-name: Σύστημα πλατφόρμας Cloud
+name: Σύστημα Cloud Platform
 summary: >+
   Το Σύστημα Cloud Platform ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Τυπική ροή εργασίας
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Standard
 
 products:
 - azure
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> Η Υποστήριξη για το Σύστημα Cloud Platform επεκτείνεται όπως φαίνεται, ώστε να παρέχεται σε όλους τους πελάτες η τυπική λωρίδα χρόνου μετάβασης κύκλου ζωής.\n> [!NOTE]\n> Το Cloud Platform System Standard ξεκίνησε στις 18 Σεπτεμβρίου 2017.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Τυπική ροή εργασίας"
+content: "\n\n> [!NOTE]\n> Η Υποστήριξη για το Σύστημα Cloud Platform επεκτείνεται όπως φαίνεται, ώστε να παρέχεται σε όλους τους πελάτες η τυπική λωρίδα χρόνου μετάβασης κύκλου ζωής.\n> [!NOTE]\n> Το σύστημα Cloud Platform Standard ξεκίνησε στις 18 Σεπτεμβρίου 2017.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Standard"

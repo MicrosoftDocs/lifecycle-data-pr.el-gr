@@ -15,7 +15,7 @@ summary: >+
   Το Visual Studio 2012 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Πράκτορες, Κοινότητα 2013, Express για Web, Express για Windows 8, Express για Windows Desktop, IntelliTrace Collector, Microsoft Azure Tools, Premium, Επαγγελματικό, Απομακρυσμένα εργαλεία, Shell (Integrated), Shell (Isolated), Εργαλεία SQL Server Data, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable, Web Tools Extensions
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Πράκτορες, Κοινότητα 2013, Express για Web, Express για Windows 8, Express για Windows Desktop, IntelliTrace Collector, Microsoft Azure Tools, Premium, Professional, Απομακρυσμένα εργαλεία, Shell (Ενσωματωμένο), Shell (Απομονωμένο), Εργαλεία SQL Server Data, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable, Web Tools Extensions
 
 products:
 - vs
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Κύκλος ζωής και Συντήρηση Προϊόντων του Visual Studio](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Πράκτορες\n* Κοινότητα 2013\n* Εξπρές για τον Ιστό\n* Express για Windows 8\n* Εξπρές για την επιφάνεια εργασίας των Windows\n* IntelliTrace Collector\n* Εργαλεία Microsoft Azure\n* Premium\n* Επαγγελματικό\n* Απομακρυσμένα Eργαλεία\n* Κελί (Ενσωματωμένο)\n* Shell (Απομονωμένο)\n* Εργαλεία Δεδομένων SQL Server\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ Redistributable\n* Επεκτάσεις Εργαλείων Ιστού"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Κύκλος ζωής και Συντήρηση Προϊόντων του Visual Studio](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Πράκτορες\n* Κοινότητα 2013\n* Express για Web\n* Express για Windows 8\n* Express για επιφάνεια εργασίας Windows\n* IntelliTrace Collector\n* Εργαλεία Microsoft Azure\n* Premium\n* Professional\n* Απομακρυσμένα Eργαλεία\n* Κελί (Ενσωματωμένο)\n* Shell (Απομονωμένο)\n* Εργαλεία Δεδομένων SQL Server\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ Redistributable\n* Επεκτάσεις Εργαλείων Ιστού"

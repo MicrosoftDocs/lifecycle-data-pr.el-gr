@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Advanced Group Policy Management 4.0
-  description: Ο Microsoft Advanced Group Policy Management 4.0 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
+  description: Το Microsoft Advanced Group Policy Management 4.0 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9ee2407b159ab7e8573aa39ebff7de6fd8002bde
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
@@ -11,7 +11,7 @@ metadata:
   ms.locfileid: "818653"
 name: Microsoft Advanced Group Policy Management 4.0
 summary: >+
-  Ο Microsoft Advanced Group Policy Management 4.0 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
+  Το Microsoft Advanced Group Policy Management 4.0 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:

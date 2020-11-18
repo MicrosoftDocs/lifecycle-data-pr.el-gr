@@ -15,7 +15,7 @@ summary: >+
   Ο Microsoft BizTalk Server 2004 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Developer, Enterprise, Partner, Τυπική
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Developer, Enterprise, Partner, Standard
 
 products:
 - microsoft-servers
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/20/2004
   endDate: 04/11/2006
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Προγραμματιστής\n* Επιχείρηση\n* Συνεργάτης\n* Τυπική ροή εργασίας"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Προγραμματιστής\n* Επιχείρηση\n* Συνεργάτης\n* Standard"
