@@ -15,7 +15,7 @@ summary: >+
   Το Workflow Manager 1.0 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Client, Πρότυπο
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Client, Standard
 
 products:
 - vs
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/18/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες Συντήρησης του SharePoint 2016](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [Πληροφορίες Συντήρησης του SharePoint 2013](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> Όταν το Workflow Manager είναι στοιχείο του SharePoint Server 2016 ή του SharePoint Server 2013, θα υποστηρίζεται σύμφωνα με τις ημερομηνίες λήξης της υποστήριξης της αντίστοιχης έκδοσης του SharePoint Server.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Υπολογιστής-πελάτης\n* Τυπική ροή εργασίας"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες Συντήρησης του SharePoint 2016](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [Πληροφορίες Συντήρησης του SharePoint 2013](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> Όταν το Workflow Manager είναι στοιχείο του SharePoint Server 2016 ή του SharePoint Server 2013, θα υποστηρίζεται σύμφωνα με τις ημερομηνίες λήξης της υποστήριξης της αντίστοιχης έκδοσης του SharePoint Server.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Υπολογιστής-πελάτης\n* Standard"

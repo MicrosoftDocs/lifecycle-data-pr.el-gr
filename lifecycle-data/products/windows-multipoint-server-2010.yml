@@ -15,7 +15,7 @@ summary: >+
   Ο Windows MultiPoint Server 2010 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Academic, Τυπική
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Academic, Standard
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/13/2010
   endDate: 07/14/2020
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](https://aka.ms/AA1ovn4)\n* [Πρόσθετες οδηγίες μετεγκατάστασης](/windows-server/get-started/installation-and-upgrade)\n* [Πληροφορίες Προϊόντος](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Ακαδημαϊκό\n* Τυπική ροή εργασίας"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες μετεγκατάστασης](https://aka.ms/AA1ovn4)\n* [Πρόσθετες οδηγίες μετεγκατάστασης](/windows-server/get-started/installation-and-upgrade)\n* [Πληροφορίες Προϊόντος](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Ακαδημαϊκό\n* Standard"
