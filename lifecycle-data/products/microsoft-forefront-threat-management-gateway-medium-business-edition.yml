@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Forefront Threat Management Gateway, Medium Business Edition
-  description: Η Πύλη Διαχείρισης Απειλών του Microsoft Forefront, έκδοση για Μεσαίες Επιχειρήσεις ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
+  title: Microsoft Forefront Threat Management Gateway, έκδοση για μεσαίες επιχειρήσεις
+  description: Το Microsoft Forefront Threat Management Gateway, έκδοση για μεσαίες επιχειρήσεις ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/10/2020
   keywords: Business
   ms.openlocfilehash: 617a31241001b12abf13c658e47dbc6f0b1974a2
@@ -10,9 +10,9 @@ metadata:
   ms.contentlocale: el-GR
   ms.lasthandoff: 09/10/2020
   ms.locfileid: "1001907"
-name: Microsoft Forefront Threat Management Gateway, Medium Business Edition
+name: Microsoft Forefront Threat Management Gateway, έκδοση για μεσαίες επιχειρήσεις
 summary: >+
-  Η Πύλη Διαχείρισης Απειλών του Microsoft Forefront, έκδοση για μεσαίες επιχειρήσεις ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
+  Το Microsoft Forefront Threat Management Gateway, έκδοση για μεσαίες επιχειρήσεις ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
   Αυτό ισχύει για τις ακόλουθες εκδόσεις: Για επιχειρήσεις
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/12/2008
   endDate: 11/12/2018
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες μετεγκατάστασης](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση"

@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Πλαίσιο συνδεδεμένων υπηρεσιών της Microsoft 3.0
-  description: Το Microsoft .NET Framework συνδεδεμένων υπηρεσιών 3.0 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
+  title: Microsoft Connected Services Framework 3.0
+  description: Το Microsoft Connected Services Framework 3.0 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/10/2020
   keywords: Billing Standard Business Event,Order Handling Standard Business Event,Server,Standard,Standard Server with Standard Business Events
   ms.openlocfilehash: e9592f59a0c2be51336c7bcc16312cc0cf90686b
@@ -10,9 +10,9 @@ metadata:
   ms.contentlocale: el-GR
   ms.lasthandoff: 09/10/2020
   ms.locfileid: "999983"
-name: Πλαίσιο συνδεδεμένων υπηρεσιών της Microsoft 3.0
+name: Microsoft Connected Services Framework 3.0
 summary: >+
-  Το πλαίσιο συνδεδεμένων υπηρεσιών της Microsoft 3.0 ακολουθεί την πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
+  Το Microsoft Connected Services Framework 3.0 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
   Αυτό ισχύει για τις ακόλουθες εκδόσεις: Τυπικό επαγγελματικό συμβάν χρέωσης, τυπικό επαγγελματικό συμβάν χειρισμού παραγγελιών, διακομιστής, τυπικός, τυπικός διακομιστής με τυπικά επιχειρηματικά συμβάντα
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 06/30/2006
   endDate: 07/12/2016
-content: "\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Τυπικό επαγγελματικό συμβάν χρέωσης\n* Τυπικό επαγγελματικό συμβάν για τον χειρισμό παραγγελιών\n* Server\n* Τυπική ροή εργασίας\n* Τυπικός διακομιστής με τυπικά επιχειρηματικά συμβάντα"
+content: "\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Τυπικό επαγγελματικό συμβάν χρέωσης\n* Τυπικό επαγγελματικό συμβάν για τον χειρισμό παραγγελιών\n* Server\n* Standard\n* Τυπικός διακομιστής με τυπικά επιχειρηματικά συμβάντα"

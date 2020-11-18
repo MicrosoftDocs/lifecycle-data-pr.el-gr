@@ -1,6 +1,6 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 Enterprise 2016 LTSB
+  title: Windows 10 2016 LTSB
   description: Τα Windows 10 2016 LTSB ακολουθούν την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/01/2020
   keywords: Enterprise
@@ -10,12 +10,12 @@ metadata:
   ms.contentlocale: el-GR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938483"
-name: Windows 10 Enterprise 2016 LTSB
+name: Windows 10 2016 LTSB
 summary: >+
   Τα Windows 10 2016 LTSB ακολουθούν την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Επιχείρηση
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: για Επιχειρήσεις
 
 products:
 - windows

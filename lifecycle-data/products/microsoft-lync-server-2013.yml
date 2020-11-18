@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες Προϊόντος](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Η Έκδοση Lync Phone υποστηρίζεται με τον Lync Server 2010 και τον Lync Server 2013. Η ημερομηνία υποστήριξης για την Έκδοση Lync Phone έχει παραταθεί 2 χρόνια για να ευθυγραμμιστεί με τον κύκλο ζωής του Lync Server 2013.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση\n* Κιτ Ανάπτυξης Persistent Chat Software\n* Τηλέφωνο\n* SDK\n* Τυπική ροή εργασίας"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες Προϊόντος](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Η Έκδοση Lync Phone υποστηρίζεται με τον Lync Server 2010 και τον Lync Server 2013. Η ημερομηνία υποστήριξης για την Έκδοση Lync Phone έχει παραταθεί 2 χρόνια για να ευθυγραμμιστεί με τον κύκλο ζωής του Lync Server 2013.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση\n* Κιτ Ανάπτυξης Persistent Chat Software\n* Τηλέφωνο\n* SDK\n* Standard"

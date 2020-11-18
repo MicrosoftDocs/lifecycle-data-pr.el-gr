@@ -15,7 +15,7 @@ summary: >
   Ο Microsoft Commerce Server 2007 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Developer, Enterprise, Τυπική
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Developer, Enterprise, Standard
 
 
   > [!IMPORTANT]
@@ -38,4 +38,4 @@ releases:
 - version: Original Release
   startDate: 06/16/2006
   endDate: 07/08/2008
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Προγραμματιστής\n* Επιχείρηση\n* Τυπική ροή εργασίας"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Προγραμματιστής\n* Επιχείρηση\n* Standard"

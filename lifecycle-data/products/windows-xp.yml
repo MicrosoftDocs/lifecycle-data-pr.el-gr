@@ -44,4 +44,4 @@ releases:
 - version: Original Release
   startDate: 12/31/2001
   endDate: 08/30/2005
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Η ημερομηνία έναρξης για τα Microsoft Windows XP Έκδοση Professional x64 ήταν 24 Απριλίου 2005.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Οικιακό\n* Επαγγελματικό\n* Επαγγελματικό για Embedded Systems\n* Professional x64\n* Starter"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες μετεγκατάστασης](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Η ημερομηνία έναρξης για τα Microsoft Windows XP Έκδοση Professional x64 ήταν 24 Απριλίου 2005.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Οικιακό\n* Professional\n* Professional για Embedded Systems\n* Professional x64\n* Starter"

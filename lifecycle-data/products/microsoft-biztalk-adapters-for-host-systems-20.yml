@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Προσαρμογείς BizTalk της Microsoft για κεντρικά συστήματα 2.0
-  description: Οι προσαρμογείς Microsoft BizTalk για συστήματα κεντρικού υπολογιστή 2.0 ακολουθούν την πολιτική σταθερού κύκλου ζωής.
+  title: Microsoft BizTalk Adapters for Host Systems 2.0
+  description: Το Microsoft BizTalk Adapters for Host Systems 2.0 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/10/2020
   keywords: Developer,Standard
   ms.openlocfilehash: 233e1bef8d5f953df1498b57cfbfc077b3461f49
@@ -10,8 +10,13 @@ metadata:
   ms.contentlocale: el-GR
   ms.lasthandoff: 09/10/2020
   ms.locfileid: "1000205"
-name: Προσαρμογείς BizTalk της Microsoft για κεντρικά συστήματα 2.0
-summary: "Οι προσαρμογείς Microsoft BizTalk για συστήματα κεντρικού υπολογιστή 2.0 ακολουθούν την πολιτική [ σταθερού](/lifecycle/policies/fixed) κύκλου ζωής. \n\nΑυτό ισχύει για τις ακόλουθες εκδόσεις: Developer, Τυπική\n\n"
+name: Microsoft BizTalk Adapters for Host Systems 2.0
+summary: >+
+  Το Microsoft BizTalk Adapters for Host Systems 2.0 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
+
+
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Developer, Τυπική
+
 products:
 - microsoft-servers
 policyType: fixed
@@ -23,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Προγραμματιστής\n* Τυπική ροή εργασίας"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες μετεγκατάστασης](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Προγραμματιστής\n* Standard"

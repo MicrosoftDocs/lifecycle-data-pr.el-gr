@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft System Center Mobile Device Manager 2008
-  description: Το Microsoft System Center Mobile Device Manager 2008 ακολουθεί την πολιτική σταθερού κύκλου ζωής.
+  description: Το Microsoft System Center Mobile Device Manager 2008 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/10/2020
   keywords: All applicable,wSQL
   ms.openlocfilehash: 88d4e4ed5265017faf066b03c192121e6319034c
@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "1001426"
 name: Microsoft System Center Mobile Device Manager 2008
 summary: >+
-  Το Microsoft System Center Mobile Device Manager 2008 ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
+  Το Microsoft System Center Mobile Device Manager 2008 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
   Αυτό ισχύει για τις ακόλουθες εκδόσεις: Όλες οι ισχύουσες, wSQL
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/14/2008
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Όλες οι ισχύουσες\n* wSQL"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες μετεγκατάστασης](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Όλες οι ισχύουσες\n* wSQL"
