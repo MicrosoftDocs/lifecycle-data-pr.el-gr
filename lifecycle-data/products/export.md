@@ -1,25 +1,25 @@
 ---
 title: Εξαγωγή δεδομένων κύκλου ζωής
 description: Εξαγωγή πληροφοριών κύκλου ζωής προϊόντος
-ms.date: 11/29/2020
+ms.date: 01/06/2021
 layout: ContentPage
-ms.openlocfilehash: 210af0cf60630cbdbf43847641022283aca78366
-ms.sourcegitcommit: 272dedcf92e644b57865e78c716f937b66e534c3
+ms.openlocfilehash: 4a27cd96ddaa1b3d128d9f1d711504d88c28e36e
+ms.sourcegitcommit: f24c8653f7fd67e5b3f9f41e17b47edcecb5856e
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "1335884"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "1367563"
 ---
-# <a name="lifecycle-data-export"></a><span data-ttu-id="c5fc0-103">Εξαγωγή δεδομένων κύκλου ζωής</span><span class="sxs-lookup"><span data-stu-id="c5fc0-103">Lifecycle data export</span></span>
+# <a name="lifecycle-data-export"></a><span data-ttu-id="b7190-103">Εξαγωγή δεδομένων κύκλου ζωής</span><span class="sxs-lookup"><span data-stu-id="b7190-103">Lifecycle data export</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="c5fc0-104">Εξαγωγή όλων των προϊόντων</span><span class="sxs-lookup"><span data-stu-id="c5fc0-104">Export all products</span></span>
-<span data-ttu-id="c5fc0-105">Εξαγάγετε δεδομένα κύκλου ζωής για όλα τα προϊόντα, κάνοντας κλικ παρακάτω:</span><span class="sxs-lookup"><span data-stu-id="c5fc0-105">Export lifecycle data for all products by clicking below:</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="b7190-104">Εξαγωγή όλων των προϊόντων</span><span class="sxs-lookup"><span data-stu-id="b7190-104">Export all products</span></span>
+<span data-ttu-id="b7190-105">Εξαγάγετε δεδομένα κύκλου ζωής για όλα τα προϊόντα, κάνοντας κλικ παρακάτω:</span><span class="sxs-lookup"><span data-stu-id="b7190-105">Export lifecycle data for all products by clicking below:</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="c5fc0-106">Εξαγωγή όλων των προϊόντων</span><span class="sxs-lookup"><span data-stu-id="c5fc0-106">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="b7190-106">Εξαγωγή όλων των προϊόντων</span><span class="sxs-lookup"><span data-stu-id="b7190-106">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-family-and-group"></a><span data-ttu-id="c5fc0-107">Εξαγωγή προϊόντων ανά οικογένεια και ομάδα</span><span class="sxs-lookup"><span data-stu-id="c5fc0-107">Export products by Family and Group</span></span>
-<span data-ttu-id="c5fc0-108">Επιλέξτε μια οικογένεια και, στη συνέχεια, μια ομάδα για εξαγωγή.</span><span class="sxs-lookup"><span data-stu-id="c5fc0-108">Select a Family and then a Group to export.</span></span> <span data-ttu-id="c5fc0-109">Σημείωση: Η εξαγωγή θα ξεκινήσει όταν επιλεγεί η τιμή ομάδας.</span><span class="sxs-lookup"><span data-stu-id="c5fc0-109">Note: Export will begin when Group value is selected.</span></span> 
+## <a name="export-products-by-family-and-group"></a><span data-ttu-id="b7190-107">Εξαγωγή προϊόντων ανά οικογένεια και ομάδα</span><span class="sxs-lookup"><span data-stu-id="b7190-107">Export products by Family and Group</span></span>
+<span data-ttu-id="b7190-108">Επιλέξτε μια οικογένεια και, στη συνέχεια, μια ομάδα για εξαγωγή.</span><span class="sxs-lookup"><span data-stu-id="b7190-108">Select a Family and then a Group to export.</span></span> <span data-ttu-id="b7190-109">Σημείωση: Η εξαγωγή θα ξεκινήσει όταν επιλεγεί η τιμή ομάδας.</span><span class="sxs-lookup"><span data-stu-id="b7190-109">Note: Export will begin when Group value is selected.</span></span> 
 
 > [!div class="op_multi_selector" title1="Οικογένεια" title2="Ομάδα"]
 > - [(.NET | Όλα)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='.NET'))
@@ -81,13 +81,12 @@ ms.locfileid: "1335884"
 > - [(Windows | Ασφάλεια)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Windows',group='Security'))
 > - [(Windows | Διακομιστής)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Windows',group='Server'))
 
-## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="c5fc0-170">Εξαγωγή προϊόντων έως την ημερομηνία λήξης της υποστήριξης</span><span class="sxs-lookup"><span data-stu-id="c5fc0-170">Export products by end of support date</span></span>
-<span data-ttu-id="c5fc0-171">Επιλέξτε ένα έτος για να δείτε τα προϊόντα των οποίων η υποστήριξη λήγει.</span><span class="sxs-lookup"><span data-stu-id="c5fc0-171">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="c5fc0-172">Σημείωση: Η εξαγωγή θα ξεκινήσει όταν επιλεχθεί η τιμή έτους.</span><span class="sxs-lookup"><span data-stu-id="c5fc0-172">Note: Export will begin when Year value is selected.</span></span>
+## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="b7190-170">Εξαγωγή προϊόντων έως την ημερομηνία λήξης της υποστήριξης</span><span class="sxs-lookup"><span data-stu-id="b7190-170">Export products by end of support date</span></span>
+<span data-ttu-id="b7190-171">Επιλέξτε ένα έτος για να δείτε τα προϊόντα των οποίων η υποστήριξη λήγει.</span><span class="sxs-lookup"><span data-stu-id="b7190-171">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="b7190-172">Σημείωση: Η εξαγωγή θα ξεκινήσει όταν επιλεχθεί η τιμή έτους.</span><span class="sxs-lookup"><span data-stu-id="b7190-172">Note: Export will begin when Year value is selected.</span></span>
 
 > [!div class="op_single_selector"]
 > - [Επόμενοι 12 Μήνες](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportMonths=12))
 > - [Επόμενοι 6 Μήνες](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportMonths=6))
-> - [2015](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2015))
 > - [2016](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2016))
 > - [2017](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2017))
 > - [2018](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2018))
