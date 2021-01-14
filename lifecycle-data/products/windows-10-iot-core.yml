@@ -2,14 +2,14 @@
 metadata:
   title: Windows 10 IoT Core
   description: Τα Windows 10 IoT Core ακολουθούν τη Σύγχρονη Πολιτική Κύκλου Ζωής.
-  ms.date: 10/16/2020
+  ms.date: 01/07/2021
   keywords: 
-  ms.openlocfilehash: 3893a58a054c3596d50f70244fe96b3bb5659df9
-  ms.sourcegitcommit: 3e26c892fea0b6f55cd4d050f1454019e9125ef9
+  ms.openlocfilehash: 0eb6508d3bae724e55598450d6aeb156ad727048
+  ms.sourcegitcommit: 699a750c1174c44e9aca20f79e837d8cd401de71
   ms.translationtype: HT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 10/17/2020
-  ms.locfileid: "1158109"
+  ms.lasthandoff: 01/07/2021
+  ms.locfileid: "1369491"
 name: Windows 10 IoT Core
 summary: >
   Τα Windows 10 IoT Core ακολουθούν τη [Σύγχρονη](/lifecycle/policies/modern) Πολιτική Κύκλου Ζωής.
@@ -18,7 +18,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Αυτό το προϊόν αποσύρεται στις 10 Νοεμβρίου 2020. Για να παραμείνετε στην υποστήριξη, κάντε μετεγκατάσταση στις Βασικές Υπηρεσίες IoT.
+  > Αυτό το προϊόν αποσύρθηκε στις 10 Νοεμβρίου 2020. Για να παραμείνετε στην υποστήριξη, κάντε μετεγκατάσταση στις [Βασικές Υπηρεσίες IoT](https://docs.microsoft.com/windows-hardware/manufacture/iot/iotcoreservicesoverview?tabs=azure-portal).
 products:
 - windows
 policyType: modern-on-prem
