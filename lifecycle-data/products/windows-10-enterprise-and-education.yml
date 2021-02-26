@@ -2,14 +2,14 @@
 metadata:
   title: Windows 10 για Επιχειρήσεις και Εκπαίδευση
   description: Τα Windows 10 Enterprise και Education ακολουθούν τη Σύγχρονη Πολιτική Κύκλου Ζωής.
-  ms.date: 10/09/2020
+  ms.date: 02/12/2021
   keywords: 
-  ms.openlocfilehash: aafaec4e3b02f433224ea51446b8c18f4bd0c031
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
+  ms.openlocfilehash: 84edf77fb54cb13cb21b8a8ef6643267a3872af2
+  ms.sourcegitcommit: b85a6ac35e0af0e17a9ae767927273508a4f31f6
   ms.translationtype: HT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162518"
+  ms.lasthandoff: 02/14/2021
+  ms.locfileid: "1449219"
 name: Windows 10 για Επιχειρήσεις και Εκπαίδευση
 summary: >
   Τα Windows 10 για Επιχειρήσεις και Εκπαίδευση ακολουθούν τη [Σύγχρονη](/lifecycle/policies/modern) Πολιτική Κύκλου Ζωής.
@@ -20,7 +20,9 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Η Microsoft θα συνεχίσει να υποστηρίζει τουλάχιστον ένα εξαμηνιαίο κανάλι των Windows 10 μέχρι τις 14 Οκτωβρίου 2025.
+  > Η Microsoft θα συνεχίσει να υποστηρίζει τουλάχιστον ένα Εξαμηνιαίο κανάλι των Windows 10 μέχρι τις 14 Οκτωβρίου 2025.
+
+  Ο παρακάτω πίνακας αντικατοπτρίζει τις εκδόσεις που κυκλοφόρησαν μέχρι σήμερα.
 products:
 - windows
 policyType: modern-on-prem
@@ -61,4 +63,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Τα Windows ως υπηρεσία (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Πληροφορίες Προϊόντος](/windows/windows-10/)\n* [Συνήθεις ερωτήσεις για τον Κύκλο Ζωής - Προϊόντα των Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Εκτός εάν αναβληθούν, οι επόμενες ενημερώσεις δυνατοτήτων του εξαμηνιαίου καναλιού των Windows 10 μπορούν να εγκατασταθούν πριν από την ημερομηνία λήξης της Βασικής Υποστήριξης που αναφέρεται.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Εκπαίδευση\n* Επιχείρηση"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Τα Windows ως υπηρεσία (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windows 10 IoT Enterprise](/lifecycle/products/windows-10-iot-enterprise)\n* [Windows 10 Οικιακό και Pro](/lifecycle/products/windows-10-home-and-pro)\n* [Πληροφορίες Προϊόντος](/windows/windows-10/)\n* [Συνήθεις ερωτήσεις για τον Κύκλο Ζωής - Προϊόντα των Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Εκτός εάν αναβληθούν, οι επόμενες ενημερώσεις δυνατοτήτων του εξαμηνιαίου καναλιού των Windows 10 μπορούν να εγκατασταθούν πριν από την ημερομηνία λήξης της Βασικής Υποστήριξης που αναφέρεται.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Εκπαίδευση\n* Επιχείρηση"
