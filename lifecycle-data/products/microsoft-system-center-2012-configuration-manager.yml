@@ -2,13 +2,14 @@
 metadata:
   title: Κεντρικό σύστημα Microsoft 2012 Configuration Manager
   description: Η Διαχείριση Ρύθμισης Παραμέτρων του Κέντρου Συστήματος της Microsoft 2012 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: dce8796f280b29e070bbf1d5bab55452f6e706e7
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 03/12/2021
+  keywords: 
+  ms.openlocfilehash: b550f4d818fcc32d871457dc01fc4d0a93149c7d
+  ms.sourcegitcommit: 8465b0fa45ee2c451d1f1eaf7be9a1544cdad17f
   ms.translationtype: HT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "854407"
+  ms.lasthandoff: 03/12/2021
+  ms.locfileid: "1462943"
 name: Κεντρικό σύστημα Microsoft 2012 Configuration Manager
 summary: >+
   Η Διαχείριση Ρύθμισης Παραμέτρων του Κέντρου Συστήματος της Microsoft 2012 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
@@ -31,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Κεντρικό σύστημα εγγράφων (documentation)](/system-center/#pivot=components&panel=components-all)\n* [Κεντρικό σύστημα Πόρων](https://www.microsoft.com/system-center/resources)"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Κεντρικό σύστημα εγγράφων (documentation)](/system-center/#pivot=components&panel=components-all)\n* [Κεντρικό σύστημα Πόρων](https://www.microsoft.com/system-center/resources)\n* [Οδηγίες Μετεγκατάστασης](https://techcommunity.microsoft.com/t5/configuration-manager-blog/system-center-2012-configuration-manager-is-approaching-end-of/ba-p/1650899)"
