@@ -2,15 +2,16 @@
 metadata:
   title: Internet Explorer 11
   description: Ο Internet Explorer 11 ακολουθεί την πολιτική κύκλου ζωής εξαρτήματος.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 62c563784a27bf046f85b65ff75c31ec969d0bb6
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 05/18/2021
+  keywords: 
+  ms.openlocfilehash: e8c2c3268966c81d4dd08589587bd41da21148c2
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893646"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029505"
 name: Internet Explorer 11
-summary: "Ο Internet Explorer 11 ακολουθεί την Πολιτική Κύκλου Ζωής [Εξαρτήματος](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy). \n\n\n"
+summary: "Ο Internet Explorer 11 ακολουθεί την Πολιτική Κύκλου Ζωής [Εξαρτήματος](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy). \n\n\n\n\n> [!IMPORTANT]\n> Σημειώστε ότι η εφαρμογή του Internet Explorer (IE) 11 θα τερματίσει την υποστήριξη για ορισμένα λειτουργικά συστήματα από τις 15 Ιουνίου 2022. Οι πελάτες ενθαρρύνονται να μεταβούν στο Microsoft Edge με λειτουργία IE. Η λειτουργία IE επιτρέπει αναδρομική συμβατότητα και θα υποστηρίζεται έως το 2029 τουλάχιστον. Επιπλέον, η Microsoft θα ειδοποιήσει ένα έτος πριν από τη διακοπή της λειτουργίας IE. Μεταβείτε [εδώ](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-) να βρείτε μια λίστα υποστηριζόμενων λειτουργικών συστημάτων για τον Internet Explorer, συμπεριλαμβανομένων των εκδόσεων που επηρεάζονται από αυτήν την ανακοίνωση.\n\n"
 products:
 - internet-explorer
 policyType: component
@@ -19,4 +20,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2013
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](https://www.microsoft.com/itpro/microsoft-edge)\n* [Συνήθεις ερωτήσεις για την πολιτική κύκλου ζωής του Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Από τις 12 Ιανουαρίου 2016, μόνο η πιο πρόσφατη έκδοση του Internet Explorer που είναι διαθέσιμη για ένα υποστηριζόμενο λειτουργικό σύστημα λαμβάνει τεχνική υποστήριξη και ενημερωμένες εκδόσεις ασφαλείας."
+content: "\n\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](https://www.microsoft.com/itpro/microsoft-edge)\n* [Συνήθεις Ερωτήσεις για τον Internet Explorer/Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Λειτουργικά συστήματα που υποστηρίζονται από τον Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)\n* [Λειτουργικά συστήματα που υποστηρίζονται από τον Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)\n\n\n> [!NOTE]\n> Ορισμένες εκδόσεις του Internet Explorer ενδέχεται να υποστηρίζονται και μετά την τελευταία ημερομηνία λήξης του Λειτουργικού Συστήματος Windows όταν είναι διαθέσιμες οι Εκτεταμένες Ενημερώσεις Ασφαλείας (ESU). Μεταβείτε [εδώ](https://docs.microsoft.com/lifecycle/faq/extended-security-updates) να βρείτε μια λίστα με τα προϊόντα που προσφέρουν ECUs."

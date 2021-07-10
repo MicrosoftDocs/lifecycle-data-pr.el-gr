@@ -2,20 +2,23 @@
 metadata:
   title: Visual Studio 2010
   description: Το Visual Studio 2010 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
-  ms.date: 01/08/2021
-  keywords: vsto,Agents,All,ASP .NET MVC 4,Express,F# 2.0 Runtime,Lab Management,Performance Tools,Premium,Professional,Professional w/MSDN ,PSM,Remote Debugger,SDK,Shell (Integrated),Shell (Isolated),Team Agents,Team Explorer,Test Professional,Tools for Office System 4.0 Runtime (VSTO),Ultimate,Ultimate with MSDN,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express,Visualization & Modeling SDK
-  ms.openlocfilehash: 3be7da8e44781d5d6f8224f368939d01c2aa791f
-  ms.sourcegitcommit: f421264e594745037c28e9666463fd92fd55fdec
+  ms.date: 05/28/2021
+  keywords: vsto,Agents,All,ASP .NET MVC 4,Express,F# 2.0 Runtime,Lab Management,Performance Tools,Premium,Professional,Professional w/MSDN ,PSM,Remote Debugger,SDK,Shell (Integrated),Shell (Isolated),Team Agents,Team Explorer,Test Professional,Ultimate,Ultimate with MSDN,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express,Visualization & Modeling SDK
+  ms.openlocfilehash: 3458cbccdbd3a27120cadd0dcc0df44834425297
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 01/08/2021
-  ms.locfileid: "1375249"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029949"
 name: Visual Studio 2010
 summary: >+
   Το Visual Studio 2010 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
+
   Αυτό ισχύει για τις ακόλουθες εκδόσεις: Agents, Όλες, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Εργαλεία Επιδόσεων, Premium, Professional, Professional w/MSDN, PSM, Remote Debugger, SDK, Shell (Ενσωματωμένο), Shell (Απομονωμένο), Team Agents, Team Explorer, Test Professional, Εργαλεία για Office System 4.0 Runtime, Ultimate, Ultimate με MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
+
+
 
 products:
 - vs
@@ -31,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Πράκτορες\n* Όλα\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Χρόνος Εκτέλεσης\n* Διαχείριση Εργαστηρίου\n* Εργαλεία Επιδόσεων\n* Premium\n* Επαγγελματικό\n* Professional w/MSDN \n* PSM\n* Απομακρυσμένο Πρόγραμμα Εντοπισμού Σφαλμάτων\n* SDK\n* Κελί (Ενσωματωμένο)\n* Shell (Απομονωμένο)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Εργαλεία για τον Χρόνο Εκτέλεσης του συστήματος του Office 4.0 (VSTO)\n* Ultimate\n* Ultimate με MSDN\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Visualization & Modeling SDK"
+content: "\n\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n> [!NOTE]\n> Τα Εργαλεία Visual Studio 2010 για το Office (VSTO) Runtime αποστέλλονται με διάφορες εκδόσεις του Visual Studio και Microsoft Office και ακολουθούν τον κύκλο ζωής του γονικού προϊόντος. Μπορεί επίσης να ληφθεί χωριστά, [εδώ](https://www.microsoft.com/download/details.aspx?id=56961).\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Πράκτορες\n* Όλα\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Χρόνος Εκτέλεσης\n* Διαχείριση Εργαστηρίου\n* Εργαλεία Επιδόσεων\n* Premium\n* Επαγγελματικό\n* Professional w/MSDN \n* PSM\n* Απομακρυσμένο Πρόγραμμα Εντοπισμού Σφαλμάτων\n* SDK\n* Κελί (Ενσωματωμένο)\n* Shell (Απομονωμένο)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Ultimate\n* Ultimate με MSDN\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Visualization & Modeling SDK"

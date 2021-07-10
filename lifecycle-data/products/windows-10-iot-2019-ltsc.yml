@@ -2,20 +2,23 @@
 metadata:
   title: Windows 10 IoT 2019 LTSC
   description: Το LTSC του Windows 10 IoT 2019 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
-  ms.date: 09/01/2020
-  keywords: Core,Enterprise
-  ms.openlocfilehash: 14d9c6c53748361e9ab051381cfe36ea267968d9
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 06/08/2021
+  keywords: 
+  ms.openlocfilehash: 82df2d08ff2833c856ecc70b17b54c74c7003bc6
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938224"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029246"
 name: Windows 10 IoT 2019 LTSC
 summary: >+
   Το LTSC του Windows 10 IoT 2019 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
+
   Αυτό ισχύει για τις ακόλουθες εκδόσεις: Core, Για Επιχειρήσεις
+
+
 
 products:
 - windows
@@ -28,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2018
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Υπηρεσίες Windows 10 IoT Core](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n* [Η ενημέρωση Οκτωβρίου για τα Windows 10 (έκδοση 1809) επανακυκλοφόρησε στις 13 Νοεμβρίου 2018. Οι Ημερομηνίες Υποστήριξης έχουν προσαρμοστεί αναλόγως.](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Τα Windows ως υπηρεσία (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Συνήθεις ερωτήσεις για τα Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n> [!NOTE]\n> LTSC = Κανάλι Μακροπρόθεσμης συντήρησης των Windows 10\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Πυρήνας\n* Επιχείρηση"
+content: "\n\n## <a name=\"links\"></a>Συνδέσεις \n* [Ενημέρωση των Windows 10 Οκτωβρίου 2018](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Υπηρεσίες Windows 10 IoT Core](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n* [Τα Windows ως υπηρεσία (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Συνήθεις ερωτήσεις για τα Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n\n> [!NOTE]\n> LTSC = Κανάλι Μακροπρόθεσμης συντήρησης των Windows 10\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Πυρήνας\n* Επιχείρηση"
