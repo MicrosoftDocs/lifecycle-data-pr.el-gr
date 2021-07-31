@@ -2,20 +2,21 @@
 metadata:
   title: Προστασία Τελικού Σημείου του System Center 2012
   description: Η προστασία Τελικού Σημείου του Κέντρου συστήματος της Microsoft 2012 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
-  ms.date: 09/01/2020
-  keywords: for Mac
-  ms.openlocfilehash: 3a2117da623b0703923ec5be8fb9a3d9e083a3fa
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 07/27/2021
+  keywords: 
+  ms.openlocfilehash: 19d214a2ef4e1e2f97d36fc529606178e198e61f
+  ms.sourcegitcommit: c5cb11b464035a1b4d239621b8d4bf06f574da82
   ms.translationtype: HT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937669"
+  ms.lasthandoff: 07/28/2021
+  ms.locfileid: "2255095"
 name: Προστασία Τελικού Σημείου του System Center 2012
 summary: >+
   Η προστασία Τελικού Σημείου του Κέντρου Συστήματος της Microsoft 2012 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: για Mac
+
+
 
 products:
 - msc
@@ -34,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες Συντήρησης](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [Οδηγίες Μετεγκατάστασης](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Κεντρικό σύστημα εγγράφων (documentation)](/system-center/#pivot=components&panel=components-all)\n\n> [!NOTE]\n> Οι πελάτες πρέπει να παραμένουν ενημερωμένοι με την πιο πρόσφατη ενημερωμένη έκδοση πλατφόρμας προστασίας από λογισμικό κακόβουλης λειτουργίας για να υποστηρίζονται πλήρως.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Για Mac"
+content: "\n\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες Συντήρησης](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [Οδηγίες Μετεγκατάστασης](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Κεντρικό σύστημα εγγράφων (documentation)](/system-center/#pivot=components&panel=components-all)\n\n\n> [!NOTE]\n> Οι πελάτες πρέπει να παραμένουν ενημερωμένοι με την πιο πρόσφατη ενημερωμένη έκδοση πλατφόρμας προστασίας από λογισμικό κακόβουλης λειτουργίας για να υποστηρίζονται πλήρως."
