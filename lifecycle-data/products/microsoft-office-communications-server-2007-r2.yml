@@ -4,14 +4,14 @@ metadata:
   description: Ο Microsoft Office Communications Server 2007 R2 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/10/2020
   keywords: All applicable,Enterprise,XMPP Gateway
-  ms.openlocfilehash: f2ffe44d722e5b27e1ad852b480a531b49c729c0
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
+  ms.openlocfilehash: d6578ffee53ac99b0521db6f061d3936e2f9b6c82f9168dc79e8dfd07f969f7c
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001773"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2518603"
 name: Microsoft Office Communications Server 2007 R2
-summary: "Ο Microsoft Office Communications Server 2007 R2 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.\n\nΑυτό ισχύει για τις ακόλουθες εκδόσεις: Όλα εφαρμόσιμα, Enterprise, XMPP Gateway\n\n> [!IMPORTANT]\n> Η υποστήριξη για αυτό το προϊόν έληξε. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω. \n"
+summary: "Ο Microsoft Office Communications Server 2007 R2 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.\n\nΑυτό ισχύει για τις ακόλουθες εκδόσεις: Όλα εφαρμόσιμα, Enterprise, πύλη XMPP\n\n> [!IMPORTANT]\n> Η υποστήριξη για αυτό το προϊόν έληξε. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω. \n"
 products:
 - office
 policyType: fixed
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 09/28/2009
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες μετεγκατάστασης](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> Το XMPP Gateway κυκλοφόρησε στις 28/9/2009.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Όλες οι ισχύουσες\n* Επιχείρηση\n* XMPP Gateway"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> Η πύλη XMPP κυκλοφόρησε στις 28/9/2009.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Όλες οι ισχύουσες\n* Επιχείρηση\n* Πύλη XMPP"

@@ -3,12 +3,12 @@ metadata:
   title: Microsoft Office Forms Server 2007
   description: Ο Microsoft Office Forms Server 2007 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 01af695d1e4122676e1fbf362392e8b032ccf71e
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: c7fb8221218bcb8aeafb27c7c3b0d0c9305545960864662925819276075c5138
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "818219"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2518566"
 name: Microsoft Office Forms Server 2007
 summary: "Ο Microsoft Office Forms Server 2007 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.\n\n\n> [!IMPORTANT]\n> Η υποστήριξη για αυτό το προϊόν έληξε. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω. \n"
 products:
