@@ -4,12 +4,12 @@ metadata:
   description: Ο Internet Explorer 11 ακολουθεί την πολιτική κύκλου ζωής εξαρτήματος.
   ms.date: 05/18/2021
   keywords: 
-  ms.openlocfilehash: e8c2c3268966c81d4dd08589587bd41da21148c2
-  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
+  ms.openlocfilehash: 3224f71b4a69cb311899809b385069ab7e3664274146044d9d624e29d3cde008
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 06/25/2021
-  ms.locfileid: "2029505"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2519750"
 name: Internet Explorer 11
 summary: "Ο Internet Explorer 11 ακολουθεί την Πολιτική Κύκλου Ζωής [Εξαρτήματος](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy). \n\n\n\n\n> [!IMPORTANT]\n> Σημειώστε ότι η εφαρμογή του Internet Explorer (IE) 11 θα τερματίσει την υποστήριξη για ορισμένα λειτουργικά συστήματα από τις 15 Ιουνίου 2022. Οι πελάτες ενθαρρύνονται να μεταβούν στο Microsoft Edge με λειτουργία IE. Η λειτουργία IE επιτρέπει αναδρομική συμβατότητα και θα υποστηρίζεται έως το 2029 τουλάχιστον. Επιπλέον, η Microsoft θα ειδοποιήσει ένα έτος πριν από τη διακοπή της λειτουργίας IE. Μεταβείτε [εδώ](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-) να βρείτε μια λίστα υποστηριζόμενων λειτουργικών συστημάτων για τον Internet Explorer, συμπεριλαμβανομένων των εκδόσεων που επηρεάζονται από αυτήν την ανακοίνωση.\n\n"
 products:
