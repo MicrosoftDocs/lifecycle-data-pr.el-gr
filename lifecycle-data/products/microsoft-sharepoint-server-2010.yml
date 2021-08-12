@@ -3,35 +3,43 @@ metadata:
   title: Microsoft SharePoint Server 2010
   description: Ο Microsoft SharePoint Server 2010 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/01/2020
-  keywords: Access Services,All applicable,Excel Services,Performance Point Services
-  ms.openlocfilehash: 02a1a5085dbd39b7379b0e71f69300095cfa54da
-  ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: HT
-  ms.contentlocale: el-GR
-  ms.lasthandoff: 09/02/2020
-  ms.locfileid: "941559"
+  keywords: 'Access Services,All applicable,Excel Services,Performance Point Services'
 name: Microsoft SharePoint Server 2010
-summary: >+
+summary: |+
   Ο Microsoft SharePoint Server 2010 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
-
 
   Αυτό ισχύει για τις ακόλουθες εκδόσεις: Υπηρεσίες Πρόσβασης, Όλες οι ισχύουσες, Υπηρεσίες Excel Services, Υπηρεσίες Σημείου Επιδόσεων
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 07/15/2010
   end: 10/13/2015
   extendedEnd: 04/13/2021
 releases:
-- version: Service Pack 2
-  startDate: 07/23/2013
-  endDate: 04/13/2021
-- version: Service Pack 1
-  startDate: 06/28/2011
-  endDate: 10/14/2014
-- version: Original Release
-  startDate: 07/15/2010
-  endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Επέκταση Υποστήριξης](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Οδηγίες Μετεγκατάστασης](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Τεκμηρίωση προγραμματιστή Microsoft SharePoint Server 2010](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Τεκμηρίωση προϊόντος Microsoft SharePoint Server 2010](/previous-versions/office/sharepoint-server-2010/cc303422(v=office.14))\n\n> [!NOTE]\n> Η ημερομηνία λήξης της υποστήριξης αυτού του προϊόντος αναβλήθηκε από τις 13 Οκτωβρίου 2020 για τις 13 Απριλίου 2021.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Υπηρεσίες Πρόσβασης\n* Όλες οι ισχύουσες\n* Υπηρεσίες Excel\n* Υπηρεσίες Σημείου Απόδοσης"
+  - version: Service Pack 2
+    startDate: 07/23/2013
+    endDate: 04/13/2021
+  - version: Service Pack 1
+    startDate: 06/28/2011
+    endDate: 10/14/2014
+  - version: Original Release
+    startDate: 07/15/2010
+    endDate: 07/10/2012
+content: |
+
+  ## <a name="links"></a>Συνδέσεις 
+  * [Επέκταση Υποστήριξης](https://aka.ms/SharePoint/server/2010/supportextension)
+  * [Οδηγίες Μετεγκατάστασης](/office365/enterprise/upgrade-from-sharepoint-2010)
+  * [Τεκμηρίωση προγραμματιστή Microsoft SharePoint Server 2010](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))
+  * [Τεκμηρίωση προϊόντος Microsoft SharePoint Server 2010](/previous-versions/office/sharepoint-server-2010/cc303422(v=office.14))
+
+  > [!NOTE]
+  > Η ημερομηνία λήξης της υποστήριξης αυτού του προϊόντος αναβλήθηκε από τις 13 Οκτωβρίου 2020 για τις 13 Απριλίου 2021.
+
+  ## <a name="editions"></a>Εκδόσεις 
+  * Υπηρεσίες Πρόσβασης
+  * Όλες οι ισχύουσες
+  * Υπηρεσίες Excel
+  * Υπηρεσίες Σημείου Απόδοσης

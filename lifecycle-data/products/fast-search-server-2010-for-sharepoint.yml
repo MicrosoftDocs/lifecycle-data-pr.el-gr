@@ -1,32 +1,41 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: FAST Search Server 2010 (για SharePoint, για Τοποθεσίες Internet SharePoint)
-  description: Ο FAST Search Server 2010 (για το SharePoint, για τοποθεσίες Internet του SharePoint) ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
+  title: 'FAST Search Server 2010 (για SharePoint, για Τοποθεσίες Internet SharePoint)'
+  description: 'Ο FAST Search Server 2010 (για το SharePoint, για τοποθεσίες Internet του SharePoint) ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.'
   ms.date: 09/01/2020
-  keywords: for SharePoint,for SharePoint Internet Sites
-  ms.openlocfilehash: c027838c1f802c0ed026d733a9412fe15980c093
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: el-GR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "936152"
-name: FAST Search Server 2010 (για SharePoint, για Τοποθεσίες Internet SharePoint)
-summary: "Ο FAST Search Server 2010 (για το SharePoint, για τοποθεσίες Internet του SharePoint) ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής. \n\nΑυτό ισχύει για τις ακόλουθες εκδόσεις: για το SharePoint, για τοποθεσίες Internet του SharePoint\n\n"
+  keywords: 'for SharePoint,for SharePoint Internet Sites'
+name: 'FAST Search Server 2010 (για SharePoint, για Τοποθεσίες Internet SharePoint)'
+summary: |+
+  Ο FAST Search Server 2010 (για το SharePoint, για τοποθεσίες Internet του SharePoint) ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής. 
+
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: για το SharePoint, για τοποθεσίες Internet του SharePoint
+
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 06/16/2010
   end: 10/13/2015
   extendedEnd: 10/13/2020
 releases:
-- version: Service Pack 2
-  startDate: 07/23/2013
-  endDate: 10/13/2020
-- version: Service Pack 1
-  startDate: 06/24/2011
-  endDate: 07/23/2014
-- version: Original Release
-  startDate: 06/16/2010
-  endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101711)\n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Εξαιρούνται οι εκδόσεις που δεν υποστηρίζονταν προηγουμένως. Η υποστήριξη για αυτό το προϊόν υπόκειται στους όρους απόκτησής του.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* για το SharePoint\n* για τοποθεσίες του SharePoint στο Internet"
+  - version: Service Pack 2
+    startDate: 07/23/2013
+    endDate: 10/13/2020
+  - version: Service Pack 1
+    startDate: 06/24/2011
+    endDate: 07/23/2014
+  - version: Original Release
+    startDate: 06/16/2010
+    endDate: 07/10/2012
+content: |
+
+  ## <a name="links"></a>Συνδέσεις 
+  * [Οδηγίες Μετεγκατάστασης](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101711)
+  * [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > Εξαιρούνται οι εκδόσεις που δεν υποστηρίζονταν προηγουμένως. Η υποστήριξη για αυτό το προϊόν υπόκειται στους όρους απόκτησής του.
+
+  ## <a name="editions"></a>Εκδόσεις 
+  * για το SharePoint
+  * για τοποθεσίες του SharePoint στο Internet

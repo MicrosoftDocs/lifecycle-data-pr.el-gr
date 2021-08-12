@@ -3,25 +3,30 @@ metadata:
   title: Internet Explorer 7
   description: Ο Internet Explorer 7 ακολουθεί την πολιτική κύκλου ζωής εξαρτήματος.
   ms.date: 10/05/2020
-  keywords: 
-  ms.openlocfilehash: e9a0e815b920011e15e4da8e58158c45e7971cd0
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
-  ms.translationtype: HT
-  ms.contentlocale: el-GR
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162666"
+  keywords: null
 name: Internet Explorer 7
-summary: >+
+summary: |+
   Ο Internet Explorer 7 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής [Εξαρτήματος](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
-- internet-explorer
+  - internet-explorer
 policyType: component
 supportDates:
   start: 10/18/2006
   end: 10/10/2023
 releases:
-- version: Original Release
-  startDate: 10/18/2006
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](https://www.microsoft.com/itpro/microsoft-edge)\n* [Windows Embedded Compact 7](/lifecycle/products/windows-embedded-compact-7)\n* [Windows Embedded Compact 2013](/lifecycle/products/windows-embedded-compact-2013)\n* [Συνήθεις ερωτήσεις για την πολιτική κύκλου ζωής του Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Ο Internet Explorer 7 είναι ένα στοιχείο των Windows Embedded Compact 7 και Windows Embedded Compact 2013 και ακολουθεί τον ίδιο κύκλο ζωής. \n> [!NOTE]\n> Από τις 12 Ιανουαρίου 2016, μόνο η πιο πρόσφατη έκδοση του Internet Explorer που είναι διαθέσιμη για ένα υποστηριζόμενο λειτουργικό σύστημα λαμβάνει τεχνική υποστήριξη και ενημερωμένες εκδόσεις ασφαλείας."
+  - version: Original Release
+    startDate: 10/18/2006
+content: |+
+
+  ## <a name="links"></a>Συνδέσεις 
+  * [Οδηγίες Μετεγκατάστασης](https://www.microsoft.com/itpro/microsoft-edge)
+  * [Windows Embedded Compact 7](/lifecycle/products/windows-embedded-compact-7)
+  * [Windows Embedded Compact 2013](/lifecycle/products/windows-embedded-compact-2013)
+  * [Συνήθεις ερωτήσεις για την πολιτική κύκλου ζωής του Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)
+
+  > [!NOTE]
+  > Ο Internet Explorer 7 είναι ένα στοιχείο των Windows Embedded Compact 7 και Windows Embedded Compact 2013 και ακολουθεί τον ίδιο κύκλο ζωής. 
+  > [!NOTE]
+  > Από τις 12 Ιανουαρίου 2016, μόνο η πιο πρόσφατη έκδοση του Internet Explorer που είναι διαθέσιμη για ένα υποστηριζόμενο λειτουργικό σύστημα λαμβάνει τεχνική υποστήριξη και ενημερωμένες εκδόσεις ασφαλείας.

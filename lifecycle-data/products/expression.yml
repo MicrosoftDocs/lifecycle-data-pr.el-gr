@@ -3,24 +3,34 @@ metadata:
   title: Expression
   description: Το Expression ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/01/2020
-  keywords: Blend,Design,Encoder,Studio
-  ms.openlocfilehash: 2d2e5c18c1e8ca1b355bfe392df42d6a351e6585
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: el-GR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "936226"
+  keywords: 'Blend,Design,Encoder,Studio'
 name: Expression
-summary: "Το Expression ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.\n\nΑυτό ισχύει για τις ακόλουθες εκδόσεις: Blend, Design, Encoder, Studio\n\n> [!IMPORTANT]\n> Η υποστήριξη για αυτό το προϊόν έληξε. \n"
+summary: |
+  Το Expression ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
+
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Blend, Design, Encoder, Studio
+
+  > [!IMPORTANT]
+  > Η υποστήριξη για αυτό το προϊόν έληξε. 
 products:
-- expression
+  - expression
 policyType: fixed
 supportDates:
   start: 07/27/2007
   end: 10/09/2012
   extendedEnd: 10/10/2017
 releases:
-- version: Original Release
-  startDate: 07/27/2007
-  endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Η ημερομηνία έναρξης για το Expression Blend είναι η 13η Ιουλίου 2007. \n\n## <a name=\"editions\"></a>Εκδόσεις \n* Blend\n* Design\n* Encoder\n* Studio"
+  - version: Original Release
+    startDate: 07/27/2007
+    endDate: 10/10/2017
+content: |
+
+
+  > [!NOTE]
+  > Η ημερομηνία έναρξης για το Expression Blend είναι η 13η Ιουλίου 2007. 
+
+  ## <a name="editions"></a>Εκδόσεις 
+  * Blend
+  * Design
+  * Encoder
+  * Studio

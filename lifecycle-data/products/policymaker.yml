@@ -3,28 +3,36 @@ metadata:
   title: PolicyMaker
   description: Το PolicyMaker ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/01/2020
-  keywords: Application Security,Outlook Edition,Professional 9.0,Registry Extension 2.0,Share Manager 1.0,Software Update 1.0,Software Update 2.0,Standard 1.0,Standard 2.0
-  ms.openlocfilehash: be11ae6bee427a5aa059ec56cb88f007bb5134ec
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: el-GR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938039"
+  keywords: 'Application Security,Outlook Edition,Professional 9.0,Registry Extension 2.0,Share Manager 1.0,Software Update 1.0,Software Update 2.0,Standard 1.0,Standard 2.0'
 name: PolicyMaker
-summary: >+
+summary: |+
   Το PolicyMaker ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
-
 
   Αυτό ισχύει για τις ακόλουθες εκδόσεις: Ασφάλεια εφαρμογής, έκδοση του Outlook, επαγγελματική έκδοση 9.0, επέκταση μητρώου 2.0, διαχείριση κοινοποιήσεων 1.0, ενημέρωση λογισμικού 1.0, ενημέρωση λογισμικού 2.0, πρότυπο 1.0, πρότυπο 2.0
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 01/01/2007
   end: 01/12/2010
 releases:
-- version: Original Release
-  startDate: 01/01/2007
-  endDate: 01/12/2010
-content: "\n\n> [!NOTE]\n> Η υποστήριξη για αυτό το προϊόν υπόκειται στους όρους απόκτησής του.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Ασφάλεια εφαρμογής\n* Έκδοση του Outlook\n* Επαγγελματική έκδοση 9.0\n* Επέκταση μητρώου 2.0\n* Διαχείριση κοινοποιήσεων 1.0\n* Ενημέρωση λογισμικού 1.0\n* Ενημέρωση λογισμικού 2.0\n* Πρότυπο 1.0\n* Πρότυπο 2.0"
+  - version: Original Release
+    startDate: 01/01/2007
+    endDate: 01/12/2010
+content: |
+
+
+  > [!NOTE]
+  > Η υποστήριξη για αυτό το προϊόν υπόκειται στους όρους απόκτησής του.
+
+  ## <a name="editions"></a>Εκδόσεις 
+  * Ασφάλεια εφαρμογής
+  * Έκδοση του Outlook
+  * Επαγγελματική έκδοση 9.0
+  * Επέκταση μητρώου 2.0
+  * Διαχείριση κοινοποιήσεων 1.0
+  * Ενημέρωση λογισμικού 1.0
+  * Ενημέρωση λογισμικού 2.0
+  * Πρότυπο 1.0
+  * Πρότυπο 2.0
