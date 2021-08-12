@@ -4,12 +4,12 @@ metadata:
   description: Το Dynamics 365 για Talent ακολουθεί τη Σύγχρονη Πολιτική Κύκλου Ζωής.
   ms.date: 09/01/2020
   keywords: Onboard
-  ms.openlocfilehash: de03f162a1781f88e66a030774e5c31771e4f0f6
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: ff5ee330da2a77374a216513a95639644a72b41de7896d3649a85f842b6f8cdc
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "930713"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2495626"
 name: Dynamics 365 για Talent
 summary: >+
   Το Dynamics 365 για Talent ακολουθεί τη [Σύγχρονη](/lifecycle/policies/modern) Πολιτική Κύκλου Ζωής.
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/31/2017
   endDate: 02/02/2022
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Απαιτήσεις συστήματος](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [Οδηγίες μετεγκατάστασης](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> Οι εφαρμογές Attract και Onboard θα αποσυρθούν στις 2 Φεβρουαρίου 2022.  Ο Core HR ξεκίνησε εκ νέου ως Human Resources του Dynamics 365 την 1η Φεβρουαρίου 2020, ανατρέξτε στις οδηγίες μετεγκατάστασης για περισσότερες πληροφορίες.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Onboard"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Απαιτήσεις συστήματος](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [Οδηγίες Μετεγκατάστασης](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> Οι εφαρμογές Attract και Onboard θα αποσυρθούν στις 2 Φεβρουαρίου 2022.  Ο Core HR ξεκίνησε εκ νέου ως Human Resources του Dynamics 365 την 1η Φεβρουαρίου 2020, ανατρέξτε στις οδηγίες μετεγκατάστασης για περισσότερες πληροφορίες.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Onboard"
