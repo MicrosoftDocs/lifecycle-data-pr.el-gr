@@ -4,18 +4,18 @@ metadata:
   description: Ο SQL Server 2014 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/01/2020
   keywords: Business Intelligence,Developer,Enterprise,Enterprise Core,Express,Standard,Web
-  ms.openlocfilehash: 551c7b4fe8a3a36dfbc8866abd3006d022116dc6
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 3d3669c46791dcd92c3ed444e693ea385bc0d8ef11ae6143f63482ac34ea8eac
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938002"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2516161"
 name: SQL Server 2014
 summary: >+
   Ο SQL Server 2014 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Business Intelligence, Προγγραματισμός, για επιχειρήσεις, Enterprise Core, Express, Standard, Web
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Business Intelligence, Προγγραματισμός, Επιχείρηση, Πυρήνας Επιχείρησης, Express, Standard, Ιστός
 
 products:
 - sql-server
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 06/05/2014
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχειρηματική Ευφυΐα\n* Προγραμματιστής\n* Επιχείρηση\n* Enterprise Core\n* Express\n* Standard\n* Web"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχειρηματική Ευφυΐα\n* Προγραμματιστής\n* Επιχείρηση\n* Εταιρικός Πυρήνας\n* Express\n* Τυπική ροή εργασίας\n* Ιστός"
