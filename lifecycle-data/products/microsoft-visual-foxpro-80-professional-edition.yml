@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Visual FoxPro 8.0 Professional Edition
-  description: Το Microsoft Visual FoxPro 8.0 Professional Edition ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
+  title: Microsoft Visual FoxPro 8.0 Επαγγελματική έκδοση
+  description: Το Microsoft Visual FoxPro 8.0 Επαγγελματική έκδοση ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/01/2020
   keywords: Professional
-  ms.openlocfilehash: f1a877392c50fc6e526869f7269b728b9dd727cd
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 649f23ede2dc07d76c78a7912662dc044edb8290883b255a61ee415318800cbc
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "929047"
-name: Microsoft Visual FoxPro 8.0 Professional Edition
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2507577"
+name: Microsoft Visual FoxPro 8.0 Επαγγελματική έκδοση
 summary: >+
-  Το Microsoft Visual FoxPro 8.0 Professional Edition ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
+  Το Microsoft Visual FoxPro 8.0 Επαγγελματική έκδοση ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
   Αυτό ισχύει για τις ακόλουθες εκδόσεις: Επαγγελματική
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 03/12/2003
   endDate: 04/09/2013
-content: "\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Professional"
+content: "\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επαγγελματικό"

@@ -4,18 +4,18 @@ metadata:
   description: Το Microsoft Office για Mac 2011 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/01/2020
   keywords: Academic,Home and Business,Home and Business Home Use Program,Home and Student,Standard
-  ms.openlocfilehash: 916b05553555af4525fb9c94660627d4aef386e6
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 56c5f61385cbdeddafe8571c1439650f85b73f42bcc23bc840f246af69bbe957
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "933229"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2524190"
 name: Microsoft Office για Mac 2011
 summary: >+
   Το Microsoft Office για Mac 2011 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Ακαδημαϊκό, για oικιακή χρήση και μικρές επιχειρήσεις, για oικιακή χρήση και μικρές επιχειρήσεις πρόγραμμα οικιακής χρήσης, για οικιακή χρήση και μαθητές, Standard
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Ακαδημαϊκό, Οικιακό και για Επιχειρήσεις, Οικιακό και για Επιχειρήσεις Πρόγραμμα Οικιακής χρήσης, Οικιακό και Φοιτητικό, Standard
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 01/10/2012
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Η Βασική υποστήριξη για το Microsoft Office για Mac 2011 επεκτείνεται όπως φαίνεται, ώστε να παρέχεται σε όλους τους πελάτες η τυπική λωρίδα χρόνου μετάβασης κύκλου ζωής.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Ακαδημαϊκό\n* Οικιακή χρήση και μικρές επιχειρήσεις\n* Για oικιακή χρήση και μικρές επιχειρήσεις πρόγραμμα οικιακής χρήσης\n* για οικιακή χρήση και μαθητές\n* Standard"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Η Βασική υποστήριξη για το Microsoft Office για Mac 2011 επεκτείνεται όπως φαίνεται, ώστε να παρέχεται σε όλους τους πελάτες η τυπική λωρίδα χρόνου μετάβασης κύκλου ζωής.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Ακαδημαϊκό\n* Οικιακό και Επιχειρηματικό\n* Πρόγραμμα Χρήσης Home and Business Home\n* Οικιακό και Φοιτητικό\n* Τυπική ροή εργασίας"
