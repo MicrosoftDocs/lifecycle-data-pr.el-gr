@@ -3,33 +3,32 @@ metadata:
   title: Διακομιστής παραχώρησης αδειών χρήσης και προστασίας λογισμικού
   description: Ο διακομιστής παραχώρησης αδειών χρήσης και προστασίας λογισμικού ακολουθεί την πολιτική σταθερού κύκλου ζωής.
   ms.date: 09/10/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 567392e4c49c46a29c7f9f80730542f0ded21608
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: el-GR
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001056"
+  keywords: 'Enterprise,Standard'
 name: Διακομιστής παραχώρησης αδειών χρήσης και προστασίας λογισμικού
-summary: >
+summary: |
   Ο διακομιστής παραχώρησης αδειών χρήσης και προστασίας λογισμικού ακολουθεί την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
-
 
   Αυτό ισχύει για τις ακόλουθες εκδόσεις: Enterprise, Τυπική
 
-
   > [!IMPORTANT]
-
   > Λόγω της εκχώρησης του διακομιστή παραχώρησης αδειών χρήσης λογισμικού και προστασίας (SLPS), η Microsoft υποστήριξε το SLPS μέχρι τις 24 Σεπτεμβρίου 2009.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 12/30/2007
   end: 09/24/2009
   extendedEnd: 09/24/2009
 releases:
-- version: Original Release
-  startDate: 12/30/2007
-  endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Διακομιστής παραχώρησης αδειών χρήσης και προστασίας λογισμικού (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση\n* Τυπική ροή εργασίας"
+  - version: Original Release
+    startDate: 12/30/2007
+    endDate: 01/09/2018
+content: |
+
+  ## <a name="links"></a>Συνδέσεις 
+  * [Διακομιστής παραχώρησης αδειών χρήσης και προστασίας λογισμικού (SLPS)](https://www.microsoft.com/slps)
+
+
+  ## <a name="editions"></a>Εκδόσεις 
+  * Επιχείρηση
+  * Τυπική ροή εργασίας

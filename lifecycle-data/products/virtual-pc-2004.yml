@@ -3,36 +3,37 @@ metadata:
   title: Εικονικός υπολογιστής 2004
   description: Το εικονικό PC 2004 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/10/2020
-  keywords: Express,Standard
-  ms.openlocfilehash: 858fa64b63de7edadffbc6d4514d1a9f7ea6e42a
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: el-GR
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1000852"
+  keywords: 'Express,Standard'
 name: Εικονικός υπολογιστής 2004
-summary: >
+summary: |
   Τo εικονικό PC 2004 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
-
 
   Αυτό ισχύει για τις ακόλουθες εκδόσεις: Express, Τυπική
 
-
   > [!IMPORTANT]
-
   > Η υποστήριξη για αυτό το προϊόν έληξε.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 01/20/2004
   end: 04/14/2009
   extendedEnd: 04/08/2014
 releases:
-- version: Service Pack 1
-  startDate: 08/30/2006
-  endDate: 04/08/2014
-- version: Original Release
-  startDate: 01/20/2004
-  endDate: 10/09/2007
-content: "> [!TIP]\n> Το Microsoft Virtual PC 2004 Express κυκλοφόρησε στις 13 Απριλίου 2006.\n\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Express\n* Τυπική ροή εργασίας"
+  - version: Service Pack 1
+    startDate: 08/30/2006
+    endDate: 04/08/2014
+  - version: Original Release
+    startDate: 01/20/2004
+    endDate: 10/09/2007
+content: |
+  > [!TIP]
+  > Το Microsoft Virtual PC 2004 Express κυκλοφόρησε στις 13 Απριλίου 2006.
+
+  ## <a name="links"></a>Συνδέσεις 
+  * [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Εκδόσεις 
+  * Express
+  * Τυπική ροή εργασίας
