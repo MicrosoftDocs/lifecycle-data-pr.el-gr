@@ -4,18 +4,18 @@ metadata:
   description: Το Visual Studio 2013 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/01/2020
   keywords: Agents,All,Community,Express for Web,Express for Windows,Express for Windows Desktop,IntelliTrace Collector,Modeling SDK,Multibyte MFC Library,Premium,Professional,Release Management,Remote Tools,SDK,Shell (Integrated),Shell (Isolated),Team Explorer,Test Professional,Ultimate,Visual C++ Redistributable,Web Tools Extensions
-  ms.openlocfilehash: 9ca8bc78f1d498f79dcc1f3ed3f3c30403310ff2
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: be98b464a1f267f12c314361f99e1cd7b62cbd5b2fe52619cee9119917d437b2
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937447"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2487190"
 name: Visual Studio 2013
 summary: >+
   Το Visual Studio 2013 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Πράκτορες, Όλα, Κοινότητα, Express για Web, Express για Windows, Express για επιφάνεια εργασίας Windows, IntelliTrace Collector, Modeling SDK, Βιβλιοθήκη MFC multibyte, Premium, Επαγγελματικό, Release Management, Απομακρυσμένα Εργαλεία, SDK, Shell (Απομονωμένο), Team Explorer, Test Professional, Ultimate, Visual C++ Redistributable, Eπεκτάσεις Eργαλείων Ιστού
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Πράκτορες, Όλα, Κοινότητα, Εξπρές για τον Ιστό, Εξπρές για τα WIndows, Εξπρές για την επιφάνεια εργασίας των Windows, IntelliTrace Collector, Modeling SDK, Βιβλιοθήκη MFC multibyte, Premium, Επαγγελματικό, Release Management, Απομακρυσμένα Εργαλεία, SDK, Shell (απομονωμένο), Team Explorer, Test Professional, Ultimate, Visual C++ Redistributable, Eπεκτάσεις Eργαλείων Ιστού
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες Συντήρησης](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Πράκτορες\n* Όλα\n* Κοινότητα\n* Express για Web\n* Express για Windows\n* Express για επιφάνεια εργασίας Windows\n* IntelliTrace Collector\n* Modeling SDK\n* Βιβλιοθήκη Multibyte MFC \n* Premium\n* Professional\n* Release Management\n* Απομακρυσμένα Eργαλεία\n* SDK\n* Κελί (Ενσωματωμένο)\n* Shell (Απομονωμένο)\n* Team Explorer\n* Test Professional\n* Ultimate\n* Visual C++ Redistributable\n* Επεκτάσεις Εργαλείων Ιστού"
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες Συντήρησης](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Πράκτορες\n* Όλα\n* Κοινότητα\n* Εξπρές για τον Ιστό\n* Εξπρές για τα Windows\n* Εξπρές για την επιφάνεια εργασίας των Windows\n* IntelliTrace Collector\n* Modeling SDK\n* Βιβλιοθήκη Multibyte MFC \n* Premium\n* Επαγγελματικό\n* Release Management\n* Απομακρυσμένα Eργαλεία\n* SDK\n* Κελί (Ενσωματωμένο)\n* Shell (Απομονωμένο)\n* Team Explorer\n* Test Professional\n* Ultimate\n* Visual C++ Redistributable\n* Επεκτάσεις Εργαλείων Ιστού"
