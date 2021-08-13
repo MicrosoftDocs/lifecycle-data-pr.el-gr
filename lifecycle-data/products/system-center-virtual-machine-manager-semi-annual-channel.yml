@@ -3,25 +3,27 @@ metadata:
   title: System Center Virtual Machine Manager Semi Annual Channel
   description: Το System Center Virtual Machine Manager Semi Annual Channel ακολουθεί τη σύγχρονη πολιτική κύκλου ζωής.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 8972aa6593d08e6325e8ff4d71d5fb04609caa92
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: HT
-  ms.contentlocale: el-GR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "869598"
 name: System Center Virtual Machine Manager Semi Annual Channel
-summary: "Το System Center Virtual Machine Manager Semi Annual Channel ακολουθεί τη [σύγχρονη](/lifecycle/policies/modern) πολιτική κύκλου ζωής. \n\n\n> [!IMPORTANT]\n> Η Υποστήριξη έληξε. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω.\n"
+summary: |
+  Το System Center Virtual Machine Manager Semi Annual Channel ακολουθεί τη [σύγχρονη](/lifecycle/policies/modern) πολιτική κύκλου ζωής. 
+
+
+  > [!IMPORTANT]
+  > Η Υποστήριξη έληξε. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω.
 products:
-- msc
+  - msc
 policyType: modern-on-prem
 supportDates:
   start: 02/08/2018
   end: 01/24/2020
 releases:
-- version: Version 1807
-  startDate: 07/24/2018
-  endDate: 01/24/2020
-- version: Version 1801
-  startDate: 02/08/2018
-  endDate: 08/08/2019
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](/system-center/vmm/upgrade-vmm?view=sc-vmm-2019#upgrade-to-system-center-2019---virtual-machine-manager)"
+  - version: Version 1807
+    startDate: 07/24/2018
+    endDate: 01/24/2020
+  - version: Version 1801
+    startDate: 02/08/2018
+    endDate: 08/08/2019
+content: |+
+
+  ## <a name="links"></a>Συνδέσεις 
+  * [Οδηγίες Μετεγκατάστασης](/system-center/vmm/upgrade-vmm?view=sc-vmm-2019#upgrade-to-system-center-2019---virtual-machine-manager)

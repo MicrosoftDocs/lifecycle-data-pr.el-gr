@@ -3,32 +3,27 @@ metadata:
   title: System Center Data Protection Manager Semi Annual Channel
   description: Το System Center Data Protection Manager Semi Annual Channel ακολουθεί τη σύγχρονη πολιτική κύκλου ζωής.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 60f83dbcc7830bca583b04a805878d1836f7e965
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: HT
-  ms.contentlocale: el-GR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "869604"
 name: System Center Data Protection Manager Semi Annual Channel
-summary: >
+summary: |
   Το System Center Data Protection Manager Semi Annual Channel ακολουθεί την πολιτική [Σταθερού](/lifecycle/policies/modern) Κύκλου Ζωής.
 
 
-
   > [!IMPORTANT]
-
   > Η Υποστήριξη έληξε. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω.
 products:
-- msc
+  - msc
 policyType: modern-on-prem
 supportDates:
   start: 02/08/2018
   end: 01/24/2020
 releases:
-- version: Version 1807
-  startDate: 07/24/2018
-  endDate: 01/24/2020
-- version: Version 1801
-  startDate: 02/08/2018
-  endDate: 08/08/2019
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](/system-center/dpm/upgrade-dpm?view=sc-dpm-2019)"
+  - version: Version 1807
+    startDate: 07/24/2018
+    endDate: 01/24/2020
+  - version: Version 1801
+    startDate: 02/08/2018
+    endDate: 08/08/2019
+content: |+
+
+  ## <a name="links"></a>Συνδέσεις 
+  * [Οδηγίες Μετεγκατάστασης](/system-center/dpm/upgrade-dpm?view=sc-dpm-2019)
