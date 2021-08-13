@@ -3,26 +3,25 @@ metadata:
   title: Windows Server Update Services για Windows Server 2012 R2
   description: Οι Υπηρεσίες Ενημέρωσης του Windows Server για τον Windows Server 2012 R2 ακολουθούν την Πολιτική Κύκλου Ζωής Στοιχείου.
   ms.date: 01/22/2021
-  keywords: 
-  ms.openlocfilehash: efa11337dbeba8601a1ef70ef003f709f286e6b6
-  ms.sourcegitcommit: cea6a4b7fe734aba8b534ecdef302cb56c5f7cca
-  ms.translationtype: HT
-  ms.contentlocale: el-GR
-  ms.lasthandoff: 01/23/2021
-  ms.locfileid: "1416749"
+  keywords: null
 name: Windows Server Update Services για Windows Server 2012 R2
-summary: >+
+summary: |+
   Οι Υπηρεσίες Ενημέρωσης Windows Server για τον Windows Server 2012 R2 ακολουθούν την Πολιτική Κύκλου Ζωής [Στοιχείου](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
-- windows
+  - windows
 policyType: component
 supportDates:
   start: 11/25/2013
   end: 10/10/2023
 releases:
-- version: Original Release
-  startDate: 11/25/2013
-  endDate: 10/10/2023
-content: "> [!TIP]\n> Αυτό το στοιχείο ακολουθεί τον κύκλο ζωής του γονικού προϊόντος του Windows Server 2012 R2.\n\n## <a name=\"links\"></a>Συνδέσεις \n* [Windows Server 2012 R2](/lifecycle/)"
+  - version: Original Release
+    startDate: 11/25/2013
+    endDate: 10/10/2023
+content: |+
+  > [!TIP]
+  > Αυτό το στοιχείο ακολουθεί τον κύκλο ζωής του γονικού προϊόντος του Windows Server 2012 R2.
+
+  ## <a name="links"></a>Συνδέσεις 
+  * [Windows Server 2012 R2](/lifecycle/)

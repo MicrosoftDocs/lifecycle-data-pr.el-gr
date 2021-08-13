@@ -3,27 +3,35 @@ metadata:
   title: Virtual Server 2005 R2
   description: Ο Virtual  Server 2005 R2 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/01/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 0d4c323a758219f240fc6efbc4ebcfc99e470241
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: el-GR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937928"
+  keywords: 'Enterprise,Standard'
 name: Virtual Server 2005 R2
-summary: "Ο Virtual Server 2005 R2 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.\n\nΑυτό ισχύει για τις ακόλουθες εκδόσεις: Enterprise, Standard\n\n> [!IMPORTANT]\n> Η υποστήριξη για αυτό το προϊόν έληξε. \n"
+summary: |
+  Ο Virtual Server 2005 R2 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
+
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Enterprise, Standard
+
+  > [!IMPORTANT]
+  > Η υποστήριξη για αυτό το προϊόν έληξε. 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 01/28/2006
   end: 01/12/2010
   extendedEnd: 01/13/2015
 releases:
-- version: Service Pack 1
-  startDate: 04/16/2007
-  endDate: 01/13/2015
-- version: Original Release
-  startDate: 01/28/2006
-  endDate: 07/08/2008
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση\n* Τυπική ροή εργασίας"
+  - version: Service Pack 1
+    startDate: 04/16/2007
+    endDate: 01/13/2015
+  - version: Original Release
+    startDate: 01/28/2006
+    endDate: 07/08/2008
+content: |
+
+  ## <a name="links"></a>Συνδέσεις 
+  * [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Εκδόσεις 
+  * Επιχείρηση
+  * Τυπική ροή εργασίας
