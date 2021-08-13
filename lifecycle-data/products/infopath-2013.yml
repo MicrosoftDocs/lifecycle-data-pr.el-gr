@@ -4,28 +4,30 @@ metadata:
   description: Το Infopath 2013 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/10/2020
   keywords: Standard
-  ms.openlocfilehash: 7cd0b91eef230b0f5820c953c57369a58940d719
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: el-GR
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002018"
 name: Infopath 2013
-summary: >+
+summary: |+
   Το Infopath 2013 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
-
 
   Αυτό ισχύει για τις ακόλουθες εκδόσεις: Τυπική ροή εργασίας
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 01/09/2013
   end: 07/13/2021
   extendedEnd: 07/14/2026
 releases:
-- version: Original Release
-  startDate: 01/09/2013
-  endDate: 07/14/2026
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Λεπτομέρειες υποστήριξης](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> Η υποστήριξη για το Microsoft InfoPath 2013 επεκτείνεται όπως φαίνεται, προκειμένου να διασφαλιστεί η συμβατότητα με τον SharePoint Server 2016.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Τυπική ροή εργασίας"
+  - version: Original Release
+    startDate: 01/09/2013
+    endDate: 07/14/2026
+content: |
+
+  ## <a name="links"></a>Συνδέσεις 
+  * [Λεπτομέρειες υποστήριξης](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)
+
+  > [!NOTE]
+  > Η υποστήριξη για το Microsoft InfoPath 2013 επεκτείνεται όπως φαίνεται, προκειμένου να διασφαλιστεί η συμβατότητα με τον SharePoint Server 2016.
+
+  ## <a name="editions"></a>Εκδόσεις 
+  * Τυπική ροή εργασίας

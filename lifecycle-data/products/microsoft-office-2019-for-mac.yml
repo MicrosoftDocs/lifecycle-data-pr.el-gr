@@ -3,28 +3,29 @@ metadata:
   title: Microsoft Office 2019 για Mac
   description: Το Microsoft Office 2019 για Mac ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/01/2020
-  keywords: Academic,Home and Business,Home and Student,Standard
-  ms.openlocfilehash: ec9caa375adfc5b23212e92160c6f3107344e1c6
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: el-GR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "930417"
+  keywords: 'Academic,Home and Business,Home and Student,Standard'
 name: Microsoft Office 2019 για Mac
-summary: >+
+summary: |+
   Το Microsoft Office 2019 για Mac ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
-
 
   Αυτό ισχύει για τις ακόλουθες εκδόσεις: Academic, Home και Business, Home και Student, Standard
 
 products:
-- office
+  - office
 policyType: fixed-mainstream-only
 supportDates:
   start: 09/24/2018
   end: 10/10/2023
 releases:
-- version: Original Release
-  startDate: 09/24/2018
-  endDate: 10/10/2023
-content: "\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Ακαδημαϊκό\n* Οικιακό και Επιχειρηματικό\n* Οικιακό και Φοιτητικό\n* Τυπική ροή εργασίας"
+  - version: Original Release
+    startDate: 09/24/2018
+    endDate: 10/10/2023
+content: |
+
+
+
+  ## <a name="editions"></a>Εκδόσεις 
+  * Ακαδημαϊκό
+  * Οικιακό και Επιχειρηματικό
+  * Οικιακό και Φοιτητικό
+  * Τυπική ροή εργασίας
