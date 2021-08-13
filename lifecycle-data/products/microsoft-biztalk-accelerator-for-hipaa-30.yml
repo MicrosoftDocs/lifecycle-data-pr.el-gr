@@ -3,29 +3,28 @@ metadata:
   title: Microsoft BizTalk Accelerator για HIPAA 3.0
   description: Ο Microsoft BizTalk Server Accelerator για HIPAA 3.0 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/01/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 402414833e6f07af15c0b2d94d5cf40a9ebd80a1
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: el-GR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "935264"
+  keywords: 'Enterprise,Standard'
 name: Microsoft BizTalk Accelerator για HIPAA 3.0
-summary: >+
+summary: |+
   Ο Microsoft BizTalk Accelerator για HIPAA 3.0 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
-
 
   Αυτό ισχύει για τις ακόλουθες εκδόσεις: Enterprise, Standard
 
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 12/28/2004
   end: 01/12/2010
   extendedEnd: 01/13/2015
 releases:
-- version: Original Release
-  startDate: 12/28/2004
-  endDate: 01/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση\n* Τυπική ροή εργασίας"
+  - version: Original Release
+    startDate: 12/28/2004
+    endDate: 01/13/2015
+content: |
+
+
+
+  ## <a name="editions"></a>Εκδόσεις 
+  * Επιχείρηση
+  * Τυπική ροή εργασίας

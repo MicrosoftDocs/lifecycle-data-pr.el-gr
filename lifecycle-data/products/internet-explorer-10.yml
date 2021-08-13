@@ -3,22 +3,26 @@ metadata:
   title: Internet Explorer 10
   description: Ο Internet Explorer 10 ακολουθεί την πολιτική κύκλου ζωής εξαρτήματος.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 1faf7eecca13c22c8c54ab7382dfcf21c637cb1f
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: el-GR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "854346"
 name: Internet Explorer 10
-summary: "Ο Internet Explorer 10 ακολουθεί την Πολιτική Κύκλου Ζωής [Εξαρτήματος](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy). \n\n\n"
+summary: |+
+  Ο Internet Explorer 10 ακολουθεί την Πολιτική Κύκλου Ζωής [Εξαρτήματος](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy). 
+
+
 products:
-- internet-explorer
+  - internet-explorer
 policyType: component
 supportDates:
   start: 10/30/2012
   end: 01/31/2020
 releases:
-- version: Original Release
-  startDate: 10/30/2012
-  endDate: 01/31/2020
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support)\n* [Συνήθεις ερωτήσεις για την πολιτική κύκλου ζωής του Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Επισκεφθείτε τις Συνήθεις ερωτήσεις για τον κύκλο ζωής του Internet Explorer για μια λίστα με τα υποστηριζόμενα λειτουργικά συστήματα και συνδυασμούς προγραμμάτων περιήγησης."
+  - version: Original Release
+    startDate: 10/30/2012
+    endDate: 01/31/2020
+content: |+
+
+  ## <a name="links"></a>Συνδέσεις 
+  * [Οδηγίες Μετεγκατάστασης](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support)
+  * [Συνήθεις ερωτήσεις για την πολιτική κύκλου ζωής του Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)
+
+  > [!NOTE]
+  > Επισκεφθείτε τις Συνήθεις ερωτήσεις για τον κύκλο ζωής του Internet Explorer για μια λίστα με τα υποστηριζόμενα λειτουργικά συστήματα και συνδυασμούς προγραμμάτων περιήγησης.

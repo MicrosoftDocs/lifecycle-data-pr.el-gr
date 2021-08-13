@@ -3,29 +3,28 @@ metadata:
   title: Microsoft Word 2010
   description: Το Microsoft Word 2010 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/01/2020
-  keywords: Home and Student,Standard
-  ms.openlocfilehash: 23a0866d6135a39d7b7895604cc2c3687c5f578f
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: el-GR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "929011"
+  keywords: 'Home and Student,Standard'
 name: Microsoft Word 2010
-summary: >+
+summary: |+
   Το Microsoft Word 2010 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
-
 
   Αυτό ισχύει για τις ακόλουθες εκδόσεις: Οικιακό και Φοιτητικό, Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 07/15/2010
   end: 10/13/2015
   extendedEnd: 10/13/2020
 releases:
-- version: Original Release
-  startDate: 07/15/2010
-  endDate: 10/13/2020
-content: "\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Οικιακό και Φοιτητικό\n* Τυπική ροή εργασίας"
+  - version: Original Release
+    startDate: 07/15/2010
+    endDate: 10/13/2020
+content: |
+
+
+
+  ## <a name="editions"></a>Εκδόσεις 
+  * Οικιακό και Φοιτητικό
+  * Τυπική ροή εργασίας

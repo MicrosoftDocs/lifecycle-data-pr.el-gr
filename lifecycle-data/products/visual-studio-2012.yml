@@ -3,35 +3,52 @@ metadata:
   title: Visual Studio 2012
   description: Το Visual Studio 2012 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/01/2020
-  keywords: Agents,Community 2013,Express for Web,Express for Windows 8,Express for Windows Desktop,IntelliTrace Collector,Microsoft Azure Tools,Premium,Professional,Remote Tools,Shell (Integrated),Shell (Isolated),SQL Server Data Tools,Team Explorer,Test Professional 2013,Ultimate,Visual C++ Redistributable,Web Tools Extensions
-  ms.openlocfilehash: 31ae5780a4e6f55abc3d232aafdd43fa70f32be2
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: el-GR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937484"
+  keywords: 'Agents,Community 2013,Express for Web,Express for Windows 8,Express for Windows Desktop,IntelliTrace Collector,Microsoft Azure Tools,Premium,Professional,Remote Tools,Shell (Integrated),Shell (Isolated),SQL Server Data Tools,Team Explorer,Test Professional 2013,Ultimate,Visual C++ Redistributable,Web Tools Extensions'
 name: Visual Studio 2012
-summary: >+
+summary: |+
   Το Visual Studio 2012 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
-
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Πράκτορες, Κοινότητα 2013, Express για Web, Express για Windows 8, Express για Windows Desktop, IntelliTrace Collector, Microsoft Azure Tools, Premium, Professional, Απομακρυσμένα εργαλεία, Shell (Ενσωματωμένο), Shell (Απομονωμένο), Εργαλεία SQL Server Data, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable, Web Tools Extensions
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Πράκτορες, Κοινότητα 2013, Express για Web, Express για Windows 8, Express για Windows Desktop, IntelliTrace Collector, Microsoft Azure Tools, Premium, Επαγγελματικό, Απομακρυσμένα εργαλεία, Shell (Integrated), Shell (Isolated), Εργαλεία SQL Server Data, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable, Web Tools Extensions
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 10/31/2012
   end: 01/09/2018
   extendedEnd: 01/10/2023
 releases:
-- version: Update 5
-  startDate: 08/21/2015
-  endDate: 01/10/2023
-- version: Update 4
-  startDate: 11/12/2013
-  endDate: 10/08/2019
-- version: Original Release
-  startDate: 10/31/2012
-  endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Κύκλος ζωής και Συντήρηση Προϊόντων του Visual Studio](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Πράκτορες\n* Κοινότητα 2013\n* Express για Web\n* Express για Windows 8\n* Express για επιφάνεια εργασίας Windows\n* IntelliTrace Collector\n* Εργαλεία Microsoft Azure\n* Premium\n* Professional\n* Απομακρυσμένα Eργαλεία\n* Κελί (Ενσωματωμένο)\n* Shell (Απομονωμένο)\n* Εργαλεία Δεδομένων SQL Server\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ Redistributable\n* Επεκτάσεις Εργαλείων Ιστού"
+  - version: Update 5
+    startDate: 08/21/2015
+    endDate: 01/10/2023
+  - version: Update 4
+    startDate: 11/12/2013
+    endDate: 10/08/2019
+  - version: Original Release
+    startDate: 10/31/2012
+    endDate: 01/10/2023
+content: |
+
+  ## <a name="links"></a>Συνδέσεις 
+  * [Κύκλος ζωής και Συντήρηση Προϊόντων του Visual Studio](/visualstudio/productinfo/vs-servicing-vs)
+
+
+  ## <a name="editions"></a>Εκδόσεις 
+  * Πράκτορες
+  * Κοινότητα 2013
+  * Εξπρές για τον Ιστό
+  * Express για Windows 8
+  * Εξπρές για την επιφάνεια εργασίας των Windows
+  * IntelliTrace Collector
+  * Εργαλεία Microsoft Azure
+  * Premium
+  * Επαγγελματικό
+  * Απομακρυσμένα Eργαλεία
+  * Κελί (Ενσωματωμένο)
+  * Shell (Απομονωμένο)
+  * Εργαλεία Δεδομένων SQL Server
+  * Team Explorer
+  * Test Professional 2013
+  * Ultimate
+  * Visual C++ Redistributable
+  * Επεκτάσεις Εργαλείων Ιστού
