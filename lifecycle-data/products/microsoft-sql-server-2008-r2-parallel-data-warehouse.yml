@@ -3,26 +3,20 @@ metadata:
   title: Παράλληλη Αποθήκη Δεδομένων του SQL Server 2008 R2
   description: Η Παράλληλη Αποθήκη Δεδομένων του Microsoft SQL Server 2008 R2 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 8296e0c784226bc26fbb70bc8fb62f9925fa648d
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: el-GR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "818197"
 name: Παράλληλη Αποθήκη Δεδομένων του SQL Server 2008 R2
-summary: >+
+summary: |+
   Η Παράλληλη Αποθήκη Δεδομένων του Microsoft SQL Server 2008 R2 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:
-- sql-server
+  - sql-server
 policyType: fixed
 supportDates:
   start: 11/09/2010
   end: 07/08/2014
   extendedEnd: 07/09/2019
 releases:
-- version: Original Release
-  startDate: 11/09/2010
-  endDate: 07/09/2019
-content: ''
+  - version: Original Release
+    startDate: 11/09/2010
+    endDate: 07/09/2019
+content: |+

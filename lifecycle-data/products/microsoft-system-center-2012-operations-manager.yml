@@ -3,29 +3,28 @@ metadata:
   title: Κεντρικό σύστημα Microsoft 2012 Operations Manager
   description: Η Διαχείριση Ρύθμισης Παραμέτρων του Κέντρου Συστήματος της Microsoft 2012 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 837eee5f41fd4a6fe7ae7bee9c04af085e831004
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: el-GR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "854404"
 name: Κεντρικό σύστημα Microsoft 2012 Operations Manager
-summary: >+
+summary: |+
   Η Διαχείριση Ρύθμισης Παραμέτρων του Κέντρου Συστήματος της Microsoft 2012 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:
-- msc
+  - msc
 policyType: fixed
 supportDates:
   start: 05/30/2012
   end: 07/11/2017
   extendedEnd: 07/12/2022
 releases:
-- version: Service Pack 1
-  startDate: 12/15/2012
-  endDate: 07/12/2022
-- version: Original Release
-  startDate: 05/30/2012
-  endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Κεντρικό σύστημα εγγράφων (documentation)](/system-center/#pivot=components&panel=components-all)\n* [Κεντρικό σύστημα Πόρων](https://www.microsoft.com/system-center/resources)"
+  - version: Service Pack 1
+    startDate: 12/15/2012
+    endDate: 07/12/2022
+  - version: Original Release
+    startDate: 05/30/2012
+    endDate: 01/14/2014
+content: |+
+
+  ## <a name="links"></a>Συνδέσεις 
+  * [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)
+  * [Κεντρικό σύστημα εγγράφων (documentation)](/system-center/#pivot=components&panel=components-all)
+  * [Κεντρικό σύστημα Πόρων](https://www.microsoft.com/system-center/resources)

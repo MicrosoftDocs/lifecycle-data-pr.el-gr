@@ -3,23 +3,25 @@ metadata:
   title: Microsoft Host Integration Server 2009
   description: Ο Microsoft Host Integration Server 2009 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 08b1c9c6b318e238412255c9008244cbd13c7605
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: el-GR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "818249"
 name: Microsoft Host Integration Server 2009
-summary: "Ο Microsoft Host Integration Server 2009 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.\n\n\n> [!IMPORTANT]\n> Η υποστήριξη για αυτό το προϊόν έληξε. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω. \n"
+summary: |
+  Ο Microsoft Host Integration Server 2009 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
+
+
+  > [!IMPORTANT]
+  > Η υποστήριξη για αυτό το προϊόν έληξε. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω. 
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 06/21/2009
   end: 07/08/2014
   extendedEnd: 07/09/2019
 releases:
-- version: Original Release
-  startDate: 06/21/2009
-  endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](https://blogs.msdn.microsoft.com/hostintegrationserver/2017/08/16/end-of-support-for-host-integration-server-2009/)"
+  - version: Original Release
+    startDate: 06/21/2009
+    endDate: 07/09/2019
+content: |+
+
+  ## <a name="links"></a>Συνδέσεις 
+  * [Οδηγίες Μετεγκατάστασης](https://blogs.msdn.microsoft.com/hostintegrationserver/2017/08/16/end-of-support-for-host-integration-server-2009/)

@@ -3,23 +3,25 @@ metadata:
   title: Wunderlist
   description: H Wunderlist ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
-  ms.openlocfilehash: dd978a839e950577c0854ee914df4114d50a9865
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: el-GR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "854265"
 name: Wunderlist
-summary: "Η Wunderlist ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.\n\n\n> [!IMPORTANT]\n> Η υποστήριξη για αυτό το προϊόν υπόκειται στους όρους απόκτησής του. Η υποστήριξη για αυτό το προϊόν έληξε. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω. \n"
+summary: |
+  Η Wunderlist ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
+
+
+  > [!IMPORTANT]
+  > Η υποστήριξη για αυτό το προϊόν υπόκειται στους όρους απόκτησής του. Η υποστήριξη για αυτό το προϊόν έληξε. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω. 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 06/02/2015
   end: 05/06/2020
   extendedEnd: 05/06/2020
 releases:
-- version: Original Release
-  startDate: 06/02/2015
-  endDate: 05/06/2020
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](https://www.wunderlist.com/blog/join-us-on-our-new-journey)"
+  - version: Original Release
+    startDate: 06/02/2015
+    endDate: 05/06/2020
+content: |+
+
+  ## <a name="links"></a>Συνδέσεις 
+  * [Οδηγίες Μετεγκατάστασης](https://www.wunderlist.com/blog/join-us-on-our-new-journey)

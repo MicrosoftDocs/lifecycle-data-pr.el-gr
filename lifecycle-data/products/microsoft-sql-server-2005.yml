@@ -3,45 +3,57 @@ metadata:
   title: Microsoft SQL Server 2005
   description: Ο Microsoft SQL Server 2005 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/01/2020
-  keywords: Compact,Developer,Embedded,Enterprise,Enterprise for Itanium-based Systems,Enterprise X64,Express,Express with Advanced Services,Standard,Standard for Itanium-based Systems,Standard X64,Workgroup
-  ms.openlocfilehash: ca451e6716bf5aed78c86dd83737d59a46a8203d
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: el-GR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "929751"
+  keywords: 'Compact,Developer,Embedded,Enterprise,Enterprise for Itanium-based Systems,Enterprise X64,Express,Express with Advanced Services,Standard,Standard for Itanium-based Systems,Standard X64,Workgroup'
 name: Microsoft SQL Server 2005
-summary: >
+summary: |
   Ο Microsoft SQL Server 2005 ακολουθεί την πολιτική [ Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
-
 
   Αυτό ισχύει για τις ακόλουθες εκδόσεις: Compact, Προγραμματιστής, Ενσωματωμένο, Επιχείρηση, Επιχείρηση για συστήματα βασισμένα σε Itanium, Επιχείρηση X64, Express, Express με προημένες υπηρεσίες, Standard, Standard με συστήματα βασισμένα σε Itanium, Standard X64, Ομάδα Εργασίας
 
-
   > [!IMPORTANT]
-
   > Η υποστήριξη για αυτό το προϊόν έληξε. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω.
 products:
-- sql-server
+  - sql-server
 policyType: fixed
 supportDates:
   start: 01/14/2006
   end: 04/12/2011
   extendedEnd: 04/12/2016
 releases:
-- version: Service Pack 4
-  startDate: 12/13/2010
-  endDate: 04/12/2016
-- version: Service Pack 3
-  startDate: 12/15/2008
-  endDate: 01/10/2012
-- version: Service Pack 2
-  startDate: 02/19/2007
-  endDate: 01/12/2010
-- version: Service Pack 1
-  startDate: 04/18/2006
-  endDate: 04/08/2008
-- version: Original Release
-  startDate: 01/14/2006
-  endDate: 07/10/2007
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Η συμπαγής έκδοση του Microsoft SQL Server 2005 κυκλοφόρησε στις 19 Φεβρουαρίου 2007.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Συμπαγής\n* Προγραμματιστής\n* Ενσωματωμένο\n* Επιχείρηση\n* Επιχείρηση για Συστήματα που βασίζονται σε Itanium\n* Επιχείρηση X64\n* Express\n* Εξπρές με Προηγμένες Υπηρεσίες\n* Τυπική ροή εργασίας\n* Πρότυπο για Συστήματα που βασίζονται σε Itanium\n* Τυπικό X64\n* Ομάδας εργασίας"
+  - version: Service Pack 4
+    startDate: 12/13/2010
+    endDate: 04/12/2016
+  - version: Service Pack 3
+    startDate: 12/15/2008
+    endDate: 01/10/2012
+  - version: Service Pack 2
+    startDate: 02/19/2007
+    endDate: 01/12/2010
+  - version: Service Pack 1
+    startDate: 04/18/2006
+    endDate: 04/08/2008
+  - version: Original Release
+    startDate: 01/14/2006
+    endDate: 07/10/2007
+content: |
+
+  ## <a name="links"></a>Συνδέσεις 
+  * [Οδηγίες Μετεγκατάστασης](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)
+  * [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > Η συμπαγής έκδοση του Microsoft SQL Server 2005 κυκλοφόρησε στις 19 Φεβρουαρίου 2007.
+
+  ## <a name="editions"></a>Εκδόσεις 
+  * Συμπαγής
+  * Προγραμματιστής
+  * Ενσωματωμένο
+  * Επιχείρηση
+  * Επιχείρηση για Συστήματα που βασίζονται σε Itanium
+  * Επιχείρηση X64
+  * Express
+  * Εξπρές με Προηγμένες Υπηρεσίες
+  * Τυπική ροή εργασίας
+  * Πρότυπο για Συστήματα που βασίζονται σε Itanium
+  * Τυπικό X64
+  * Ομάδας εργασίας
