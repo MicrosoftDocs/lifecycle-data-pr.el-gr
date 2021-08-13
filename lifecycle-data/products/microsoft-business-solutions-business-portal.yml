@@ -3,31 +3,29 @@ metadata:
   title: Επιχειρηματική πύλη επιχειρηματικών λύσεων της Microsoft
   description: Η Επιχειρηματική πύλη επιχειρηματικών λύσεων της Microsoft ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 08/19/2020
-  ms.openlocfilehash: 2b4116c3d6461616b1e36ab86d5606900be3ec6c
-  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: HT
-  ms.contentlocale: el-GR
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "904116"
 name: Επιχειρηματική πύλη επιχειρηματικών λύσεων της Microsoft
-summary: >+
+summary: |+
   Η Επιχειρηματική πύλη επιχειρηματικών λύσεων της Microsoft ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:
-- dynamics
+  - dynamics
 policyType: fixed-mainstream-only
 supportDates:
   start: 07/18/2003
   end: 01/08/2008
 releases:
-- version: Business Solutions Business Portal 2.5
-  startDate: 08/01/2004
-  endDate: 01/08/2008
-- version: Business Solutions Business Portal 2.0
-  startDate: 01/01/2004
-  endDate: 04/10/2007
-- version: Business Solutions Business Portal 1.2
-  startDate: 07/18/2003
-  endDate: 12/31/2004
-content: "\n\n> [!NOTE]\n> Η Επιχειρηματική πύλη επιχειρηματικών λύσεων της Microsoft 2.5 υποστηριζόταν μόνο όταν χρησιμοποιούνταν είτε με το Great Plains 8.0 είτε με το Solomon 6.0."
+  - version: Business Solutions Business Portal 2.5
+    startDate: 08/01/2004
+    endDate: 01/08/2008
+  - version: Business Solutions Business Portal 2.0
+    startDate: 01/01/2004
+    endDate: 04/10/2007
+  - version: Business Solutions Business Portal 1.2
+    startDate: 07/18/2003
+    endDate: 12/31/2004
+content: |+
+
+
+  > [!NOTE]
+  > Η Επιχειρηματική πύλη επιχειρηματικών λύσεων της Microsoft 2.5 υποστηριζόταν μόνο όταν χρησιμοποιούνταν είτε με το Great Plains 8.0 είτε με το Solomon 6.0.

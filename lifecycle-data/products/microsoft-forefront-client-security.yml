@@ -3,25 +3,25 @@ metadata:
   title: Microsoft Forefront Client Security
   description: Το Microsoft Forefront Client Security ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 08/28/2020
-  ms.openlocfilehash: 335ae81ffa4b7cb64352b19e7330765a4cac6c68
-  ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
-  ms.translationtype: HT
-  ms.contentlocale: el-GR
-  ms.lasthandoff: 08/28/2020
-  ms.locfileid: "924255"
 name: Microsoft Forefront Client Security
-summary: >+
+summary: |+
   Το Microsoft Forefront Client Security ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:
-- msc
+  - msc
 policyType: fixed
 supportDates:
   start: 08/02/2007
   extendedEnd: 07/14/2015
 releases:
-- version: Original Release
-  startDate: 08/02/2007
-  endDate: 07/14/2015
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [System Center Endpoint Protection](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)\n\n> [!NOTE]\n> Το Microsoft Forefront Client Security έχει διακοπεί από τις 14 Ιουλίου 2015. Οι ενημερώσεις ορισμού Antimalware και Antispyware δεν θα είναι πλέον διαθέσιμες μετά το τέλος της υποστήριξης για την έκδοση του προϊόντος. Αξιολογήστε το System Center Endpoint Protection ως αντικατάσταση."
+  - version: Original Release
+    startDate: 08/02/2007
+    endDate: 07/14/2015
+content: |+
+
+  ## <a name="links"></a>Συνδέσεις 
+  * [System Center Endpoint Protection](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)
+
+  > [!NOTE]
+  > Το Microsoft Forefront Client Security έχει διακοπεί από τις 14 Ιουλίου 2015. Οι ενημερώσεις ορισμού Antimalware και Antispyware δεν θα είναι πλέον διαθέσιμες μετά το τέλος της υποστήριξης για την έκδοση του προϊόντος. Αξιολογήστε το System Center Endpoint Protection ως αντικατάσταση.
