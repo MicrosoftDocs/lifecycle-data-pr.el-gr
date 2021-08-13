@@ -3,23 +3,22 @@ metadata:
   title: Microsoft Internet Information Services 7.0
   description: Το Microsoft Internet Information Services 7.0 ακολουθεί την Πολιτική Κύκλου Ζωής Στοιχείου.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 2db2bbc83343f99aea9be4749fa1fcd0aeb12220
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: el-GR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "818939"
 name: Microsoft Internet Information Services 7.0
-summary: >+
+summary: |+
   Το Microsoft Internet Information Services 7.0 ακολουθεί την Πολιτική Κύκλου Ζωής [Στοιχείου](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
-- windows
+  - windows
 policyType: component
 supportDates:
   start: 01/25/2007
 releases:
-- version: Original Release
-  startDate: 01/25/2007
-content: "> [!TIP]\n> Αυτή η έκδοση είναι γνωστή ως Στοιχείο που ακολουθεί τον Κύκλο Ζωής Υποστήριξης του γονικού Κύριου Προϊόντος, του Windows Server 2008\n\n## <a name=\"links\"></a>Συνδέσεις \n* [Windows Server 2008](/lifecycle/products/windows-server-2008)"
+  - version: Original Release
+    startDate: 01/25/2007
+content: |+
+  > [!TIP]
+  > Αυτή η έκδοση είναι γνωστή ως Στοιχείο που ακολουθεί τον Κύκλο Ζωής Υποστήριξης του γονικού Κύριου Προϊόντος, του Windows Server 2008
+
+  ## <a name="links"></a>Συνδέσεις 
+  * [Windows Server 2008](/lifecycle/products/windows-server-2008)

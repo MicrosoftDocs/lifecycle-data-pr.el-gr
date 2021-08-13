@@ -3,29 +3,22 @@ metadata:
   title: Microsoft Antigen
   description: Το Microsoft Antigen ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/10/2020
-  keywords: 9.0 for Exchange,Enterprise Manager 9.0,for SMTP Gateways,Spam Manager
-  ms.openlocfilehash: ab3c9aa07c1afe64cd5a98d0d6a885617221afc0
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: el-GR
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001981"
+  keywords: '9.0 for Exchange,Enterprise Manager 9.0,for SMTP Gateways,Spam Manager'
 name: Microsoft Antigen
-summary: >+
+summary: |+
   Το Microsoft Antigen ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
-
 
   Αυτό ισχύει για τις ακόλουθες εκδόσεις: 9.0 για το Exchange, Διαχείριση επιχειρήσεων 9.0, για πύλες SMTP, Διαχείριση ανεπιθύμητης αλληλογραφίας
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 07/17/2006
   end: 04/08/2014
   extendedEnd: 12/31/2015
 releases:
-- version: Original Release
-  startDate: 07/17/2006
-  endDate: 12/31/2015
-content: "\n\n> [!NOTE]\n> Ο οδικός χάρτης για τα προϊόντα ασφαλείας με την επωνυμία Forefront έχει αλλάξει. Αυτό το προϊόν διακόπτεται στις 31 Δεκεμβρίου 2015.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* 9.0 για Exchange\n* Enterprise Manager 9.0\n* για πύλες SMTP\n* Διαχείριση ανεπιθύμητης αλληλογραφίας\n"
+  - version: Original Release
+    startDate: 07/17/2006
+    endDate: 12/31/2015
+content: "\n\n> [!NOTE]\n> Ο οδικός χάρτης για τα προϊόντα ασφαλείας με την επωνυμία Forefront έχει αλλάξει.\_Αυτό το προϊόν διακόπτεται στις 31 Δεκεμβρίου 2015.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* 9.0 για Exchange\n* Enterprise Manager 9.0\n* για πύλες SMTP\n* Διαχείριση ανεπιθύμητης αλληλογραφίας\n"

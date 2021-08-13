@@ -3,35 +3,46 @@ metadata:
   title: 'Windows Server 2003 '
   description: Ο Windows Server 2003 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/01/2020
-  keywords: Datacenter (32-bit x86),Datacenter (x64),Datacenter for Itanium-Based Systems,Enterprise (32-Bit x86),Enterprise for Itanium-based Systems,Enterprise X64,Standard (32-bit x86),Web
-  ms.openlocfilehash: c11990954fd21dad1b968cf849bc9359008c9c07
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: el-GR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939593"
+  keywords: 'Datacenter (32-bit x86),Datacenter (x64),Datacenter for Itanium-Based Systems,Enterprise (32-Bit x86),Enterprise for Itanium-based Systems,Enterprise X64,Standard (32-bit x86),Web'
 name: 'Windows Server 2003 '
-summary: >+
+summary: |+
   Ο Windows Server 2003 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
-
 
   Αυτό ισχύει για τις ακόλουθες εκδόσεις: Κέντρο δεδομένων (32-bit x86), Κέντρο δεδομένων (x64), Κέντρο δεδομένων για συστήματα που βασίζονται σε Τεχνολογία Itanium, Για Επιχειρήσεις (32-Bit x86), Για Επιχειρήσεις για συστήματα που βασίζονται σε Τεχνολογία Itanium, Για Επιχειρήσεις X64, Standard (32-bit x86), Web
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 05/28/2003
   end: 07/13/2010
   extendedEnd: 07/14/2015
 releases:
-- version: Service Pack 2
-  startDate: 03/13/2007
-  endDate: 07/14/2015
-- version: Service Pack 1
-  startDate: 03/30/2005
-  endDate: 04/14/2009
-- version: Original Release
-  startDate: 05/28/2003
-  endDate: 04/10/2007
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Υποστηριζόμενες διαδρομές για αναβάθμιση από Windows Server 2003 σε Windows Server 2008](https://support.microsoft.com/el-gr/help/951041/supported-paths-for-upgrading-from-windows-server-2003-to-windows-serv)\n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Προετοιμασία υπολογιστών του Windows Server 2003 για μετεγκατάσταση](/azure/migrate/prepare-windows-server-2003-migration)\n\n> [!NOTE]\n> Τα συστήματα με βάση το itanium έχουν ημερομηνία έναρξης τη 19η Ιουνίου 2003.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Κέντρο δεδομένων (32-bit x86)\n* Κέντρο δεδομένων (x64)\n* Κέντρο δεδομένων για συστήματα που βασίζονται σε τεχνολογία Itanium\n* Για επιχειρήσεις (32-Bit x86)\n* Επιχείρηση για Συστήματα που βασίζονται σε Itanium\n* Επιχείρηση X64\n* Τυπικό (32-bit x86)\n* Ιστός"
+  - version: Service Pack 2
+    startDate: 03/13/2007
+    endDate: 07/14/2015
+  - version: Service Pack 1
+    startDate: 03/30/2005
+    endDate: 04/14/2009
+  - version: Original Release
+    startDate: 05/28/2003
+    endDate: 04/10/2007
+content: |
+
+  ## <a name="links"></a>Συνδέσεις 
+  * [Υποστηριζόμενες διαδρομές για αναβάθμιση από Windows Server 2003 σε Windows Server 2008](https://support.microsoft.com/help/951041/supported-paths-for-upgrading-from-windows-server-2003-to-windows-serv)
+  * [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)
+  * [Προετοιμασία υπολογιστών του Windows Server 2003 για μετεγκατάσταση](/azure/migrate/prepare-windows-server-2003-migration)
+
+  > [!NOTE]
+  > Τα συστήματα με βάση το itanium έχουν ημερομηνία έναρξης τη 19η Ιουνίου 2003.
+
+  ## <a name="editions"></a>Εκδόσεις 
+  * Κέντρο δεδομένων (32-bit x86)
+  * Κέντρο δεδομένων (x64)
+  * Κέντρο δεδομένων για συστήματα που βασίζονται σε τεχνολογία Itanium
+  * Για επιχειρήσεις (32-Bit x86)
+  * Επιχείρηση για Συστήματα που βασίζονται σε Itanium
+  * Επιχείρηση X64
+  * Τυπικό (32-bit x86)
+  * Ιστός

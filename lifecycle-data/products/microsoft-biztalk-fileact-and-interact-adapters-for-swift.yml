@@ -3,23 +3,20 @@ metadata:
   title: Προσαρμογείς FileAct και InterAct της Microsoft BizTalk για SWIFT
   description: Οι προσαρμογείς Microsoft BizTalk FileAct και InterAct για SWIFT ακολουθούν την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 654ca219f5eb9869d6bae2aaaef848a48af3560e
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: el-GR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "818621"
 name: Προσαρμογείς FileAct και InterAct της Microsoft BizTalk για SWIFT
-summary: "Οι Προσαρμογείς Microsoft BizTalk FileAct και InterAct για SWIFT ακολουθούν την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής. \n\n\n"
+summary: |+
+  Οι Προσαρμογείς Microsoft BizTalk FileAct και InterAct για SWIFT ακολουθούν την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής. 
+
+
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 04/10/2007
   end: 04/10/2012
   extendedEnd: 04/11/2017
 releases:
-- version: Original Release
-  startDate: 04/10/2007
-  endDate: 04/11/2017
-content: ''
+  - version: Original Release
+    startDate: 04/10/2007
+    endDate: 04/11/2017
+content: |+
