@@ -1,31 +1,39 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Storage Server 2008 Ενσωματωμένα
-  description: Ο Windows Storage Server 2008 Embedded ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
+  description: Ο Ενσωματωμένος Windows Storage Server 2008 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/01/2020
-  keywords: 32 Bit,64 Bit,Basic,Basic 32-Bit,Enterprise,Standard,Workgroup
-  ms.openlocfilehash: 6615fb87d3cf9d0ad0dabec14b5cb3b2fb52b8df
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: el-GR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939075"
+  keywords: '32 Bit,64 Bit,Basic,Basic 32-Bit,Enterprise,Standard,Workgroup'
 name: Windows Storage Server 2008 Ενσωματωμένα
-summary: >+
+summary: |+
   Ο Windows Storage Server 2008 Embedded ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
-
 
   Αυτό ισχύει για τις ακόλουθες εκδόσεις: 32 Bit, 64 Bit, Βασικό, Βασικό 32-Bit, Επιχείρηση, Standard, Ομάδα εργασίας
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 07/19/2009
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
-- version: Original Release
-  startDate: 07/19/2009
-  endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες μετεγκατάστασης](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Η υποστήριξη για αυτό το προϊόν έχει λήξει. Δείτε παρακάτω για οδηγίες μετεγκατάστασης.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* 32 Bit\n* 64 Bit\n* Βασικό\n* Βασικό 32-Bit\n* Επιχείρηση\n* Standard\n* Ομάδας εργασίας"
+  - version: Original Release
+    startDate: 07/19/2009
+    endDate: 07/12/2011
+content: |
+
+  ## <a name="links"></a>Συνδέσεις 
+  * [Οδηγίες Μετεγκατάστασης](/archive/blogs/storageserver/announcing-windows-storage-server-2016)
+
+  > [!NOTE]
+  > Η υποστήριξη για αυτό το προϊόν έχει λήξει. Δείτε παρακάτω για οδηγίες μετεγκατάστασης.
+
+  ## <a name="editions"></a>Εκδόσεις 
+  * 32 Bit
+  * 64 Bit
+  * Βασικό
+  * Βασικό 32-Bit
+  * Επιχείρηση
+  * Τυπική ροή εργασίας
+  * Ομάδας εργασίας

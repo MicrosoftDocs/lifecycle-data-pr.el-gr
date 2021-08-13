@@ -3,29 +3,33 @@ metadata:
   title: Workflow Manager 1.0
   description: Το Workflow Manager 1.0 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/10/2020
-  keywords: 
-  ms.openlocfilehash: 4fa17a4187f64e1ea2b46d8fdca61b81bbb7c7fa
-  ms.sourcegitcommit: 5c618c870f05989d24ebd3a61d98ce2302e85d3b
-  ms.translationtype: HT
-  ms.contentlocale: el-GR
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002670"
+  keywords: null
 name: Workflow Manager 1.0
-summary: >+
+summary: |+
   Το Workflow Manager 1.0 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
-
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Client, Standard
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Client, Πρότυπο
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 10/18/2012
   end: 01/09/2018
   extendedEnd: 01/10/2023
 releases:
-- version: Original Release
-  startDate: 10/18/2012
-  endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες Συντήρησης του SharePoint 2016](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [Πληροφορίες Συντήρησης του SharePoint 2013](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> Όταν το Workflow Manager είναι στοιχείο του SharePoint Server 2016 ή του SharePoint Server 2013, θα υποστηρίζεται σύμφωνα με τις ημερομηνίες λήξης της υποστήριξης της αντίστοιχης έκδοσης του SharePoint Server.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Υπολογιστής-πελάτης\n* Standard"
+  - version: Original Release
+    startDate: 10/18/2012
+    endDate: 01/10/2023
+content: |
+
+  ## <a name="links"></a>Συνδέσεις 
+  * [Πληροφορίες Συντήρησης του SharePoint 2016](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)
+  * [Πληροφορίες Συντήρησης του SharePoint 2013](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)
+
+  > [!NOTE]
+  > Όταν το Workflow Manager είναι στοιχείο του SharePoint Server 2016 ή του SharePoint Server 2013, θα υποστηρίζεται σύμφωνα με τις ημερομηνίες λήξης της υποστήριξης της αντίστοιχης έκδοσης του SharePoint Server.
+
+  ## <a name="editions"></a>Εκδόσεις 
+  * Υπολογιστής-πελάτης
+  * Τυπική ροή εργασίας

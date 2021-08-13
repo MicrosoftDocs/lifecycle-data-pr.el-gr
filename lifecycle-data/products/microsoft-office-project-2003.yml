@@ -3,33 +3,41 @@ metadata:
   title: Microsoft Office Project 2003
   description: Το Microsoft Office Project 2003 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/01/2020
-  keywords: Professional,Standard
-  ms.openlocfilehash: 5d27a4ac1b21778f175b31fd897a986ec8159342
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: el-GR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "932822"
+  keywords: 'Professional,Standard'
 name: Microsoft Office Project 2003
-summary: "Το Microsoft Office Project 2003 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.\n\nΑυτό ισχύει για τις ακόλουθες εκδόσεις: Επαγγελματικό, Standard\n\n> [!IMPORTANT]\n> Η υποστήριξη για αυτό το προϊόν έληξε. \n"
+summary: |
+  Το Microsoft Office Project 2003 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
+
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Επαγγελματικό, Standard
+
+  > [!IMPORTANT]
+  > Η υποστήριξη για αυτό το προϊόν έληξε. 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 11/17/2003
   end: 04/14/2009
   extendedEnd: 04/08/2014
 releases:
-- version: Service Pack 3
-  startDate: 09/17/2007
-  endDate: 04/08/2014
-- version: Service Pack 2
-  startDate: 09/26/2005
-  endDate: 10/14/2008
-- version: Service Pack 1
-  startDate: 07/27/2004
-  endDate: 10/10/2006
-- version: Original Release
-  startDate: 11/17/2003
-  endDate: 07/27/2005
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επαγγελματικό\n* Τυπική ροή εργασίας"
+  - version: Service Pack 3
+    startDate: 09/17/2007
+    endDate: 04/08/2014
+  - version: Service Pack 2
+    startDate: 09/26/2005
+    endDate: 10/14/2008
+  - version: Service Pack 1
+    startDate: 07/27/2004
+    endDate: 10/10/2006
+  - version: Original Release
+    startDate: 11/17/2003
+    endDate: 07/27/2005
+content: |
+
+  ## <a name="links"></a>Συνδέσεις 
+  * [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Εκδόσεις 
+  * Επαγγελματικό
+  * Τυπική ροή εργασίας

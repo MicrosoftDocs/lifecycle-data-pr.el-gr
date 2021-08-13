@@ -3,34 +3,34 @@ metadata:
   title: Παράλληλη Αποθήκη Δεδομένων του Microsoft SQL Server 2012 (Σύστημα Πλατφόρμας Analytics)
   description: Η Παράλληλη Αποθήκη Δεδομένων του Microsoft SQL Server 2012 (Σύστημα Πλατφόρμας Analytics) ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/12/2021
-  keywords: 
-  ms.openlocfilehash: b8b7ba18a9194156b247cc21091283d7b6e3af28
-  ms.sourcegitcommit: 1629a54febaf89d1050ce02280d58f9ec8736d8c
-  ms.translationtype: HT
-  ms.contentlocale: el-GR
-  ms.lasthandoff: 07/23/2021
-  ms.locfileid: "2172181"
+  keywords: null
 name: Παράλληλη Αποθήκη Δεδομένων του Microsoft SQL Server 2012 (Σύστημα Πλατφόρμας Analytics)
-summary: >+
+summary: |+
   Η Παράλληλη Αποθήκη Δεδομένων του Microsoft SQL Server 2012 (Σύστημα Πλατφόρμας Analytics) ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 
 
-
   > [!IMPORTANT]
-
   > Το τέλος της υποστήριξης για το Analytics Platform System έχει επεκταθεί από τις 8 Οκτωβρίου 2024 έως τις 31 Μαρτίου 2026.
 
 products:
-- sql-server
+  - sql-server
 policyType: fixed
 supportDates:
   start: 07/12/2013
   end: 10/08/2019
   extendedEnd: 03/31/2026
 releases:
-- version: Original Release
-  startDate: 07/12/2013
-  endDate: 10/08/2024
-content: "\n\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες Προϊόντος](https://www.microsoft.com/sql-server/analytics-platform-system)\n\n\n> [!NOTE]\n> Η Παράλληλη Αποθήκη Δεδομένων (PDW) του SQL Server 2012 μετονομάστηκε σε APS (Σύστημα Πλατφόρμας Analytics)."
+  - version: Original Release
+    startDate: 07/12/2013
+    endDate: 10/08/2024
+content: |+
+
+
+  ## <a name="links"></a>Συνδέσεις 
+  * [Πληροφορίες Προϊόντος](https://www.microsoft.com/sql-server/analytics-platform-system)
+
+
+  > [!NOTE]
+  > Η Παράλληλη Αποθήκη Δεδομένων (PDW) του SQL Server 2012 μετονομάστηκε σε APS (Σύστημα Πλατφόρμας Analytics).

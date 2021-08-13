@@ -3,28 +3,29 @@ metadata:
   title: WinTarget 2.0
   description: Το WinTarget 2.0 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/01/2020
-  keywords: Advanced,Standard
-  ms.openlocfilehash: 940b4d3c615a3e3f72bfa6a2a6e250154bcd5a57
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: el-GR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938742"
+  keywords: 'Advanced,Standard'
 name: WinTarget 2.0
-summary: >+
+summary: |+
   Το WinTarget 2.0 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
-
 
   Αυτό ισχύει για τις ακόλουθες εκδόσεις: Advanced, Standard
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 03/07/2006
   end: 01/08/2008
 releases:
-- version: Original Release
-  startDate: 03/07/2006
-  endDate: 01/08/2008
-content: "\n\n> [!NOTE]\n> Η υποστήριξη για αυτό το προϊόν υπόκειται στους όρους απόκτησής του.\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Advanced\n* Τυπική ροή εργασίας"
+  - version: Original Release
+    startDate: 03/07/2006
+    endDate: 01/08/2008
+content: |
+
+
+  > [!NOTE]
+  > Η υποστήριξη για αυτό το προϊόν υπόκειται στους όρους απόκτησής του.
+
+  ## <a name="editions"></a>Εκδόσεις 
+  * Advanced
+  * Τυπική ροή εργασίας

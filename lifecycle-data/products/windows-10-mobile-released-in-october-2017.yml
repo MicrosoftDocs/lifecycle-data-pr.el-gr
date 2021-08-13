@@ -1,31 +1,27 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 Mobile, κυκλοφόρησε τον Οκτώβριο 2017
-  description: Τα Windows 10 Mobile, που κυκλοφόρησαν τον Οκτώβριο του 2017 ακολουθούν την Πολιτική Σταθερού Κύκλου Ζωής.
+  title: 'Windows 10 Mobile, κυκλοφόρησε τον Οκτώβριο 2017'
+  description: 'Τα Windows 10 Mobile, που κυκλοφόρησαν τον Οκτώβριο του 2017 ακολουθούν την Πολιτική Σταθερού Κύκλου Ζωής.'
   ms.date: 07/28/2020
-  ms.openlocfilehash: 8b985e9de8f67c71a0a81c907664499b3cd303e2
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: HT
-  ms.contentlocale: el-GR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "869551"
-name: Windows 10 Mobile, κυκλοφόρησε τον Οκτώβριο 2017
-summary: >
+name: 'Windows 10 Mobile, κυκλοφόρησε τον Οκτώβριο 2017'
+summary: |
   Τα Windows 10 , που κυκλοφόρησαν τον Οκτώβριο του 2017 ακολουθούν την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-
   > [!IMPORTANT]
-
   > Η υποστήριξη για αυτό το προϊόν έληξε.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/17/2017
   end: 12/10/2019
   extendedEnd: 01/14/2020
 releases:
-- version: Original Release
-  startDate: 10/17/2017
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Συνήθεις ερωτήσεις για τον κύκλο ζωής του λειτουργικού συστήματος συσκευής](/lifecycle/faq/device-operating-systems)\n* [Η υποστήριξη του Windows 10 Mobile έληξε στις 10 Δεκεμβρίου 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)"
+  - version: Original Release
+    startDate: 10/17/2017
+content: |+
+
+  ## <a name="links"></a>Συνδέσεις 
+  * [Συνήθεις ερωτήσεις για τον κύκλο ζωής του λειτουργικού συστήματος συσκευής](/lifecycle/faq/device-operating-systems)
+  * [Η υποστήριξη του Windows 10 Mobile έληξε στις 10 Δεκεμβρίου 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)

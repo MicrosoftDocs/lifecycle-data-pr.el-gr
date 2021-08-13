@@ -1,24 +1,27 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Το Windows 10 Mobile για Επιχειρήσεις, που κυκλοφόρησε τον Αύγουστο του 2016
-  description: Τα Windows 10 Mobile Enterprise, που κυκλοφόρησαν τον Αύγουστο του 2016, ακολουθούν την Πολιτική σταθερού κύκλου ζωής.
+  title: 'Το Windows 10 Mobile για Επιχειρήσεις, που κυκλοφόρησε τον Αύγουστο του 2016'
+  description: 'Τα Windows 10 Mobile Enterprise, που κυκλοφόρησαν τον Αύγουστο του 2016, ακολουθούν την Πολιτική σταθερού κύκλου ζωής.'
   ms.date: 07/28/2020
-  ms.openlocfilehash: 4be5f436289a8bcbb309b5b3e9eea4c43abbec7c
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: el-GR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "854479"
-name: Το Windows 10 Mobile για Επιχειρήσεις, που κυκλοφόρησε τον Αύγουστο του 2016
-summary: "Τα Windows 10 Mobile Enterprise, που κυκλοφόρησαν τον Αύγουστο του 2016, ακολουθούν την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής. \n\n\n> [!IMPORTANT]\n> Η υποστήριξη για αυτό το προϊόν έληξε.\n"
+name: 'Το Windows 10 Mobile για Επιχειρήσεις, που κυκλοφόρησε τον Αύγουστο του 2016'
+summary: |
+  Τα Windows 10 Mobile Enterprise, που κυκλοφόρησαν τον Αύγουστο του 2016, ακολουθούν την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής. 
+
+
+  > [!IMPORTANT]
+  > Η υποστήριξη για αυτό το προϊόν έληξε.
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 08/16/2016
   end: 10/09/2018
 releases:
-- version: Original Release
-  startDate: 08/16/2016
-  endDate: 10/09/2018
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Συνήθεις ερωτήσεις για τον κύκλο ζωής του λειτουργικού συστήματος συσκευής](/lifecycle/faq/device-operating-systems)\n* [Η υποστήριξη του Windows 10 Mobile έληξε στις 10 Δεκεμβρίου 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)"
+  - version: Original Release
+    startDate: 08/16/2016
+    endDate: 10/09/2018
+content: |+
+
+  ## <a name="links"></a>Συνδέσεις 
+  * [Συνήθεις ερωτήσεις για τον κύκλο ζωής του λειτουργικού συστήματος συσκευής](/lifecycle/faq/device-operating-systems)
+  * [Η υποστήριξη του Windows 10 Mobile έληξε στις 10 Δεκεμβρίου 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)

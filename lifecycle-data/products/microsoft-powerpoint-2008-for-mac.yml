@@ -3,25 +3,19 @@ metadata:
   title: Microsoft PowerPoint 2008 για Mac
   description: Το Microsoft PowerPoint 2008 για Mac ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
-  ms.openlocfilehash: d562e552415d34d4ae5bdc7e18e9656925cbb705
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: el-GR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "818128"
 name: Microsoft PowerPoint 2008 για Mac
-summary: >+
+summary: |+
   Το Microsoft PowerPoint 2008 για Mac ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:
-- office
+  - office
 policyType: fixed-mainstream-only
 supportDates:
   start: 03/12/2008
   end: 04/09/2013
 releases:
-- version: Original Release
-  startDate: 03/12/2008
-  endDate: 04/09/2013
-content: ''
+  - version: Original Release
+    startDate: 03/12/2008
+    endDate: 04/09/2013
+content: |+
