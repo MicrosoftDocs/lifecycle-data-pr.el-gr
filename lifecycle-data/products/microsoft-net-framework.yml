@@ -2,23 +2,26 @@
 metadata:
   title: 'Microsoft .NET Framework '
   description: Το Microsoft .NET Framework ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής Εξαρτήματος.
-  ms.date: 04/26/2021
+  ms.date: 09/13/2021
   keywords: Entity Framework Core
-  ms.openlocfilehash: 8d6d645959c8da911aa7dead4718fb998116c8481890468df0f552c9edd8bd9a
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: f49285dd25e5227b9903b04ab1a7e82f720a3233
+  ms.sourcegitcommit: 997d3fcd1eb2b32835a349b558316fb0ae245510
   ms.translationtype: HT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2489558"
+  ms.lasthandoff: 09/15/2021
+  ms.locfileid: "3452627"
 name: 'Microsoft .NET Framework '
-summary: >
+summary: >+
   Το Microsoft .NET Framework ακολουθεί την Πολιτική Κύκλου Ζωής [Στοιχείου](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
+
+
 
 
 
   > [!IMPORTANT]
 
   > Το .NET Framework 4.5.2, 4.6 και 4.6.1 θα αποσυρθεί στις 26 Απριλίου 2022. Αυτές οι συγκεκριμένες κυκλοφορίες είχαν προηγουμένως υπογραφεί ψηφιακά χρησιμοποιώντας πιστοποιητικά Secure Hash Algorithm (SHA-1). Αυτός ο αλγόριθμος δεν θεωρείται πλέον ασφαλής. Οι πελάτες ενθαρρύνονται να μετακινηθούν στο SHA-2. Μεταβείτε [εδώ](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022) για να μάθετε περισσότερα.
+
 products:
 - dotnet
 policyType: component
@@ -50,6 +53,9 @@ releases:
 - version: .NET Framework 4.5
   startDate: 10/09/2012
   endDate: 01/12/2016
+- version: .NET Framework 4.0
+  startDate: 04/12/2010
+  endDate: 01/12/2016
 - version: .NET Framework 3.5 Service Pack 1
   startDate: 11/19/2007
   endDate: 01/09/2029
@@ -59,4 +65,4 @@ releases:
 - version: .NET Framework 2.0
   startDate: 02/17/2006
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Συνήθεις Ερωτήσεις για τον Κύκλο Ζωής - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Πληροφορίες Προϊόντος](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n* [Απόσυρση του .NET Framework 4.5.2, 4.6, 4.61](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022)\n\n> [!NOTE]\n> Το .NET Framework 3.5 Service Pack 1 (SP1) είναι ένα αυτόνομο προϊόν που ακολουθεί τη Σταθερή Πολιτική, ξεκινώντας από τα Windows 10 έκδοση 1809 και τον Windows Server 2019. Πριν από αυτό, το .NET Framework 3.5 SP1 θεωρείται στοιχείο του λειτουργικού συστήματος των Windows στο οποίο είναι εγκατεστημένο."
+content: "\n\n## <a name=\"links\"></a>Συνδέσεις \n* [Συνήθεις Ερωτήσεις για τον Κύκλο Ζωής - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Πληροφορίες Προϊόντος](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n* [Απόσυρση του .NET Framework 4.5.2, 4.6, 4.61](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022)\n\n\n> [!NOTE]\n> Το .NET Framework 3.5 Service Pack 1 (SP1) είναι ένα αυτόνομο προϊόν που ακολουθεί τη Σταθερή Πολιτική, ξεκινώντας από τα Windows 10 έκδοση 1809 και τον Windows Server 2019. Πριν από αυτό, το .NET Framework 3.5 SP1 θεωρείται στοιχείο του λειτουργικού συστήματος των Windows στο οποίο είναι εγκατεστημένο."
