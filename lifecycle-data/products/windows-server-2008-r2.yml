@@ -2,54 +2,40 @@
 metadata:
   title: Windows Server 2008 R2
   description: Ο Windows Server 2008 R2 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
-  ms.date: 04/23/2021
-  keywords: null
+  ms.date: 08/31/2021
+  keywords: 
+  ms.openlocfilehash: 0457a4bed39d146651578578c7e76dbb60d45ac3
+  ms.sourcegitcommit: b7b46fb942fa16a0d96d486f6b591e470c048157
+  ms.translationtype: HT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 09/21/2021
+  ms.locfileid: "3460567"
 name: Windows Server 2008 R2
-summary: |
-  Ο Windows Server 2008 R2 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
-
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Κέντρο δεδομένων, Επιχείρηση, HPC Edition, Itanium-Based Systems, Standard, Ιστός
-
-  > [!IMPORTANT]
-  > Η υποστήριξη για αυτό το προϊόν έληξε. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω. 
+summary: "Ο Windows Server 2008 R2 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.\n\n\nΑυτό ισχύει για τις ακόλουθες εκδόσεις: Κέντρο δεδομένων, Επιχείρηση, HPC Edition, Itanium-Based Systems, Standard, Ιστός\n\n\n> [!IMPORTANT]\n> Η υποστήριξη για αυτό το προϊόν έληξε. Ανατρέξτε στις οδηγίες μετεγκατάστασης παρακάτω. \n\n"
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
   start: 10/22/2009
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
-  - version: Extended Security Update Year 3
-    startDate: 01/11/2022
-    endDate: 01/10/2023
-  - version: Extended Security Update Year 2
-    startDate: 01/12/2021
-    endDate: 01/11/2022
-  - version: Extended Security Update Year 1
-    startDate: 01/14/2020
-    endDate: 01/12/2021
-  - version: Service Pack 1
-    startDate: 02/22/2011
-    endDate: 01/14/2020
-  - version: Original Release
-    startDate: 10/22/2009
-    endDate: 04/09/2013
-content: |
-  > [!TIP]
-  > Οι *Εκτεταμένες Ενημερώσεις Ασφαλείας (ESU) είναι διαθέσιμες για τις συγκεκριμένες εκδόσεις Datacenter, Standard, Enterprise και Embedded αυτού του προϊόντος, για έως και τρία χρόνια επιπλέον μετά τη λήξη υποστήριξης. Επικοινωνήστε με τον συνεργάτη ή την ομάδα λογαριασμών της Microsoft για να μάθετε περισσότερα. 
-
-  ## <a name="links"></a>Συνδέσεις 
-  * [Οδηγίες Μετεγκατάστασης](https://aka.ms/AA1ovn4)
-  * [Πληροφορίες Αναβάθμισης Διακομιστή](/windows-server/upgrade/upgrade-overview)
-  * [Πρόγραμμα Εκτεταμένης Ενημέρωσης Ασφαλείας (ESU)](/lifecycle/faq/extended-security-updates)
-  * [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)
-
-
-  ## <a name="editions"></a>Εκδόσεις 
-  * Κέντρο Δεδομένων
-  * Επιχείρηση
-  * Έκδοση HPC
-  * Συστήματα βασισμένα στο Itanium
-  * Τυπική ροή εργασίας
-  * Ιστός
+- version: Extended Security Update Year 4 (Azure only)
+  startDate: 01/11/2023
+  endDate: 01/09/2024
+- version: Extended Security Update Year 3
+  startDate: 01/12/2022
+  endDate: 01/10/2023
+- version: Extended Security Update Year 2
+  startDate: 01/13/2021
+  endDate: 01/11/2022
+- version: Extended Security Update Year 1
+  startDate: 01/14/2020
+  endDate: 01/12/2021
+- version: Service Pack 1
+  startDate: 02/22/2011
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 10/22/2009
+  endDate: 04/09/2013
+content: "> [!TIP]\n> Οι *Εκτεταμένες Ενημερώσεις Ασφαλείας (ESU) είναι διαθέσιμες για τις συγκεκριμένες εκδόσεις Datacenter, Standard, Enterprise και Embedded αυτού του προϊόντος, για έως και τρία χρόνια επιπλέον μετά τη λήξη υποστήριξης. Επικοινωνήστε με τον συνεργάτη ή την ομάδα λογαριασμών της Microsoft για να μάθετε περισσότερα. \n\n\n## <a name=\"links\"></a>Συνδέσεις \n* [Οδηγίες Μετεγκατάστασης](https://aka.ms/AA1ovn4)\n* [Πληροφορίες Αναβάθμισης Διακομιστή](/windows-server/upgrade/upgrade-overview)\n* [Πρόγραμμα Εκτεταμένης Ενημέρωσης Ασφαλείας (ESU)](/lifecycle/faq/extended-security-updates)\n* [Πολιτική του Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Κέντρο Δεδομένων\n* Επιχείρηση\n* Έκδοση HPC\n* Συστήματα βασισμένα στο Itanium\n* Τυπική ροή εργασίας\n* Ιστός"
