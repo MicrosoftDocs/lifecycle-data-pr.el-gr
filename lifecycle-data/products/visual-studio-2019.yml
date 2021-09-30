@@ -2,21 +2,21 @@
 metadata:
   title: Visual Studio 2019
   description: Το Visual Studio 2019 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
-  ms.date: 08/16/2021
+  ms.date: 09/20/2021
   keywords: 
-  ms.openlocfilehash: c7e4ddffbe5d190d4a67d9537e35e9fcf95bce8c
-  ms.sourcegitcommit: 0757165840b353e73bd33bcc287aec0d191c39cf
+  ms.openlocfilehash: e23223d9d0a238c2d9784b25ab84a2195705951c
+  ms.sourcegitcommit: b7b46fb942fa16a0d96d486f6b591e470c048157
   ms.translationtype: HT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 08/17/2021
-  ms.locfileid: "3099639"
+  ms.lasthandoff: 09/21/2021
+  ms.locfileid: "3460604"
 name: Visual Studio 2019
 summary: >+
   Το Visual Studio 2019 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Πράκτορες, Εργαλεία Κατασκευής, Κοινότητα, Επιχείρηση, για Mac, IntelliTrace Standalone Collector, εργαλεία Performance, Professional, Απομακρυσμένα εργαλεία, Team Explorer, Visual C++ Redistributable
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Core, Enterprise, Professional
 
 
 
@@ -43,4 +43,4 @@ releases:
 - version: Version 16.0
   startDate: 04/02/2019
   endDate: 01/12/2021
-content: "\n\n## <a name=\"links\"></a>Συνδέσεις \n* [Ανακοινώσεις ιστολογίου του Visual Studio](https://devblogs.microsoft.com/visualstudio/)\n* [Πληροφορίες Συντήρησης](/visualstudio/productinfo/vs-servicing-vs)\n* [Σελίδα Λήψης του Visual Studio 2019](https://my.visualstudio.com/Downloads?q=Visual%20Studio%202019)\n* [Σημειώσεις του Visual Studio 2019](/visualstudio/releases/2019/release-notes)\n\n\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Πράκτορες\n* Δημιουργία Εργαλείων\n* Κοινότητα\n* Επιχείρηση\n* Για Mac\n* IntelliTrace Standalone Collector\n* Εργαλεία Επιδόσεων\n* Επαγγελματικό\n* Απομακρυσμένα Eργαλεία\n* Team Explorer\n* Visual C++ Redistributable"
+content: "\n\n## <a name=\"links\"></a>Συνδέσεις \n* [Ανακοινώσεις ιστολογίου του Visual Studio](https://devblogs.microsoft.com/visualstudio/)\n* [Πληροφορίες Συντήρησης](/visualstudio/productinfo/vs-servicing-vs)\n* [Σελίδα Λήψης του Visual Studio 2019](https://my.visualstudio.com/Downloads?q=Visual%20Studio%202019)\n* [Σημειώσεις του Visual Studio 2019](/visualstudio/releases/2019/release-notes)\n\n\n> [!NOTE]\n> Οι εκδόσεις του Visual Studio 2019 των ακόλουθων στοιχείων αποστέλλονται και υποστηρίζονται ως μέρος του κύκλου ζωής του Visual Studio 2019: Πράκτορες, Εργαλεία Κατασκευής, Κοινότητα, Επιχείρηση, IntelliTrace Standalone Collector, Εκτελεστικά Εργαλεία, Απομακρυσμένα Εργαλεία, Team Explorer και Visual C++ Redistributable\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Κοινότητα\n* Επιχείρηση\n* Επαγγελματικό"
