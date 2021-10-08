@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server IoT 2022
+  description: Το Windows Server IoT 2022 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
+  ms.date: 09/30/2021
+  keywords: 
+  ms.openlocfilehash: 88410d389a0328a58d5df7cd5b20e279318fe968
+  ms.sourcegitcommit: 7c3fe4207bf2db7fe5db69c9c50fd1afb6070311
+  ms.translationtype: HT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 09/30/2021
+  ms.locfileid: "3508060"
+name: Windows Server IoT 2022
+summary: >+
+  Το Windows Server IoT 2022 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
+
+
+
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Datacenter, Standard, Υπηρεσία αποθήκευσης Standard, Υπηρεσία αποθήκευσης Workgroup, Telecommunications
+
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 08/18/2021
+  end: 10/13/2026
+  extendedEnd: 10/14/2031
+releases:
+- version: Original Release
+  startDate: 08/18/2021
+  endDate: 10/14/2031
+content: "\n\n## <a name=\"links\"></a>Συνδέσεις \n* [Συνήθεις ερωτήσεις για τον Κύκλο Ζωής - Προϊόντα των Windows](/lifecycle/faq/windows)\n\n\n> [!NOTE]\n> Το Microsoft Edge ακολουθεί την [Σύγχρονη Πολιτική Κύκλου Ζωής](https://docs.microsoft.com/lifecycle/policies/modern). Ανατρέξτε στην [τεκμηρίωση κύκλου ζωής](https://docs.microsoft.com/deployedge/microsoft-edge-support-lifecycle) του Edge για τον τρόπο με τον οποίο μπορείτε να διατηρήσετε ενημερωμένο και σε υποστήριξη αυτό το πρόγραμμα περιήγησης.\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Κέντρο Δεδομένων\n* Τυπική ροή εργασίας\n* Πρότυπη Υπηρεσία Αποθήκευσης\n* Υπηρεσία αποθήκευσης Ομάδας εργασίας\n* Τηλεπικοινωνίες"
