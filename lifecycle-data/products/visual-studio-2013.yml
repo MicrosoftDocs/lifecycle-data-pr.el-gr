@@ -2,20 +2,23 @@
 metadata:
   title: Visual Studio 2013
   description: Το Visual Studio 2013 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
-  ms.date: 09/01/2020
-  keywords: Agents,All,Community,Express for Web,Express for Windows,Express for Windows Desktop,IntelliTrace Collector,Modeling SDK,Multibyte MFC Library,Premium,Professional,Release Management,Remote Tools,SDK,Shell (Integrated),Shell (Isolated),Team Explorer,Test Professional,Ultimate,Visual C++ Redistributable,Web Tools Extensions
-  ms.openlocfilehash: be98b464a1f267f12c314361f99e1cd7b62cbd5b2fe52619cee9119917d437b2
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.date: 09/23/2021
+  keywords: 
+  ms.openlocfilehash: 6ae47f9d9b67de20ecd407da68c7b570ebfc14f5
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
   ms.translationtype: HT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2487190"
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509250"
 name: Visual Studio 2013
 summary: >+
   Το Visual Studio 2013 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Πράκτορες, Όλα, Κοινότητα, Εξπρές για τον Ιστό, Εξπρές για τα WIndows, Εξπρές για την επιφάνεια εργασίας των Windows, IntelliTrace Collector, Modeling SDK, Βιβλιοθήκη MFC multibyte, Premium, Επαγγελματικό, Release Management, Απομακρυσμένα Εργαλεία, SDK, Shell (απομονωμένο), Team Explorer, Test Professional, Ultimate, Visual C++ Redistributable, Eπεκτάσεις Eργαλείων Ιστού
+
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Community, Express για τον Ιστό, Express για τα Windows, Express για τα Windows Desktop, Premium, Professional, Release Management, Test Professional, Ultimate
+
+
 
 products:
 - vs
@@ -31,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες Συντήρησης](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Πράκτορες\n* Όλα\n* Κοινότητα\n* Εξπρές για τον Ιστό\n* Εξπρές για τα Windows\n* Εξπρές για την επιφάνεια εργασίας των Windows\n* IntelliTrace Collector\n* Modeling SDK\n* Βιβλιοθήκη Multibyte MFC \n* Premium\n* Επαγγελματικό\n* Release Management\n* Απομακρυσμένα Eργαλεία\n* SDK\n* Κελί (Ενσωματωμένο)\n* Shell (Απομονωμένο)\n* Team Explorer\n* Test Professional\n* Ultimate\n* Visual C++ Redistributable\n* Επεκτάσεις Εργαλείων Ιστού"
+content: "\n\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες Συντήρησης](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n> [!NOTE]\n> Οι εκδόσεις του Visual Studio 2013 με τα ακόλουθα στοιχεία αποστέλλονται και υποστηρίζονται ως μέρος του κύκλου ζωής του Visual Studio 2013: Πράκτορες, IntelliTrace Collector, Modeling SDK, Βιβλιοθήκη Multibyte MFC, Απομακρυσμένα Εργαλεία, SDK, Shell (Integrated), Shell (Isolated), Team Explorer, Visual C++ Redistributable, Επεκτάσεις Εργαλείων Ιστού\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Κοινότητα\n* Εξπρές για τον Ιστό\n* Εξπρές για τα Windows\n* Εξπρές για την επιφάνεια εργασίας των Windows\n* Premium\n* Επαγγελματικό\n* Release Management\n* Test Professional\n* Ultimate"

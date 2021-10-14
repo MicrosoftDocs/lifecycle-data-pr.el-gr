@@ -2,50 +2,36 @@
 metadata:
   title: Visual Studio 2015
   description: Το Visual Studio 2015 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
-  ms.date: 09/01/2020
-  keywords: 'Agents,Community,Enterprise,ESM,Express for Web,Express for Windows 10,Express for Windows Desktop,Modeling SDK,Professional,PSM,Release Management,Remote Tools,SDK,Shell (Integrated),Shell (Isolated),Test Professional,TPS,Visual C++ Redistributable'
+  ms.date: 10/04/2021
+  keywords: 
+  ms.openlocfilehash: 492f0646827d31ba0f4c2906f64915c2b22dffc0
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509287"
 name: Visual Studio 2015
-summary: |+
+summary: >+
   Το Visual Studio 2015 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Πράκτορες, Κοινότητα, Enterprise, Express για τον Ιστό, Express για τα Windows 10, Express για τα Windows Desktop, Modeling SDK, Professional, PSM, Διαχείριση, Απομακρυσμένα Εργαλεία, SDK, Shell (Ενσωματωμένο), Shell (Απομονωμένο), Test Professional, Visual C++ Redistributable
+
+
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Community, Enterprise, Express για τον Ιστό, Express για τα Windows 10, Express για τα Windows Desktop, Professional, Release Management, Test Professional
+
+
 
 products:
-  - vs
+- vs
 policyType: fixed
 supportDates:
   start: 07/20/2015
   end: 10/13/2020
   extendedEnd: 10/14/2025
 releases:
-  - version: Update 3
-    startDate: 06/27/2016
-    endDate: 10/14/2025
-  - version: Original Release
-    startDate: 07/20/2015
-    endDate: 10/14/2025
-content: |
-
-  ## <a name="links"></a>Συνδέσεις 
-  * [Πληροφορίες Συντήρησης](https://www.visualstudio.com/productinfo/vs-servicing-vs)
-
-
-  ## <a name="editions"></a>Εκδόσεις 
-  * Πράκτορες
-  * Κοινότητα
-  * Επιχείρηση
-  * ESM
-  * Εξπρές για τον Ιστό
-  * Express για τα Windows 10
-  * Εξπρές για την επιφάνεια εργασίας των Windows
-  * Modeling SDK
-  * Επαγγελματικό
-  * PSM
-  * Release Management
-  * Απομακρυσμένα Eργαλεία
-  * SDK
-  * Κελί (Ενσωματωμένο)
-  * Shell (Απομονωμένο)
-  * Test Professional
-  * TPS
-  * Visual C++ Redistributable
+- version: Update 3
+  startDate: 06/27/2016
+  endDate: 10/14/2025
+- version: Original Release
+  startDate: 07/20/2015
+  endDate: 10/14/2025
+content: "\n\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες συντήρησης για παλαιότερες εκδόσεις του Visual Studio](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n* [ Πολιτική του Service Pack](/lifecycle/faq/fixed-policy#what-is-the-lifecycle-policy-for-service-packs-)\n\n\n> [!NOTE]\n> Οι εκδόσεις του Visual Studio 2015 με τα ακόλουθα στοιχεία αποστέλλονται και υποστηρίζονται ως μέρος του κύκλου ζωής του Visual Studio 2015: Πράκτορες, ESM, Modeling SDK, PSM, Απομακρυσμένα Εργαλεία, SDK, Shell (Integrated), Shell (Isolated), TPS, Visual C++ Redistributable.\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Κοινότητα\n* Επιχείρηση\n* Εξπρές για τον Ιστό\n* Express για τα Windows 10\n* Εξπρές για την επιφάνεια εργασίας των Windows\n* Επαγγελματικό\n* Release Management\n* Test Professional"

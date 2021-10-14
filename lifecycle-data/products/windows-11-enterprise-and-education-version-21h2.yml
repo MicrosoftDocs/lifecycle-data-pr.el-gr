@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 11 Enterprise (για επιχειρήσεις) και για εκπαίδευση (Έκδοση 21H2)
+  description: Τα Windows 11 Enterprise και Education (Έκδοση 21H2) ακολουθούν τη Σύγχρονη Πολιτική Κύκλου Ζωής.
+  ms.date: 09/22/2021
+  keywords: 
+  ms.openlocfilehash: 8bccbb271d78ef9b03d0a2d9f92c78984e775f88
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509375"
+name: Windows 11 Enterprise (για επιχειρήσεις) και για εκπαίδευση (Έκδοση 21H2)
+summary: >+
+  Τα Windows 11 Enterprise (για επιχειρήσεις) και για Εκπαίδευση ακολουθούν τη [Σύγχρονη](/lifecycle/policies/modern) Πολιτική Κύκλου Ζωής.
+
+
+
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Εκπαίδευση, Επιχειρήσεις
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 10/04/2021
+  end: 10/08/2024
+releases:
+- version: Original Release
+  startDate: 10/04/2021
+  endDate: 10/08/2024
+content: "\n\n## <a name=\"links\"></a>Συνδέσεις \n* [Τα Windows ως υπηρεσία (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Συχνές ερωτήσεις για τον Κύκλο Ζωής - Windows](/lifecycle/faq/windows)\n* [Πρόσθετοι πόροι Windows](/windows/resources/)\n* [Windows 11 IoT Enterprise](/lifecycle/products/windows-11-iot-enterprise)\n* [Windows 11 Home (Οικιακό) και Pro](/lifecycle/products/windows-11-home-and-pro)\n\n\n> [!NOTE]\n> Εκτός εάν υπάρξει αναβολή, οι επόμενες ενημερώσεις δυνατοτήτων των Windows 11 μπορούν να εγκατασταθούν πριν από την αναφερόμενη ημερομηνία λήξης της Βασικής Υποστήριξης.\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Εκπαίδευση\n* Επιχείρηση"

@@ -2,53 +2,39 @@
 metadata:
   title: Visual Studio 2012
   description: Το Visual Studio 2012 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
-  ms.date: 09/01/2020
-  keywords: 'Agents,Community 2013,Express for Web,Express for Windows 8,Express for Windows Desktop,IntelliTrace Collector,Microsoft Azure Tools,Premium,Professional,Remote Tools,Shell (Integrated),Shell (Isolated),SQL Server Data Tools,Team Explorer,Test Professional 2013,Ultimate,Visual C++ Redistributable,Web Tools Extensions'
+  ms.date: 10/04/2021
+  keywords: 
+  ms.openlocfilehash: 9d4be228f6bc6fb4e6c418c13faa8886fcd045d1
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509176"
 name: Visual Studio 2012
-summary: |+
+summary: >+
   Το Visual Studio 2012 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
-  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Πράκτορες, Κοινότητα 2013, Express για Web, Express για Windows 8, Express για Windows Desktop, IntelliTrace Collector, Microsoft Azure Tools, Premium, Επαγγελματικό, Απομακρυσμένα εργαλεία, Shell (Integrated), Shell (Isolated), Εργαλεία SQL Server Data, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable, Web Tools Extensions
+
+
+  Αυτό ισχύει για τις ακόλουθες εκδόσεις: Express για τον Ιστό, Express για Windows Desktop, Premium, Professional, Team Explorer, Ultimate
+
+
 
 products:
-  - vs
+- vs
 policyType: fixed
 supportDates:
   start: 10/31/2012
   end: 01/09/2018
   extendedEnd: 01/10/2023
 releases:
-  - version: Update 5
-    startDate: 08/21/2015
-    endDate: 01/10/2023
-  - version: Update 4
-    startDate: 11/12/2013
-    endDate: 10/08/2019
-  - version: Original Release
-    startDate: 10/31/2012
-    endDate: 01/10/2023
-content: |
-
-  ## <a name="links"></a>Συνδέσεις 
-  * [Κύκλος ζωής και Συντήρηση Προϊόντων του Visual Studio](/visualstudio/productinfo/vs-servicing-vs)
-
-
-  ## <a name="editions"></a>Εκδόσεις 
-  * Πράκτορες
-  * Κοινότητα 2013
-  * Εξπρές για τον Ιστό
-  * Express για Windows 8
-  * Εξπρές για την επιφάνεια εργασίας των Windows
-  * IntelliTrace Collector
-  * Εργαλεία Microsoft Azure
-  * Premium
-  * Επαγγελματικό
-  * Απομακρυσμένα Eργαλεία
-  * Κελί (Ενσωματωμένο)
-  * Shell (Απομονωμένο)
-  * Εργαλεία Δεδομένων SQL Server
-  * Team Explorer
-  * Test Professional 2013
-  * Ultimate
-  * Visual C++ Redistributable
-  * Επεκτάσεις Εργαλείων Ιστού
+- version: Update 5
+  startDate: 08/21/2015
+  endDate: 01/10/2023
+- version: Update 4
+  startDate: 11/12/2013
+  endDate: 10/08/2019
+- version: Original Release
+  startDate: 10/31/2012
+  endDate: 01/10/2023
+content: "\n\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες συντήρησης για παλαιότερες εκδόσεις του Visual Studio](/visualstudio/releases/2019/servicing#support-for-older-versions-of-visual-studio)\n* [ Πολιτική του Service Pack](/lifecycle/faq/fixed-policy#what-is-the-lifecycle-policy-for-service-packs-)\n\n\n> [!NOTE]\n> Οι εκδόσεις του Visual Studio 2012 με τα ακόλουθα στοιχεία αποστέλλονται και υποστηρίζονται ως μέρος του κύκλου ζωής του Visual Studio 2012: Πράκτορες, IntelliTrace Collector, Εργαλεία Microsoft Azure, Απομακρυσμένα Εργαλεία, SDK, Shell (Integrated), Shell (Isolated), SQL Εργαλεία Δεδομένων Server, Team Explorer, Visual C++ Redistributable, Επεκτάσεις Εργαλείων Ιστού.\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Εξπρές για τον Ιστό\n* Εξπρές για την επιφάνεια εργασίας των Windows\n* Premium\n* Επαγγελματικό\n* Team Explorer\n* Ultimate"
