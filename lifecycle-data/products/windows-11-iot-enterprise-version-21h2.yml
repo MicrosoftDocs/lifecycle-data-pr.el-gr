@@ -2,14 +2,14 @@
 metadata:
   title: Windows 11 IoT Enterprise (Έκδοση 21H2)
   description: Τα Windows 11 IoT Enterprise (Έκδοση 21H2) ακολουθούν τη Σύγχρονη Πολιτική Κύκλου Ζωής.
-  ms.date: 09/23/2021
+  ms.date: 10/26/2021
   keywords: 
-  ms.openlocfilehash: 9a933ca28c406dbd125712266cae66a8f1ccb338
-  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.openlocfilehash: 54c4bc26956a13152fad262355c6ea9d61e1a186
+  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
   ms.translationtype: HT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 10/05/2021
-  ms.locfileid: "3509390"
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "3546597"
 name: Windows 11 IoT Enterprise (Έκδοση 21H2)
 summary: >+
   Τα Windows 11 IoT Enterprise (Έκδοση 21H2) ακολουθούν τη [Σύγχρονη](/lifecycle/policies/modern) Πολιτική Κύκλου Ζωής.
@@ -28,4 +28,4 @@ releases:
 - version: Original release (Version 21H2)
   startDate: 10/04/2021
   endDate: 10/08/2024
-content: "\n\n## <a name=\"links\"></a>Συνδέσεις \n* [Ξεκινώντας με το Windows 11 IoT Enterprise](https://aka.ms/Windows11IoTEnterprise)\n* [Τα Windows ως υπηρεσία (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Συχνές ερωτήσεις για τον Κύκλο Ζωής - Windows](/lifecycle/faq/windows)\n* [Πρόσθετοι πόροι Windows](/windows/resources/)\n* [Windows 11 Enterprise (για Επιχειρήσεις) και για Εκπαίδευση](/lifecycle/products/windows-11-enterprise-and-education)\n* [Windows 11 Home (Οικιακό) και Pro](/lifecycle/products/windows-11-home-and-pro)\n\n\n> [!NOTE]\n> Εκτός εάν υπάρξει αναβολή, οι επόμενες ενημερώσεις δυνατοτήτων των Windows 11 μπορούν να εγκατασταθούν πριν από την αναφερόμενη ημερομηνία λήξης της Βασικής Υποστήριξης."
+content: "\n\n## <a name=\"links\"></a>Συνδέσεις \n* [Ξεκινώντας με το Windows 11 IoT Enterprise](https://aka.ms/Windows11IoTEnterprise)\n* [Τα Windows ως υπηρεσία (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Συχνές ερωτήσεις για τον Κύκλο Ζωής - Windows](/lifecycle/faq/windows)\n* [Πρόσθετοι πόροι Windows](/windows/resources/)\n* [Windows 11 Enterprise (για Επιχειρήσεις) και για Εκπαίδευση](/lifecycle/products/windows-11-iot-enterprise-version-21h2)\n* [Windows 11 Home (Οικιακό) και Pro](/lifecycle/products/windows-11-home-and-pro-version-21h2)\n\n\n> [!NOTE]\n> Εκτός εάν υπάρξει αναβολή, οι επόμενες ενημερώσεις δυνατοτήτων των Windows 11 μπορούν να εγκατασταθούν πριν από την αναφερόμενη ημερομηνία λήξης της Βασικής Υποστήριξης."
