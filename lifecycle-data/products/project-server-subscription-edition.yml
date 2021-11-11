@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Συνδρομητική έκδοση Project Server
+  description: Η Συνδρομητική έκδοση του Project Server ακολουθεί τη Σύγχρονη πολιτική κύκλου ζωής.
+  ms.date: 10/19/2021
+  keywords: 
+  ms.openlocfilehash: 3775c728a11e4e8f85fd3866670d6ce7fcc5f808
+  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
+  ms.translationtype: HT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "3546804"
+name: Συνδρομητική έκδοση Project Server
+summary: >+
+  Η Συνδρομητική έκδοση του Project Server ακολουθεί τη [Σύγχρονη](/lifecycle/policies/modern) πολιτική κύκλου ζωής.
+
+
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 11/02/2021
+releases:
+- version: Original Release
+  startDate: 11/02/2021
+content: "\n\n\n\n> [!NOTE]\n> Ανατρέξτε στην τεκμηρίωση [προϊόντος](https://docs.microsoft.com/project/project-server-2013-and-2016) και [προγραμματιστή](https://docs.microsoft.com/office/dev/add-ins/project/)."

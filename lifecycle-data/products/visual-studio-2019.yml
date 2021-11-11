@@ -2,14 +2,14 @@
 metadata:
   title: Visual Studio 2019
   description: Το Visual Studio 2019 ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
-  ms.date: 09/20/2021
+  ms.date: 10/26/2021
   keywords: 
-  ms.openlocfilehash: e23223d9d0a238c2d9784b25ab84a2195705951c
-  ms.sourcegitcommit: b7b46fb942fa16a0d96d486f6b591e470c048157
+  ms.openlocfilehash: 0f9b64cda589aef8e2cee22444c63d61d955e158
+  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
   ms.translationtype: HT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 09/21/2021
-  ms.locfileid: "3460604"
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "3546708"
 name: Visual Studio 2019
 summary: >+
   Το Visual Studio 2019 ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
@@ -43,4 +43,4 @@ releases:
 - version: Version 16.0
   startDate: 04/02/2019
   endDate: 01/12/2021
-content: "\n\n## <a name=\"links\"></a>Συνδέσεις \n* [Ανακοινώσεις ιστολογίου του Visual Studio](https://devblogs.microsoft.com/visualstudio/)\n* [Πληροφορίες Συντήρησης](/visualstudio/productinfo/vs-servicing-vs)\n* [Σελίδα Λήψης του Visual Studio 2019](https://my.visualstudio.com/Downloads?q=Visual%20Studio%202019)\n* [Σημειώσεις του Visual Studio 2019](/visualstudio/releases/2019/release-notes)\n\n\n> [!NOTE]\n> Οι εκδόσεις του Visual Studio 2019 των ακόλουθων στοιχείων αποστέλλονται και υποστηρίζονται ως μέρος του κύκλου ζωής του Visual Studio 2019: Πράκτορες, Εργαλεία Κατασκευής, Κοινότητα, Επιχείρηση, IntelliTrace Standalone Collector, Εκτελεστικά Εργαλεία, Απομακρυσμένα Εργαλεία, Team Explorer και Visual C++ Redistributable\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Κοινότητα\n* Επιχείρηση\n* Επαγγελματικό"
+content: "\n\n## <a name=\"links\"></a>Συνδέσεις \n* [Ανακοινώσεις ιστολογίου του Visual Studio](https://devblogs.microsoft.com/visualstudio/)\n* [Πληροφορίες υποστήριξης και κύκλου ζωής](/visualstudio/releases/2019/servicing-vs2019)\n* [Σελίδα Λήψης του Visual Studio 2019](https://my.visualstudio.com/Downloads?q=Visual%20Studio%202019)\n* [Σημειώσεις του Visual Studio 2019](/visualstudio/releases/2019/release-notes)\n\n\n> [!NOTE]\n> Οι εκδόσεις του Visual Studio 2019 με τα ακόλουθα στοιχεία αποστέλλονται και υποστηρίζονται ως μέρος του κύκλου ζωής του Visual Studio 2019: Πράκτορες, Εργαλεία Κατασκευής, IntelliTrace Standalone Collector, Εργαλεία Απόδοσης, Απομακρυσμένα Εργαλεία, Team Explorer και Visual C++ Redistributable.\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Κοινότητα\n* Επιχείρηση\n* Επαγγελματικό"

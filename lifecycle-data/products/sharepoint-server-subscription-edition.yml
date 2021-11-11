@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Συνδρομητική έκδοση SharePoint Server
+  description: Η Συνδρομητική έκδοση του SharePoint Server ακολουθεί τη Σύγχρονη πολιτική κύκλου ζωής.
+  ms.date: 10/19/2021
+  keywords: 
+  ms.openlocfilehash: 3e5e5eb0b969e8d18a37532e4b5750be288bcebf
+  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
+  ms.translationtype: HT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "3546820"
+name: Συνδρομητική έκδοση SharePoint Server
+summary: >+
+  Η Συνδρομητική έκδοση του SharePoint Server ακολουθεί τη [Σύγχρονη](/lifecycle/policies/modern) πολιτική κύκλου ζωής.
+
+
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 11/02/2021
+releases:
+- version: Original Release
+  startDate: 11/02/2021
+content: "\n\n\n\n> [!NOTE]\n> Ανατρέξτε στην τεκμηρίωση [προϊόντος](https://docs.microsoft.com/sharepoint/sharepoint-server) και [προγραμματιστή](https://docs.microsoft.com/sharepoint/dev/)."
