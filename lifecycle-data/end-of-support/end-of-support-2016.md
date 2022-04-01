@@ -1,13 +1,13 @@
 ---
 title: Λήξη υποστήριξης των προϊόντων για το 2016
 description: Μάθετε ποια προϊόντα θα αποσυρθούν, και ποιων η υποστήριξη θα τερματισθεί ή θα μετακινηθούν από την κύρια υποστήριξη στην εκτεταμένη υποστήριξη το 2016.
-ms.date: 09/17/2021
-ms.openlocfilehash: 173d56e15247cd3bb3e31ece82f9aa2d05a54146
-ms.sourcegitcommit: 203d765be641181ebf7b895f783ce497a9568616
+ms.date: 01/14/2022
+ms.openlocfilehash: 02f886067fe5d4199a1f0e5f4505c6afa5cd6194
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "4028167"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117552"
 ---
 # <a name="products-ending-support-in-2016"></a>Η υποστήριξη των προϊόντων λήγει το 2016
 
@@ -20,13 +20,6 @@ ms.locfileid: "4028167"
 
 
 
-## <a name="release-end-of-servicing"></a>Ανακοίνωση τέλους συντήρησης
-
-Τα ακόλουθα προϊόντα και οι κυκλοφορίες, τα οποία διέπονται από την [Σύγχρονη Πολιτική](/lifecycle/policies/modern), θα φτάσουν στη λήξη υποστήριξης το 2016.
-
-| Προϊόν | Τέλος συντήρησης |
-| --- | --- |
-| [Microsoft Endpoint Configuration Manager, Έκδοση 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | Πέμπτη, 8 Δεκεμβρίου 2016 |
 
 
 ## <a name="products-reaching-end-of-support"></a>Λήξη υποστήριξης προϊόντος

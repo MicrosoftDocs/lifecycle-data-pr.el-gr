@@ -1,13 +1,13 @@
 ---
 title: Λήξη υποστήριξης των προϊόντων για το 2021
 description: Μάθετε ποια προϊόντα θα αποσυρθούν, και ποιων η υποστήριξη θα τερματισθεί ή θα μετακινηθούν από την κύρια υποστήριξη στην εκτεταμένη υποστήριξη το 2021.
-ms.date: 11/03/2021
-ms.openlocfilehash: a3404257f04c2f022e648e067f78204a220bd3fc
-ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+ms.date: 01/14/2022
+ms.openlocfilehash: e0be3c1d9300e53c4eb912b0f9347902948fb0f8
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 11/04/2021
-ms.locfileid: "4028338"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117478"
 ---
 # <a name="products-ending-support-in-2021"></a>Η υποστήριξη των προϊόντων λήγει το 2021
 
@@ -24,7 +24,7 @@ ms.locfileid: "4028338"
 
 | Προϊόν | Απόσυρση |
 | --- | --- |
-| [Πελάτης Προστασίας Πληροφοριών Azure](/lifecycle/products/azure-information-protection-client?branch=live)<br> | 31 Μαρτίου 2021 |
+| [Πρόγραμμα-πελάτης Προστασία Πληροφοριών Azure](/lifecycle/products/azure-information-protection-classic-client?branch=live)<br> | 31 Μαρτίου 2021 |
 | [Azure Dev Spaces](/lifecycle/products/azure-dev-spaces?branch=live)<br> | Σάββατο, 15 Μαΐου 2021 |
 | [Skype for Business Online](/lifecycle/products/skype-for-business-online?branch=live)<br> | Σάββατο, 31 Ιουλίου 2021 |
 | [Dynamics 365 Layout](/lifecycle/products/dynamics-365-layout?branch=live)<br> | Παρασκευή, 31 Δεκεμβρίου 2021 |
@@ -39,7 +39,7 @@ ms.locfileid: "4028338"
 | [Microsoft Endpoint Configuration Manager, Έκδοση 1906](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | Τρίτη, 26 Ιανουαρίου 2021 |
 | [Dynamics 365 Business Central εντός εγκαταστάσεων (Σύγχρονη Πολιτική), κύμα 2 κυκλοφορία 2019, έκδοση 15.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 13 Απριλίου 2021 |
 | [Windows 10 Enterprise και Education, Έκδοση 1803](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Enterprise και Education, Έκδοση 1809](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home και Pro, Έκδοση 1909](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, Έκδοση 1803](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows 10 IoT Enterprise, Έκδοση 1809](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, Έκδοση 1909](/lifecycle/products/windows-server?branch=live)<br> | 11 Μαΐου 2021 |
-| [Microsoft Endpoint Configuration Manager, Έκδοση 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | Σάββατο, 29 Μαΐου 2021 |
+| [Microsoft Endpoint Configuration Manager, Έκδοση 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br>[Microsoft Endpoint Configuration Manager, Έκδοση 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | Σάββατο, 29 Μαΐου 2021 |
 | [.NET Core 2.1 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | Σάββατο, 21 Αυγούστου 2021 |
 | [Microsoft Endpoint Configuration Manager, Έκδοση 2002](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | Παρασκευή, 1 Οκτωβρίου 2021 |
 | [Dynamics 365 Business Central εντός εγκαταστάσεων (Σύγχρονη Πολιτική), κύμα 1 κυκλοφορία 2020, έκδοση 16.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 12 Οκτωβρίου 2021 |

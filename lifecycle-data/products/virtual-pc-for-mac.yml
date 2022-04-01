@@ -3,23 +3,25 @@ metadata:
   title: Εικονικός υπολογιστής για Mac
   description: Το εικονικό PC για Mac ακολουθεί την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 07/28/2020
+  ms.openlocfilehash: 001a8a7f9854b5160bfa8afca63c1d90ade3710c
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4124175"
 name: Εικονικός υπολογιστής για Mac
-summary: |+
+summary: >+
   Τo εικονικό PC για Mac ακολουθεί την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
 products:
-  - windows
+- windows
 policyType: fixed-mainstream-only
 supportDates:
-  start: 11/12/2003
-  end: 04/13/2010
+  start: 2003-11-12T00:00:00.000-08:00
+  end: 2010-04-13T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 11/12/2003
-    endDate: 01/13/2009
-content: |+
-
-
-  > [!NOTE]
-  > Περιλαμβάνεται έκδοση 5.01, έκδοση 5.02, έκδοση 5.03, έκδοση 5.04, έκδοση 6.01, έκδοση 6.02, έκδοση 6.1, έκδοση αναβάθμισης 6.1.1, έκδοση 7, έκδοση 7.01
+- version: Original Release
+  startDate: 2003-11-12T00:00:00.000-08:00
+  endDate: 2009-01-13T22:59:59.999-08:00
+content: "\n\n> [!NOTE]\n> Περιλαμβάνεται έκδοση 5.01, έκδοση 5.02, έκδοση 5.03, έκδοση 5.04, έκδοση 6.01, έκδοση 6.02, έκδοση 6.1, έκδοση αναβάθμισης 6.1.1, έκδοση 7, έκδοση 7.01"

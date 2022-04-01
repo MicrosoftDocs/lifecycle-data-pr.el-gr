@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Υπηρεσίες Dynamics 365 Field
+  description: Οι υπηρεσίες Dynamics 365 Field ακολουθούν τη Σύγχρονη Πολιτική Κύκλου Ζωής.
+  ms.date: 2022/03/11
+  keywords: Xamarin, field service mobile, mobile
+  ms.openlocfilehash: 76b0b6832ddeb85a55d84e377c8d26482e7eb87d
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4156768"
+name: Υπηρεσίες Dynamics 365 Field
+summary: >+
+  Οι υπηρεσίες Dynamics 365 Field ακολουθούν τη [Σύγχρονη](/lifecycle/policies/modern) Πολιτική Κύκλου Ζωής.
+
+
+
+
+
+  > [!IMPORTANT]
+
+  > Έχετε υπόψη ότι η εφαρμογή Field Service Mobile (Xamarin) παλαιού τύπου αποσύρεται στις 30 Ιουνίου 2022. Οι πελάτες θα πρέπει να κάνουν μετεγκατάσταση στην εφαρμογή για κινητές συσκευές [Field Service (Dynamics 365)](https://docs.microsoft.com/dynamics365/field-service/mobile-2020-power-platform) πριν από τη συγκεκριμένη ημερομηνία. Για περισσότερες πληροφορίες, ανατρέξτε στο θέμα [Συνήθεις ερωτήσεις για το τέλος υποστήριξης της Υπηρεσίας Mobile Xamarin Field](https://docs.microsoft.com/dynamics365/field-service/activate-fs-mobile-app-license#faqs).
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 2016-05-02T00:00:00.000-08:00
+releases:
+- version: Original Release
+  startDate: 2016-05-02T00:00:00.000-08:00
+content: "\n\n## <a name=\"links\"></a>Συνδέσεις \n* [Πληροφορίες Προϊόντος](/dynamics365/field-service/overview)\n* [Πληροφορίες μετεγκατάστασης εφαρμογής Υπηρεσίες Dynamics 365 Field για κινητές συσκευές](https://aka.ms/fsmobile-adoption)"

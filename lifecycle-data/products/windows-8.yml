@@ -3,36 +3,32 @@ metadata:
   title: Windows 8
   description: Τα Windows 8 ακολουθούν την Πολιτική Σταθερού Κύκλου Ζωής.
   ms.date: 09/10/2020
-  keywords: 'Enterprise,Enterprise N,N,Pro with Media Center,Professional,Professional N,SL'
+  keywords: Enterprise,Enterprise N,N,Pro with Media Center,Professional,Professional N,SL
+  ms.openlocfilehash: 306854948c4f01e0b74492a3bf85ed183036f48c
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4147300"
 name: Windows 8
-summary: |
+summary: >
   Τα Windows 8 ακολουθούν την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
+
 
   Αυτό ισχύει για τις ακόλουθες εκδόσεις: Enterprise, Enterprise N, N, Pro με Media Center, Professional, Professional N, SL
 
+
   > [!IMPORTANT]
+
   > Η υποστήριξη για αυτό το προϊόν έληξε. Οι πελάτες πρέπει να μετακινηθούν στο Windows Embedded 8.1 για να παραμείνουν υποστηριζόμενοι.
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 10/30/2012
-  extendedEnd: 01/12/2016
+  start: 2012-10-30T00:00:00.000-08:00
+  extendedEnd: 2016-01-12T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 10/30/2012
-    endDate: 01/12/2016
-content: |
-
-  ## <a name="links"></a>Συνδέσεις 
-  * [Συνήθεις ερωτήσεις για τον Κύκλο Ζωής - Windows 8.1](/lifecycle/faq/windows#windows-81)
-
-
-  ## <a name="editions"></a>Εκδόσεις 
-  * Επιχείρηση
-  * Enterprise N
-  * Ν
-  * Pro με Media Center
-  * Επαγγελματικό
-  * Επαγγελματικό N
-  * SL
+- version: Original Release
+  startDate: 2012-10-30T00:00:00.000-08:00
+  endDate: 2016-01-12T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Συνήθεις ερωτήσεις για τον Κύκλο Ζωής - Windows 8.1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση\n* Enterprise N\n* Ν\n* Pro με Media Center\n* Επαγγελματικό\n* Επαγγελματικό N\n* SL"

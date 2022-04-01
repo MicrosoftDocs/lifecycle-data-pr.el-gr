@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Μηχανική Εκμάθηση Studio (κλασικό)
+  description: Η Μηχανική Εκμάθηση Studio (κλασικό) ακολουθεί τη Σύγχρονη Πολιτική Κύκλου Ζωής.
+  ms.date: 11/16/2021
+  keywords: 
+  ms.openlocfilehash: b81ff2080961ea0f8a1ae70a3b0a05fdbc2440e9
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4156850"
+name: Μηχανική Εκμάθηση Studio (κλασικό)
+summary: >+
+  Η Μηχανική Εκμάθηση Studio (κλασικό) ακολουθεί τη [Σύγχρονη](/lifecycle/policies/modern) Πολιτική Κύκλου Ζωής.
+
+
+
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 2015-05-18T00:00:00.000-08:00
+  end: 2024-08-31T22:59:59.999-08:00
+releases:
+- version: Original Release
+  startDate: 2015-05-18T00:00:00.000-08:00
+  endDate: 2024-08-31T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Συνδέσεις \n* [Μετεγκατάσταση στο Azure Μηχανική Εκμάθηση](/azure/machine-learning/migrate-overview)\n\n\n> [!NOTE]\n> Η Μηχανική Εκμάθηση Studio (κλασικό) θα αποσυρθεί στις 31 Αυγούστου 2024. Από την 1η Δεκεμβρίου 2021, οι πελάτες δεν θα μπορούν να δημιουργήσουν νέους πόρους στη Μηχανική Εκμάθηση Studio (κλασικό). Οι πελάτες θα πρέπει να πραγματοποιήσουν μετάβαση στο Azure Μηχανική Εκμάθηση πριν από τον Αύγουστο του 2024. Μεταβείτε [εδώ](https://docs.microsoft.com/azure/machine-learning/migrate-overview) για να μάθετε περισσότερα."

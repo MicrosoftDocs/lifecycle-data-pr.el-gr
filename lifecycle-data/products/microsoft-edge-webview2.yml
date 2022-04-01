@@ -4,12 +4,12 @@ metadata:
   description: Το Microsoft Edge WebView2 ακολουθεί τη Σύγχρονη Πολιτική Κύκλου Ζωής.
   ms.date: 03/31/2021
   keywords: 
-  ms.openlocfilehash: a8e34517586ed20a7a7c58e98d7a94ef0309710094f9b5ef28a95c7d49217726
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 017a5a2a796255f2f3dfd35315c54a1421826948
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2484674"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4153590"
 name: Microsoft Edge WebView2
 summary: >+
   Το Microsoft Edge WebView2 ακολουθεί τη [Σύγχρονη](/lifecycle/policies/modern) Πολιτική Κύκλου Ζωής.
@@ -19,8 +19,8 @@ products:
 - microsoft-edge
 policyType: modern-online
 supportDates:
-  start: 10/19/2020
+  start: 2020-10-19T00:00:00.000-08:00
 releases:
 - version: Original Release
-  startDate: 10/19/2020
+  startDate: 2020-10-19T00:00:00.000-08:00
 content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Διανομή WebView2](/microsoft-edge/webview2/concepts/distribution)\n\n> [!NOTE]\n> Το WebView2 ακολουθεί τον ίδιο κύκλο ζωής όπως το [Microsoft Edge](https://docs.microsoft.com/lifecycle/products/microsoft-edge)."

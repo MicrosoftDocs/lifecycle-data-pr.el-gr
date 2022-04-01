@@ -1,13 +1,13 @@
 ---
 title: Λήξη υποστήριξης των προϊόντων για το 2028
 description: Μάθετε ποια προϊόντα θα αποσυρθούν, και ποιων η υποστήριξη θα τερματισθεί ή θα μετακινηθούν από την κύρια υποστήριξη στην εκτεταμένη υποστήριξη το 2028.
-ms.date: 08/11/2021
-ms.openlocfilehash: d9483ab57d5626bb7db3be75fd915951aa68adf1
-ms.sourcegitcommit: 5e9349227c409d98c77eb151f27be486fb55a00c
+ms.date: 01/26/2022
+ms.openlocfilehash: a8b3c4f4e6e462fa015bad7b2c1b609d44d9838b
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "4027976"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4116960"
 ---
 # <a name="products-ending-support-in-2028"></a>Η υποστήριξη των προϊόντων λήγει το 2028
 
@@ -39,3 +39,11 @@ ms.locfileid: "4027976"
 | [Dynamics SL 2018](/lifecycle/products/dynamics-sl-2018?branch=live)<br> | Τρίτη, 11 Ιουλίου 2028 |
 
 
+## <a name="products-moving-to-extended-support"></a>Προϊόντα που μετακινούνται στην Εκτεταμένη Υποστήριξη
+
+Τα ακόλουθα προϊόντα θα μετακινηθούν από την Κύρια στην Εκτεταμένη Υποστήριξη το 2028. Η Εκτεταμένη Υποστήριξη περιλαμβάνει ενημερώσεις ασφαλείας χωρίς κόστος, καθώς και επί πληρωμή ενημερωμένες εκδόσεις και υποστήριξη που δε σχετίζονται με την ασφάλεια. Επιπλέον, η Microsoft δεν θα δεχθεί αιτήσεις για αλλαγές σχεδίασης ή νέες δυνατότητες κατά τη φάση εκτεταμένης υποστήριξης.
+
+| Προϊόν | Λήξη βασικής υποστήριξης |
+| --- | --- |
+| [BizTalk Server 2020](/lifecycle/products/biztalk-server-2020?branch=live)<br> | Τρίτη, 11 Απριλίου 2028 |
+| [Microsoft Host Integration Server 2020](/lifecycle/products/microsoft-host-integration-server-2020?branch=live)<br> | Τρίτη, 11 Ιουλίου 2028 |

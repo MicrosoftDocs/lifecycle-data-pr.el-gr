@@ -3,29 +3,26 @@ metadata:
   title: Dynamics 365 για Χρηματοδότηση και Λειτουργίες
   description: Το Dynamics 365 για Χρηματοδότηση και Λειτουργίες ακολουθεί τη Σύγχρονη Πολιτική Κύκλου Ζωής.
   ms.date: 09/29/2020
-  keywords: null
+  keywords: 
+  ms.openlocfilehash: 5792f8d75e78d9e8bb14db6f7039fd2f32f489fc
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4122473"
 name: Dynamics 365 για Χρηματοδότηση και Λειτουργίες
-summary: |+
+summary: >+
   Το Dynamics 365 για Χρηματοδότηση και Λειτουργίες ακολουθεί τη [Σύγχρονη](/lifecycle/policies/modern) Πολιτική Κύκλου Ζωής.
+
 
   Αυτό ισχύει για τις ακόλουθες εκδόσεις: Επιχείρηση
 
 products:
-  - dynamics
+- dynamics
 policyType: modern-online
 supportDates:
-  start: 02/19/2016
+  start: 2016-02-19T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 02/19/2016
-content: |
-
-  ## <a name="links"></a>Συνδέσεις 
-  * [Χάρτης του Microsoft Dynamics 365](https://roadmap.dynamics.com/)
-  * [Δυνατότητες που καταργήθηκαν ή απορρίφθηκαν](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/deprecated-features?toc=/dynamics365/finance/toc.json%22%20%5Cl%20%22us-payroll-tax-updates)
-  * [Πληροφορίες Συντήρησης](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)
-  * [Απαιτήσεις συστήματος](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)
-
-
-  ## <a name="editions"></a>Εκδόσεις 
-  * Επιχείρηση
+- version: Original Release
+  startDate: 2016-02-19T00:00:00.000-08:00
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Χάρτης του Microsoft Dynamics 365](https://roadmap.dynamics.com/)\n* [Δυνατότητες που καταργήθηκαν ή απορρίφθηκαν](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/deprecated-features?toc=/dynamics365/finance/toc.json%22%20%5Cl%20%22us-payroll-tax-updates)\n* [Πληροφορίες Συντήρησης](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)\n* [Απαιτήσεις συστήματος](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση"

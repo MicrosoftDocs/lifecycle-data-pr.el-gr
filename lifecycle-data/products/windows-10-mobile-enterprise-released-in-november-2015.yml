@@ -1,27 +1,31 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Windows 10 Mobile Enterprise, που κυκλοφόρησε το Νοέμβριο 2015'
-  description: 'Τα Windows 10 Mobile Enterprise, που κυκλοφόρησαν τον Νοέμβριο του 2015, ακολουθούν την Πολιτική σταθερού κύκλου ζωής.'
+  title: Windows 10 Mobile Enterprise, που κυκλοφόρησε το Νοέμβριο 2015
+  description: Τα Windows 10 Mobile Enterprise, που κυκλοφόρησαν τον Νοέμβριο του 2015, ακολουθούν την Πολιτική σταθερού κύκλου ζωής.
   ms.date: 07/28/2020
-name: 'Windows 10 Mobile Enterprise, που κυκλοφόρησε το Νοέμβριο 2015'
-summary: |
+  ms.openlocfilehash: cd23d7e7e8b81885c25dfa1c2eadecb484519190
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: el-GR
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4118995"
+name: Windows 10 Mobile Enterprise, που κυκλοφόρησε το Νοέμβριο 2015
+summary: >
   Τα Windows 10 Mobile Enterprise, που κυκλοφόρησαν τον Νοέμβριο του 2015, ακολουθούν την πολιτική [σταθερού](/lifecycle/policies/fixed) κύκλου ζωής.
 
 
+
   > [!IMPORTANT]
+
   > Η υποστήριξη για αυτό το προϊόν έληξε.
 products:
-  - windows
+- windows
 policyType: fixed-mainstream-only
 supportDates:
-  start: 11/16/2015
-  end: 01/09/2018
+  start: 2015-11-16T00:00:00.000-08:00
+  end: 2018-01-09T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 11/16/2015
-    endDate: 01/09/2018
-content: |+
-
-  ## <a name="links"></a>Συνδέσεις 
-  * [Συνήθεις ερωτήσεις για τον κύκλο ζωής του λειτουργικού συστήματος συσκευής](/lifecycle/faq/device-operating-systems)
-  * [Η υποστήριξη του Windows 10 Mobile έληξε στις 10 Δεκεμβρίου 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)
+- version: Original Release
+  startDate: 2015-11-16T00:00:00.000-08:00
+  endDate: 2018-01-09T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Συνήθεις ερωτήσεις για τον κύκλο ζωής του λειτουργικού συστήματος συσκευής](/lifecycle/faq/device-operating-systems)\n* [Η υποστήριξη του Windows 10 Mobile έληξε στις 10 Δεκεμβρίου 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)"
