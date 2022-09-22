@@ -2,26 +2,16 @@
 metadata:
   title: Microsoft Edge
   description: Το Microsoft Edge ακολουθεί τη Σύγχρονη Πολιτική Κύκλου Ζωής.
-  ms.date: 11/03/2021
+  ms.date: 08/08/2022
   keywords: IE; browser; Internet Explorer
-  ms.openlocfilehash: cba75253b99e6f2c40c3f38da3b808578facaa2e
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.openlocfilehash: eee90516a33aedeb20b404db7362088a5f1031d3
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4147744"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518489"
 name: Microsoft Edge
-summary: >+
-  Το Microsoft Edge ακολουθεί τη [Σύγχρονη](/lifecycle/policies/modern) Πολιτική Κύκλου Ζωής.
-
-
-
-
-
-  > [!IMPORTANT]
-
-  > Λάβετε υπόψη ότι η υποστήριξη για την έκδοση παλαιού τύπου αυτού του προϊόντος λήγει στις 9 Μαρτίου 2021. Μεταβείτε [εδώ](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) για να μάθετε περισσότερα.
-
+summary: "Το Microsoft Edge ακολουθεί τη [Σύγχρονη](/lifecycle/policies/modern) Πολιτική Κύκλου Ζωής.\n\n\n\n\n> [!IMPORTANT]\n> Το Microsoft Edge θα συνεχίσει να υποστηρίζεται στα Windows 7 και τον Windows Server 2008 R2 μέχρι τις 15 Ιανουαρίου 2023. Η Microsoft συνιστά στους πελάτες να μετακινούνται σε ένα υποστηριζόμενο λειτουργικό σύστημα, όπως τα Windows 10. Μεταβείτε [εδώ](https://docs.microsoft.com/deployedge/microsoft-edge-supported-operating-systems) για να μάθετε περισσότερα. \n\n"
 products:
 - microsoft-edge
 policyType: modern-on-prem
@@ -30,4 +20,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 2020-01-15T00:00:00.000-08:00
-content: "\n\n## <a name=\"links\"></a>Συνδέσεις \n* [Λειτουργικά συστήματα που υποστηρίζονται από τον Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)\n* [Νέοι πόροι για την επιτάχυνση της μετάβασης στο Edge](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [Συνήθεις ερωτήσεις για τον κύκλο ζωής - Internet Explorer και Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Πολιτική κύκλου Ζωής του Microsoft Edge](/deployedge/microsoft-edge-support-lifecycle)"
+content: "\n\n## <a name=\"links\"></a>Συνδέσεις \n* [Επισκόπηση των καναλιών σέρβις του Microsoft Edge](/deployedge/microsoft-edge-channels)\n* [Λειτουργικά συστήματα που υποστηρίζονται από τον Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)\n* [Νέοι πόροι για την επιτάχυνση της μετάβασης στο Edge](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [Συνήθεις ερωτήσεις για τον κύκλο ζωής - Internet Explorer και Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Πολιτική κύκλου Ζωής του Microsoft Edge](/deployedge/microsoft-edge-support-lifecycle)\n\n\n> [!NOTE]\n> Λάβετε υπόψη ότι η υποστήριξη για την έκδοση παλαιού τύπου αυτού του προϊόντος λήγει στις 9 Μαρτίου 2021. Μεταβείτε [εδώ](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) για να μάθετε περισσότερα."

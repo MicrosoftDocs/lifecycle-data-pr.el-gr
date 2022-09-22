@@ -1,13 +1,13 @@
 ---
 title: Λήξη υποστήριξης των προϊόντων για το 2019
 description: Μάθετε ποια προϊόντα θα αποσυρθούν, και ποιων η υποστήριξη θα τερματισθεί ή θα μετακινηθούν από την κύρια υποστήριξη στην εκτεταμένη υποστήριξη το 2019.
-ms.date: 10/18/2021
-ms.openlocfilehash: 8897f8ee06e300688a7ed3680a67f28727d9be00
-ms.sourcegitcommit: dac122fba5780fbedce4e9575efe921fffde28c3
+ms.date: 07/26/2022
+ms.openlocfilehash: 22b7432a5180f392bf343c5fae25f83da39a9753
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 10/19/2021
-ms.locfileid: "4028306"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518230"
 ---
 # <a name="products-ending-support-in-2019"></a>Η υποστήριξη των προϊόντων λήγει το 2019
 
@@ -24,7 +24,6 @@ ms.locfileid: "4028306"
 
 | Προϊόν | Απόσυρση |
 | --- | --- |
-| [Azure Scheduler](/lifecycle/products/azure-scheduler?branch=live)<br> | Δευτέρα, 30 Σεπτεμβρίου 2019 |
 | [HockeyApp](/lifecycle/products/hockeyapp?branch=live)<br> | Σάββατο, 16 Νοεμβρίου 2019 |
 
 
@@ -34,6 +33,7 @@ ms.locfileid: "4028306"
 
 | Προϊόν | Τέλος συντήρησης |
 | --- | --- |
+| [PowerShell, PowerShell Core 6.0](/lifecycle/products/powershell?branch=live)<br> | Τετάρτη, 13 Φεβρουαρίου 2019 |
 | [Visual Studio για Mac, Visual Studio 2017 για Mac](/lifecycle/products/visual-studio-for-mac?branch=live)<br> | Παρασκευή, 8 Μαρτίου 2019 |
 | [Windows 10 Enterprise (για επιχειρήσεις) και για Εκπαίδευση, Έκδοση 1607](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home (οικιακό) και Pro, Έκδοση 1709](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Core, Έκδοση 1709](/lifecycle/products/windows-10-iot-core?branch=live)<br>[Windows 10 IoT Enterprise, Έκδοση 1607](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, Έκδοση 1709](/lifecycle/products/windows-server?branch=live)<br> | Τρίτη, 9 Απριλίου 2019 |
 | [Microsoft Endpoint Configuration Manager, Έκδοση 1710](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | Δευτέρα, 20 Μαΐου 2019 |

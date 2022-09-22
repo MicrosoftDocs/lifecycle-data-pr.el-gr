@@ -2,22 +2,26 @@
 metadata:
   title: Υπηρεσία διαύλου για Windows Server
   description: Ο Δίαυλος Υπηρεσίας για τον Windows Server ακολουθεί την Πολιτική Κύκλου Ζωής Στοιχείων.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 2d94e7c188c7164e0f7be80bc8eca33c3ede0edf
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.date: 2022/03/24
+  keywords: 
+  ms.openlocfilehash: c8a4ac8dc6f815bcc7b2a8caeb9d42bb1bf2aa7e
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4147633"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518822"
 name: Υπηρεσία διαύλου για Windows Server
-summary: >
+summary: >+
   Ο Δίαυλος Υπηρεσίας για τον Windows Server ακολουθεί την Πολιτική Κύκλου Ζωής [Στοιχείων](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
+
+
 
 
 
   > [!IMPORTANT]
 
-  > Όταν ο Δίαυλος Υπηρεσίας 1.1 είναι στοιχείο του SharePoint Server 2016 ή του SharePoint Server 2013, θα υποστηρίζεται σύμφωνα με τις ημερομηνίες λήξης της υποστήριξης της αντίστοιχης έκδοσης του SharePoint Server.
+  > Το Service Bus 1.1 είναι ένα στοιχείο του SharePoint Server Subscription Edition, του SharePoint Server 2019, του SharePoint Server 2016 και του SharePoint Server 2013 και ακολουθεί τον κύκλο ζωής του γονικού προϊόντος του.
+
 products:
 - windows
 policyType: component

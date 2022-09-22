@@ -2,20 +2,27 @@
 metadata:
   title: Windows 8.1
   description: Τα Windows 8.1 ακολουθούν την Πολιτική Σταθερού Κύκλου Ζωής.
-  ms.date: 09/10/2020
-  keywords: Enterprise,Enterprise N,N,Pro with Media Center,Professional,Professional N,SL
-  ms.openlocfilehash: a3447c6de9bea75452ae7ebf216b401eaab71833
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.date: 09/02/2022
+  keywords: 
+  ms.openlocfilehash: 2dc2e2b41fbb73cbd8456da3fa472c2289ef5c65
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: el-GR
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4123731"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518452"
 name: Windows 8.1
 summary: >+
   Τα Windows 8.1 ακολουθούν την Πολιτική [Σταθερού](/lifecycle/policies/fixed) Κύκλου Ζωής.
 
 
+
   Αυτό ισχύει για τις ακόλουθες εκδόσεις: Enterprise, Enterprise N, N, Pro με Media Center, Professional, Professional N, SL
+
+
+
+  > [!IMPORTANT]
+
+  > Υπενθυμίζουμε ότι το τέλος της υποστήριξης των Windows 8.1 θα είναι στις 10 Ιανουαρίου 2023. Μετά από αυτή την ημερομηνία, αυτό το προϊόν δεν θα λαμβάνει πλέον ενημερώσεις ασφαλείας, ενημερώσεις που δεν σχετίζονται με την ασφάλεια, διορθώσεις σφαλμάτων, τεχνική υποστήριξη ή ηλεκτρονικές ενημερώσεις τεχνικού περιεχομένου.  Εάν οι συσκευές δεν πληρούν τις τεχνικές απαιτήσεις για την εκτέλεση μιας πιο πρόσφατης έκδοσης των Windows, η Microsoft συνιστά την αντικατάσταση της συσκευής με μια άλλη που να υποστηρίζει τα Windows 11. Μεταβείτε [εδώ](https://docs.microsoft.com/lifecycle/announcements/windows-8-1-end-support-january-2023) για αναλυτικές πληροφορίες.
 
 products:
 - windows
@@ -28,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 2013-11-13T00:00:00.000-08:00
   endDate: 2023-01-10T22:59:59.999-08:00
-content: "\n## <a name=\"links\"></a>Συνδέσεις \n* [Συνήθεις ερωτήσεις για τον Κύκλο Ζωής - Προϊόντα των Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση\n* Enterprise N\n* Ν\n* Pro με Media Center\n* Επαγγελματικό\n* Επαγγελματικό N\n* SL"
+content: "\n\n## <a name=\"links\"></a>Συνδέσεις \n* [Συνήθεις ερωτήσεις για τον Κύκλο Ζωής - Προϊόντα των Windows](/lifecycle/faq/windows)\n* [Συχνές ερωτήσεις τεχνικών θεμάτων για τα Windows 8.1](https://prod.support.services.microsoft.com/windows/windows-8-1-support-will-end-on-january-10-2023-3cfd4cde-f611-496a-8057-923fba401e93?preview=true)\n\n\n\n\n## <a name=\"editions\"></a>Εκδόσεις \n* Επιχείρηση\n* Enterprise N\n* Ν\n* Pro με Media Center\n* Επαγγελματικό\n* Επαγγελματικό N\n* SL"
