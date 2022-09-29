@@ -1,13 +1,13 @@
 ---
 title: Λήξη υποστήριξης των προϊόντων για το 2025
 description: Μάθετε ποια προϊόντα θα αποσυρθούν, και ποιων η υποστήριξη θα τερματισθεί ή θα μετακινηθούν από την κύρια υποστήριξη στην εκτεταμένη υποστήριξη το 2025.
-ms.date: 07/26/2022
-ms.openlocfilehash: e8838567dcbd55799be4036be1031dcb5181caab
-ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+ms.date: 09/20/2022
+ms.openlocfilehash: f4b77006c5c2f23c9f624de090a371da2fceeb2c
+ms.sourcegitcommit: 271be77bfed364b789251cdc113296e7e7842cbb
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/09/2022
-ms.locfileid: "4517910"
+ms.lasthandoff: 09/20/2022
+ms.locfileid: "4526155"
 ---
 # <a name="products-ending-support-in-2025"></a>Η υποστήριξη των προϊόντων λήγει το 2025
 
@@ -27,6 +27,13 @@ ms.locfileid: "4517910"
 | [Windows 10 για Επιχειρήσεις και Εκπαίδευση](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Οικιακό και Pro](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 14 Οκτωβρίου 2025 |
 
 
+## <a name="release-end-of-servicing"></a>Ανακοίνωση τέλους συντήρησης
+
+Οι ακόλουθες εκδόσεις προϊόντων, που διέπονται από τη [Σύγχρονη Πολιτική](/lifecycle/policies/modern), θα φτάσουν στο τέλος της υποστήριξης το 2025.
+
+| Προϊόν | Τέλος συντήρησης |
+| --- | --- |
+| [Windows 11 Enterprise (για επιχειρήσεις) και Education, Έκδοση 22H2](/lifecycle/products/windows-11-enterprise-and-education?branch=live)<br>[Windows 11 IoT Enterprise, Έκδοση 22H2](/lifecycle/products/windows-11-iot-enterprise?branch=live)<br> | 14 Οκτωβρίου 2025 |
 
 
 ## <a name="products-reaching-end-of-support"></a>Λήξη υποστήριξης προϊόντος
