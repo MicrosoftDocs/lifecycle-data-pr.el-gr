@@ -1,13 +1,13 @@
 ---
 title: Λήξη υποστήριξης των προϊόντων για το 2023
 description: Μάθετε ποια προϊόντα θα αποσυρθούν, και ποιων η υποστήριξη θα τερματισθεί ή θα μετακινηθούν από την κύρια υποστήριξη στην εκτεταμένη υποστήριξη το 2023.
-ms.date: 09/13/2022
-ms.openlocfilehash: 14252d5922ab850dbdc90c4ef3a8d58cad40892f
-ms.sourcegitcommit: b88b4db4bcd8ffe5d63ffa23a2a518ac25a4f635
+ms.date: 09/21/2022
+ms.openlocfilehash: facaf412f81123ef165642fd5c6692dc121fe123
+ms.sourcegitcommit: 369efbff28148903c4c47e5d1ae453fcc2cc9ae6
 ms.translationtype: HT
 ms.contentlocale: el-GR
-ms.lasthandoff: 09/13/2022
-ms.locfileid: "4521058"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "4526866"
 ---
 # <a name="products-ending-support-in-2023"></a>Η υποστήριξη των προϊόντων λήγει το 2023
 
@@ -36,13 +36,12 @@ ms.locfileid: "4521058"
 | Προϊόν | Τέλος συντήρησης |
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager, Έκδοση 2107](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | Πέμπτη, 2 Φεβρουαρίου 2023 |
-| [Microsoft Endpoint Configuration Manager, έκδοση 2207](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | Κυριακή, 12 Φεβρουαρίου 2023 |
 | [Dynamics 365 Business Central εντός εγκαταστάσεων (Σύγχρονη Πολιτική), κύμα 2 κυκλοφορία 2021, έκδοση 19.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | Τετάρτη, 12 Απριλίου 2023 |
 | [Windows 10 Enterprise και Education, Έκδοση 20H2](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Enterprise, Έκδοση 20H2](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | Τρίτη, 9 Μαΐου 2023 |
 | [Microsoft Endpoint Configuration Manager, έκδοση 2111](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | Πέμπτη, 1 Ιουνίου 2023 |
 | [Windows 10 Home (οικιακό) και Pro, έκδοση 21H2](/lifecycle/products/windows-10-home-and-pro?branch=live)<br> | Τρίτη, 13 Ιουνίου 2023 |
 | [Microsoft Endpoint Configuration Manager, έκδοση 2203](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | Παρασκευή, 6 Οκτωβρίου 2023 |
-| [Dynamics 365 Business Central εντός εγκαταστάσεων (Σύγχρονη Πολιτική), κύμα 1 κυκλοφορία 2022, έκδοση 20.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br>[Windows 11 Home και Pro (Έκδοση 21H2), Αρχική κυκλοφορία (Έκδοση 21H2)](/lifecycle/products/windows-11-home-and-pro-version-21h2?branch=live)<br> | 10 Οκτωβρίου 2023 |
+| [Dynamics 365 Business Central εντός εγκαταστάσεων (Σύγχρονη Πολιτική), κύμα 1 κυκλοφορία 2022, έκδοση 20.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br>[Windows 11 Home (οικιακό) και Pro, Έκδοση 21H2](/lifecycle/products/windows-11-home-and-pro?branch=live)<br> | 10 Οκτωβρίου 2023 |
 
 
 ## <a name="products-reaching-end-of-support"></a>Λήξη υποστήριξης προϊόντος
